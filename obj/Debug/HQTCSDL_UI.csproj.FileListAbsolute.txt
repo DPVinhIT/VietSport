@@ -1,0 +1,11 @@
+C:\Users\dovin\source\repos\HQTCSDL_UI\bin\Debug\HQTCSDL_UI.exe.config
+C:\Users\dovin\source\repos\HQTCSDL_UI\bin\Debug\HQTCSDL_UI.exe
+C:\Users\dovin\source\repos\HQTCSDL_UI\bin\Debug\HQTCSDL_UI.pdb
+C:\Users\dovin\source\repos\HQTCSDL_UI\obj\Debug\HQTCSDL_UI.csproj.AssemblyReference.cache
+C:\Users\dovin\source\repos\HQTCSDL_UI\obj\Debug\HQTCSDL_UI.Form1.resources
+C:\Users\dovin\source\repos\HQTCSDL_UI\obj\Debug\HQTCSDL_UI.Properties.Resources.resources
+C:\Users\dovin\source\repos\HQTCSDL_UI\obj\Debug\HQTCSDL_UI.csproj.GenerateResource.cache
+C:\Users\dovin\source\repos\HQTCSDL_UI\obj\Debug\HQTCSDL_UI.csproj.CoreCompileInputs.cache
+C:\Users\dovin\source\repos\HQTCSDL_UI\obj\Debug\HQTCSDL_UI.exe
+C:\Users\dovin\source\repos\HQTCSDL_UI\obj\Debug\HQTCSDL_UI.pdb
+C:\Users\dovin\source\repos\HQTCSDL_UI\obj\Debug\HQTCSDL_UI.Form2.resources

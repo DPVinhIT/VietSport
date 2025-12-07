@@ -1,0 +1,17 @@
+CanCelRuleID,RuleName,MinimumTime,TimeUnit,PenaltyFee,MID
+CRL001,Hủy trước 24h - Miễn phí,24,Giờ,0,EMP0127
+CRL002,Hủy trước 12h - Phí 20%,12,Giờ,50000,EMP0073
+CRL003,Hủy trước 6h - Phí 50%,6,Giờ,100000,EMP0052
+CRL004,Hủy trước 2h - Phí 80%,2,Giờ,150000,EMP0035
+CRL005,Hủy sát giờ - Phí 100%,1,Giờ,200000,EMP0128
+CRL006,Hủy do thời tiết - Miễn phí,0,Giờ,0,EMP0001
+CRL007,Hủy do sự cố kỹ thuật - Hoàn 100%,0,Giờ,0,EMP0133
+CRL008,Hủy booking nhóm trước 48h,48,Giờ,100000,EMP0027
+CRL009,Hủy gói tháng - Theo điều khoản,7,Ngày,500000,EMP0044
+CRL010,Hủy HLV trước 4h,4,Giờ,100000,EMP0015
+CRL011,Hủy phòng VIP trước 3h,3,Giờ,150000,EMP0118
+CRL012,Chính sách đổi lịch miễn phí,6,Giờ,0,EMP0140
+CRL013,Chính sách hoàn tiền khẩn cấp,0,Giờ,50000,EMP0012
+CRL014,Quy định hủy giờ cao điểm,12,Giờ,200000,EMP0007
+CRL015,Quy định hủy cuối tuần,24,Giờ,150000,EMP0054
+CRL016,Hủy do sức khỏe có chứng từ,0,Giờ,0,EMP0127

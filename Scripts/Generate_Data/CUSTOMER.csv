@@ -1,0 +1,801 @@
+CustomerID,FullName,Birthday,PhoneNumber,Email,Address,IsOnline,IsDirectly,AccountLogin
+CUS00001,Cô Bảo Đặng,2006-11-13,0533738987,wduong@example.com,"102 Jane Khu, Thanh Khê, Đà Nẵng",0,1,vhoang
+CUS00002,Anh Hưng Vũ,2002-05-30,0837780529,phamjane@example.org,"198 Đặng Khu, Gò Vấp, TP. Hồ Chí Minh",0,1,duongjohn
+CUS00003,An Vũ,2009-03-12,0753666845,kdang@example.org,"169 John Dãy, Tân Bình, TP. Hồ Chí Minh",1,0,john22
+CUS00004,Ông Vũ Mai,1996-04-30,0999966361,johntran@example.com,"85 Dương Số, Quận 5, TP. Hồ Chí Minh",1,0,maijane
+CUS00005,Quý cô Nhật Phạm,1993-12-23,0712182097,vpham@example.net,"164 Bùi Đường, Long Biên, Hà Nội",1,1,jane63
+CUS00006,Duyên Đặng,1971-03-16,0548170580,john29@example.org,"53 Lê Hẻm, Thanh Xuân, Hà Nội",1,1,johnduong
+CUS00007,Thành Đức Trần,1977-09-16,0586716323,kle@example.com,"29 Jane Dãy, Đống Đa, Hà Nội",1,0,jane631
+CUS00008,Linh Nguyễn,1983-11-24,0949387430,john32@example.com,"155 Lê Tổ, Đống Đa, Hà Nội",0,0,
+CUS00009,Nhật Phú Nguyễn,1976-05-26,0797779014,johnvu@example.com,"135 Hoàng Hẻm, Thanh Khê, Đà Nẵng",0,0,
+CUS00010,Lâm Bùi,1998-12-28,0926329676,znguyen@example.com,"101 Dương Số, Sơn Trà, Đà Nẵng",0,1,
+CUS00011,Hải Thị Trần,2010-11-10,0548413768,wle@example.net,"62 Jane Ngõ, Hải Châu, Đà Nẵng",0,1,john66
+CUS00012,Bà Hương Trần,1975-06-10,0543807017,john55@example.net,"116 Hoàng Dãy, Hoàng Mai, Hà Nội",0,1,aduong
+CUS00013,Khoa Mai Bảo Bùi,1987-02-05,0341257771,dvu@example.net,"10 John Ngõ, Gò Vấp, TP. Hồ Chí Minh",1,1,johndang
+CUS00014,Cô Hồng Đặng,1973-09-14,0520912418,duongjane@example.org,"72 John Đường, Tân Bình, TP. Hồ Chí Minh",0,1,
+CUS00015,Chị Kim Bùi,2003-04-05,0852308370,npham@example.net,"40 John Ngõ, Quận 10, TP. Hồ Chí Minh",1,1,jane55
+CUS00016,Khoa Văn Đặng,2007-07-11,0770900633,janehoang@example.com,"100 Lê Tổ, Hải Châu, Đà Nẵng",0,1,
+CUS00017,Tú Phạm,1986-10-22,0513122068,npham@example.org,"87 Hoàng Dãy, Quận 1, TP. Hồ Chí Minh",0,1,jane31
+CUS00018,Quý ông Bảo Bùi,1974-10-31,0861331552,tranjane@example.org,"139 John Ngõ, Thanh Khê, Đà Nẵng",0,1,
+CUS00019,Hà Mai Vũ,1970-09-03,0795013649,jane82@example.org,"17 Jane Hẻm, Cầu Giấy, Hà Nội",0,1,dangjane
+CUS00020,Hải Trần,1992-05-30,0395625257,jane76@example.org,"65 Đặng Đường, Thanh Khê, Đà Nẵng",0,1,
+CUS00021,Nhật Mai Bảo Nguyễn,1973-01-11,0938903091,janeduong@example.net,"98 Dương Số, Ngũ Hành Sơn, Đà Nẵng",1,1,phamjohn
+CUS00022,Anh Thế Trần,1983-11-09,0325743263,john58@example.org,"21 Hoàng Ngõ, Thủ Đức, TP. Hồ Chí Minh",1,1,imai
+CUS00023,Anh Dũng Bùi,1998-10-20,0724508640,vujane@example.org,"190 John Hẻm, Ngũ Hành Sơn, Đà Nẵng",1,0,janenguyen
+CUS00024,Cô Hạnh Lê,1980-04-10,0539685270,kbui@example.org,"171 John Số, Hải Châu, Đà Nẵng",0,1,johnvu
+CUS00025,Cô Duyên Nguyễn,1972-11-24,0512983381,tranjohn@example.net,"53 Nguyễn Làng, Thanh Khê, Đà Nẵng",0,1,jane28
+CUS00026,Tùng Hải Trần,1989-02-13,0934497347,janetran@example.com,"46 Hoàng Đường, Gò Vấp, TP. Hồ Chí Minh",0,1,
+CUS00027,Chị Kim Vũ,1973-08-03,0996270661,nguyenjane@example.org,"109 Jane Tổ, Long Biên, Hà Nội",0,1,vvu
+CUS00028,Trung Nguyễn,2004-01-16,0767474689,mle@example.com,"45 Trần Tổ, Cẩm Lệ, Đà Nẵng",0,1,
+CUS00029,Quý ông Quang Bùi,1991-07-28,0500857666,johnnguyen@example.com,"40 Dương Đường, Cầu Giấy, Hà Nội",1,1,john34
+CUS00030,Bà Mai Nguyễn,2003-04-18,0801692364,john72@example.com,"19 Vũ Dãy, Liên Chiểu, Đà Nẵng",1,1,nguyenjane
+CUS00031,Bà Hạnh Dương,2004-08-06,0706633705,vujohn@example.com,"126 Jane Ngõ, Cẩm Lệ, Đà Nẵng",0,0,
+CUS00032,Duyên Trần,1998-04-21,0824399201,wpham@example.org,"155 John Làng, Quận 10, TP. Hồ Chí Minh",0,1,
+CUS00033,Chị Phương Dương,2004-08-01,0918362644,johnle@example.net,"181 Jane Số, Hoàng Mai, Hà Nội",1,0,lejohn
+CUS00034,Bác Quang Đặng,1992-06-16,0319524364,hoangjane@example.org,"193 Jane Tổ, Hoàng Mai, Hà Nội",0,1,jane47
+CUS00035,Anh Huy Vũ,1970-04-16,0886462252,rduong@example.org,"18 John Số, Quận 3, TP. Hồ Chí Minh",0,0,
+CUS00036,Chị An Vũ,2001-08-01,0932302346,lejane@example.net,"116 Nguyễn Tổ, Hải Châu, Đà Nẵng",1,1,johnmai
+CUS00037,Anh Hưng Phạm,1989-10-08,0361415093,john60@example.net,"76 Jane Ngõ, Quận 3, TP. Hồ Chí Minh",0,1,
+CUS00038,Kim Thị Mai,1991-06-09,0390138069,john01@example.org,"69 Đặng Làng, Quận 1, TP. Hồ Chí Minh",0,0,
+CUS00039,Thành Hoàng,1993-04-30,0796555535,jane97@example.net,"194 Hoàng Khu, Long Biên, Hà Nội",0,0,
+CUS00040,Trung Nguyễn,1999-11-01,0376209184,duongjohn@example.org,"26 Đặng Đường, Hai Bà Trưng, Hà Nội",1,1,janepham
+CUS00041,Chị Thảo Dương,2001-05-14,0963050505,jane54@example.net,"122 Hoàng Ngõ, Cẩm Lệ, Đà Nẵng",0,1,jane41
+CUS00042,Bảo Quang Hoàng,2000-05-30,0871649328,john89@example.net,"90 Trần Khu, Hải Châu, Đà Nẵng",0,1,dtran
+CUS00043,Hải Mai,2009-04-22,0814872717,johndang@example.net,"33 Jane Tổ, Hải Châu, Đà Nẵng",0,0,
+CUS00044,Cô Mai Đặng,1999-09-22,0360256434,hoangjane@example.org,"23 Dương Hẻm, Cẩm Lệ, Đà Nẵng",0,1,janemai
+CUS00045,Thành Phạm,1999-11-15,0815399156,jane06@example.org,"137 Hoàng Hẻm, Quận 5, TP. Hồ Chí Minh",0,0,
+CUS00046,Quý cô Vi Phạm,2010-10-30,0541411159,johnduong@example.net,"60 Jane Số, Hoàng Mai, Hà Nội",0,0,
+CUS00047,Cô Duyên Vũ,1978-06-10,0340983665,johndang@example.org,"148 Đặng Hẻm, Hoàng Mai, Hà Nội",0,1,vujohn
+CUS00048,Ánh Đặng,2004-08-06,0993160875,john55@example.com,"170 Mai Làng, Tân Phú, TP. Hồ Chí Minh",1,1,johnle
+CUS00049,Quý cô Nhật Bùi,1976-06-28,0942095481,john51@example.org,"38 Jane Dãy, Ngũ Hành Sơn, Đà Nẵng",0,1,john74
+CUS00050,Hoàng Trần,1982-04-08,0760523302,jane97@example.org,"127 John Hẻm, Cầu Giấy, Hà Nội",0,0,
+CUS00051,Cô Hà Đặng,2008-06-07,0965675661,john50@example.net,"6 Jane Số, Thanh Khê, Đà Nẵng",0,1,
+CUS00052,Thành Văn Đặng,1993-09-05,0325904729,vujohn@example.com,"101 Phạm Hẻm, Liên Chiểu, Đà Nẵng",0,1,
+CUS00053,Ông Châu Hoàng,1976-03-03,0505912662,jane91@example.net,"192 Jane Số, Quận 7, TP. Hồ Chí Minh",0,1,
+CUS00054,Bà Phương Trần,1972-07-11,0959626301,avu@example.net,"31 Jane Hẻm, Quận 1, TP. Hồ Chí Minh",1,0,johnbui
+CUS00055,Khoa Hoàng Vũ,1980-10-21,0817647501,janeduong@example.org,"168 Trần Khu, Thanh Khê, Đà Nẵng",1,1,jane80
+CUS00056,Nhật Trần,1975-03-26,0399974192,johnbui@example.net,"58 John Tổ, Liên Chiểu, Đà Nẵng",1,1,cdang
+CUS00057,Phương Hoàng Vũ,1987-03-23,0718260688,xbui@example.org,"26 Jane Làng, Thanh Khê, Đà Nẵng",0,1,zmai
+CUS00058,Yến Mai,2005-02-22,0331292087,lejohn@example.org,"183 Jane Làng, Liên Chiểu, Đà Nẵng",0,1,
+CUS00059,Xuân Phạm,2005-11-28,0518401184,jane22@example.com,"168 Mai Ngõ, Thanh Khê, Đà Nẵng",1,1,phamjane
+CUS00060,Thành Nguyễn,1986-04-23,0708487297,tranjohn@example.com,"64 John Khu, Hải Châu, Đà Nẵng",0,1,
+CUS00061,Hà Trần,2001-03-07,0303032432,jane71@example.org,"177 John Đường, Cầu Giấy, Hà Nội",1,0,zhoang
+CUS00062,Thành Hải Lê,1997-01-04,0384462671,janetran@example.com,"109 Jane Hẻm, Liên Chiểu, Đà Nẵng",0,1,phamjane1
+CUS00063,Ông Tú Mai,1981-05-27,0343598926,janemai@example.com,"53 Bùi Làng, Tân Phú, TP. Hồ Chí Minh",0,0,
+CUS00064,Quý ông Quang Phạm,2006-11-08,0931418186,kle@example.net,"7 Trần Làng, Hoàng Mai, Hà Nội",1,0,hmai
+CUS00065,Châu Nguyễn,1972-12-16,0540163611,jane63@example.com,"38 Trần Dãy, Thanh Xuân, Hà Nội",1,1,janele
+CUS00066,Huy Trần,1977-11-19,0959484910,ldang@example.net,"25 Jane Hẻm, Ngũ Hành Sơn, Đà Nẵng",0,0,
+CUS00067,Cô Khoa Dương,1977-08-29,0989679240,phamjohn@example.com,"190 Jane Khu, Bình Thạnh, TP. Hồ Chí Minh",1,0,john47
+CUS00068,Cô Bảo Dương,2000-10-20,0739672757,janedang@example.com,"14 John Đường, Thanh Xuân, Hà Nội",0,1,johnvu1
+CUS00069,Quý ông Tùng Hoàng,1992-07-12,0714651113,phamjohn@example.org,"59 Mai Dãy, Cẩm Lệ, Đà Nẵng",1,0,avu
+CUS00070,Vân Dương,1974-03-15,0806827788,john43@example.net,"142 Dương Tổ, Sơn Trà, Đà Nẵng",1,1,johndang1
+CUS00071,Vi Mai,2001-04-22,0885389097,nguyenjane@example.com,"183 Lê Hẻm, Quận 1, TP. Hồ Chí Minh",1,1,phamjohn1
+CUS00072,Anh Trọng Phạm,1977-07-24,0352850676,hoangjohn@example.net,"45 Hoàng Hẻm, Thanh Khê, Đà Nẵng",0,0,
+CUS00073,Bà Hồng Vũ,1977-08-25,0344744309,tranjohn@example.com,"139 John Dãy, Thanh Khê, Đà Nẵng",1,1,jane14
+CUS00074,Quý cô Duyên Phạm,1987-08-29,0897050975,phamjane@example.org,"10 Hoàng Tổ, Liên Chiểu, Đà Nẵng",1,1,jane11
+CUS00075,Quý cô Vân Nguyễn,1983-05-21,0701673188,oduong@example.net,"103 John Đường, Thanh Khê, Đà Nẵng",1,1,janeduong
+CUS00076,Quý ông Anh Trần,2010-04-22,0737654562,john80@example.com,"40 Phạm Khu, Ba Đình, Hà Nội",1,1,john17
+CUS00077,An Hải Lê,1994-01-23,0760531340,vmai@example.org,"36 Đặng Dãy, Đống Đa, Hà Nội",0,1,janevu
+CUS00078,Tùng Vũ,1975-12-31,0574167872,jane80@example.net,"171 Jane Tổ, Quận 5, TP. Hồ Chí Minh",1,0,janebui
+CUS00079,Lan Nguyễn,1984-07-28,0310225803,jane71@example.org,"34 Mai Tổ, Hoàng Mai, Hà Nội",0,0,
+CUS00080,Nhiên Mai Bùi,1972-05-02,0844716392,janenguyen@example.net,"112 Jane Đường, Hải Châu, Đà Nẵng",0,1,
+CUS00081,Cô Dương Phạm,2002-09-18,0837189239,johntran@example.com,"171 John Đường, Cầu Giấy, Hà Nội",0,1,
+CUS00082,Xuân Vũ,1998-03-19,0560931066,mhoang@example.com,"50 Trần Tổ, Quận 10, TP. Hồ Chí Minh",0,1,john57
+CUS00083,Chị Nhật Lê,1993-07-20,0870860414,janetran@example.net,"87 John Hẻm, Quận 7, TP. Hồ Chí Minh",1,1,jane71
+CUS00084,Vi Đặng,1986-04-23,0320005347,johnvu@example.com,"82 Jane Làng, Cầu Giấy, Hà Nội",1,1,maijane1
+CUS00085,Tú Dương,1982-07-27,0711082555,johnhoang@example.net,"86 Jane Ngõ, Hai Bà Trưng, Hà Nội",0,1,ybui
+CUS00086,Kim Hoàng,2003-04-30,0961129109,fnguyen@example.net,"54 John Số, Sơn Trà, Đà Nẵng",0,1,janeduong1
+CUS00087,Bà Lâm Lê,2010-12-02,0389547382,vujane@example.net,"26 Jane Tổ, Tân Bình, TP. Hồ Chí Minh",0,0,
+CUS00088,Quý ông Tú Mai,1971-12-19,0955716176,dhoang@example.net,"195 John Hẻm, Sơn Trà, Đà Nẵng",1,1,janevu1
+CUS00089,Anh Anh Mai,1993-06-30,0540903678,qle@example.com,"179 Dương Làng, Sơn Trà, Đà Nẵng",0,1,phamjane2
+CUS00090,Ánh Trần,2009-01-14,0869432029,john03@example.org,"144 John Tổ, Ngũ Hành Sơn, Đà Nẵng",0,1,dangjohn
+CUS00091,Lan Mai,1979-10-09,0944344812,onguyen@example.com,"129 Jane Dãy, Ngũ Hành Sơn, Đà Nẵng",0,1,
+CUS00092,Vi Dương,1980-01-17,0540338105,janemai@example.com,"72 Bùi Đường, Quận 5, TP. Hồ Chí Minh",1,1,john38
+CUS00093,Bà Linh Nguyễn,1998-05-19,0569450053,janepham@example.com,"68 John Ngõ, Liên Chiểu, Đà Nẵng",0,1,johnle1
+CUS00094,Quý cô Thành Hoàng,2002-10-08,0916498373,tvu@example.org,"200 Vũ Tổ, Cẩm Lệ, Đà Nẵng",0,1,
+CUS00095,Quang Dương,1984-07-18,0565271727,janetran@example.org,"115 Phạm Ngõ, Đống Đa, Hà Nội",1,1,maijohn
+CUS00096,Hải Hoàng,1978-04-20,0704226931,ldang@example.com,"166 Phạm Làng, Thanh Khê, Đà Nẵng",0,1,
+CUS00097,Vi Dương,1976-06-09,0920916601,jane45@example.net,"26 John Làng, Ngũ Hành Sơn, Đà Nẵng",1,1,johnpham
+CUS00098,Bà Hải Bùi,2007-01-29,0342900185,enguyen@example.com,"64 John Dãy, Quận 5, TP. Hồ Chí Minh",1,0,kbui
+CUS00099,Nhật Xuân Phạm,2008-04-01,0757230848,tranjane@example.net,"42 Trần Khu, Ngũ Hành Sơn, Đà Nẵng",0,1,unguyen
+CUS00100,Tú Trí Phạm,1975-07-10,0962030366,janeduong@example.com,"27 Jane Làng, Sơn Trà, Đà Nẵng",1,1,john85
+CUS00101,Bác Minh Nguyễn,1976-08-11,0372131451,lejane@example.com,"176 Jane Ngõ, Ngũ Hành Sơn, Đà Nẵng",1,1,jane59
+CUS00102,Lan Bùi,1997-08-14,0526859262,nguyenjane@example.org,"155 Jane Số, Quận 1, TP. Hồ Chí Minh",1,1,jane53
+CUS00103,Hà Bảo Đặng,2010-01-23,0854102252,nguyenjane@example.net,"70 Dương Đường, Hoàn Kiếm, Hà Nội",0,1,
+CUS00104,Thành Thị Lê,1987-07-10,0964215226,hoangjane@example.org,"29 Jane Đường, Hoàn Kiếm, Hà Nội",0,0,
+CUS00105,Quý cô Hương Bùi,1985-10-26,0723668788,xnguyen@example.net,"155 Bùi Đường, Ngũ Hành Sơn, Đà Nẵng",1,1,johnvu2
+CUS00106,Bà Khoa Vũ,1992-02-05,0889313503,johnbui@example.org,"149 Trần Ngõ, Hoàn Kiếm, Hà Nội",0,0,
+CUS00107,Vũ Thị Vũ,2008-02-27,0752472863,john34@example.org,"16 Vũ Hẻm, Quận 3, TP. Hồ Chí Minh",1,1,nguyenjohn
+CUS00108,Lâm Thế Hoàng,1979-06-15,0806501917,tranjohn@example.org,"37 Lê Đường, Cẩm Lệ, Đà Nẵng",0,1,phamjane3
+CUS00109,Chị Ánh Vũ,2007-07-26,0309622728,hle@example.com,"63 John Làng, Quận 3, TP. Hồ Chí Minh",0,1,qvu
+CUS00110,Chị Chi Lê,2001-05-03,0320092820,nguyenjane@example.com,"74 John Dãy, Ba Đình, Hà Nội",0,1,
+CUS00111,Ông Phúc Hoàng,1987-10-13,0984362418,jane78@example.org,"67 Jane Tổ, Cẩm Lệ, Đà Nẵng",0,1,
+CUS00112,Thành Đặng,1986-12-08,0828917756,lejohn@example.net,"57 Jane Số, Hải Châu, Đà Nẵng",0,1,vnguyen
+CUS00113,Thành Đức Hoàng,2007-02-09,0711159503,lejohn@example.net,"50 John Đường, Hoàng Mai, Hà Nội",1,1,john08
+CUS00114,Quang Đặng,1982-08-29,0738303419,hoangjane@example.net,"3 John Ngõ, Thủ Đức, TP. Hồ Chí Minh",1,1,janenguyen1
+CUS00115,Quang Mai,1995-05-03,0714054683,hnguyen@example.net,"13 John Hẻm, Ba Đình, Hà Nội",1,0,johnbui1
+CUS00116,Anh Mai Bảo Phạm,1984-02-09,0881820967,ypham@example.org,"85 John Tổ, Quận 3, TP. Hồ Chí Minh",0,0,
+CUS00117,Anh Quang Vũ,1996-04-20,0333228898,john07@example.net,"21 Trần Số, Ngũ Hành Sơn, Đà Nẵng",0,1,phamjane4
+CUS00118,Quý ông Thành Nguyễn,2004-06-24,0960633991,bvu@example.net,"93 Phạm Tổ, Thanh Xuân, Hà Nội",1,0,janepham1
+CUS00119,Lâm Mai,1976-11-01,0781717524,hoangjohn@example.com,"37 Nguyễn Ngõ, Quận 1, TP. Hồ Chí Minh",0,0,
+CUS00120,Cô Nhật Vũ,1977-03-30,0574747219,jane82@example.net,"19 Trần Ngõ, Hoàn Kiếm, Hà Nội",1,1,john23
+CUS00121,Trọng Dương,1991-11-26,0575895516,john99@example.com,"159 John Dãy, Hoàng Mai, Hà Nội",1,0,rtran
+CUS00122,Vân Dương,1992-09-11,0338021462,phamjohn@example.net,"159 Trần Làng, Hải Châu, Đà Nẵng",0,0,
+CUS00123,Thảo Đặng,1995-07-30,0357787112,phamjohn@example.net,"172 John Ngõ, Long Biên, Hà Nội",1,1,jane20
+CUS00124,Quý cô Yến Trần,2002-10-29,0851559737,jane53@example.net,"52 Mai Khu, Hoàng Mai, Hà Nội",1,0,janeduong2
+CUS00125,Hoàng Hữu Hoàng,1975-02-17,0559096056,tranjohn@example.net,"38 Jane Làng, Tân Bình, TP. Hồ Chí Minh",1,1,johntran
+CUS00126,Chị Lan Nguyễn,1991-03-28,0721214614,zle@example.com,"70 Lê Đường, Gò Vấp, TP. Hồ Chí Minh",1,1,phamjohn2
+CUS00127,Nhật Tấn Bùi,2009-03-12,0720165423,jane53@example.org,"172 Vũ Tổ, Thanh Khê, Đà Nẵng",0,0,
+CUS00128,Huy Phạm,1985-09-01,0960893199,wbui@example.com,"91 Đặng Hẻm, Gò Vấp, TP. Hồ Chí Minh",0,1,
+CUS00129,Nhật Phạm,1976-06-27,0702727516,johnbui@example.com,"189 Jane Số, Cẩm Lệ, Đà Nẵng",1,0,johnhoang
+CUS00130,Bà Nhật Vũ,1981-10-15,0910336829,johntran@example.net,"164 Bùi Số, Tân Bình, TP. Hồ Chí Minh",0,1,johnhoang1
+CUS00131,Tú Hải Lê,1986-12-08,0750448177,vle@example.net,"4 Bùi Dãy, Thủ Đức, TP. Hồ Chí Minh",1,1,john00
+CUS00132,Quý ông Tú Bùi,1988-07-28,0576528928,sle@example.net,"30 John Tổ, Sơn Trà, Đà Nẵng",0,1,
+CUS00133,Phương Mai Bảo Hoàng,1989-07-21,0791111096,johnmai@example.net,"112 Dương Hẻm, Cẩm Lệ, Đà Nẵng",1,0,janevu2
+CUS00134,Cô Phương Vũ,1974-08-26,0889046337,jane02@example.com,"163 Dương Tổ, Hải Châu, Đà Nẵng",0,0,
+CUS00135,Tùng Đặng,1994-09-29,0866053844,nguyenjane@example.net,"90 Trần Làng, Hoàn Kiếm, Hà Nội",1,1,sdang
+CUS00136,Cô Chi Phạm,2009-06-16,0800025895,john34@example.com,"2 Dương Đường, Cầu Giấy, Hà Nội",0,1,
+CUS00137,Bảo Xuân Đặng,1985-01-12,0839609626,dangjohn@example.org,"143 Mai Hẻm, Cầu Giấy, Hà Nội",1,1,jane74
+CUS00138,Nhiên Tấn Hoàng,2002-08-30,0512819648,lmai@example.com,"112 Jane Khu, Thanh Khê, Đà Nẵng",1,0,maijane2
+CUS00139,Hà Bảo Nguyễn,1977-02-18,0920981960,mduong@example.net,"161 Vũ Dãy, Ba Đình, Hà Nội",0,1,tranjane
+CUS00140,Quý cô An Lê,2003-04-20,0723343836,rhoang@example.com,"200 Nguyễn Dãy, Cẩm Lệ, Đà Nẵng",0,0,
+CUS00141,Anh Tùng Phạm,2004-07-23,0391179112,janemai@example.net,"161 Trần Khu, Quận 5, TP. Hồ Chí Minh",1,1,tranjohn
+CUS00142,Hương Vũ,1982-09-02,0561706171,john93@example.org,"93 John Làng, Tân Bình, TP. Hồ Chí Minh",1,1,johnmai1
+CUS00143,Thành Quang Lê,1979-06-08,0702990155,jmai@example.org,"47 John Tổ, Đống Đa, Hà Nội",0,1,nguyenjohn1
+CUS00144,Anh Phúc Vũ,1991-09-16,0339080882,maijohn@example.org,"66 Dương Tổ, Cẩm Lệ, Đà Nẵng",0,1,nmai
+CUS00145,Nam Bùi,1979-09-14,0324473158,tranjane@example.org,"57 Jane Làng, Đống Đa, Hà Nội",0,1,hoangjohn
+CUS00146,Tùng Dương,1999-03-31,0834234619,nbui@example.net,"132 Nguyễn Số, Hoàng Mai, Hà Nội",1,0,john221
+CUS00147,An Mai Bảo Bùi,2005-07-31,0869459196,duongjane@example.org,"111 Jane Dãy, Ngũ Hành Sơn, Đà Nẵng",0,1,
+CUS00148,Quý ông Thành Dương,1989-04-04,0508496498,lejane@example.org,"116 Dương Số, Hải Châu, Đà Nẵng",1,1,john70
+CUS00149,Duyên Hoàng,1985-10-20,0731355251,lejane@example.com,"48 Đặng Tổ, Hoàng Mai, Hà Nội",1,1,jane67
+CUS00150,Bà Kim Lê,1970-06-07,0953816493,tranjane@example.org,"120 Lê Làng, Cầu Giấy, Hà Nội",1,1,john33
+CUS00151,Cô Duyên Phạm,1993-08-26,0396655330,maijane@example.com,"172 Phạm Khu, Liên Chiểu, Đà Nẵng",1,1,vujohn1
+CUS00152,Bảo Bùi,2006-01-03,0595963904,duongjane@example.net,"116 Jane Hẻm, Quận 3, TP. Hồ Chí Minh",0,1,johnnguyen
+CUS00153,Bác Tùng Phạm,1970-10-20,0560880501,bpham@example.net,"73 Bùi Dãy, Tân Bình, TP. Hồ Chí Minh",0,0,
+CUS00154,Trọng Mai,1991-01-29,0756185790,john69@example.org,"71 John Tổ, Sơn Trà, Đà Nẵng",1,0,gtran
+CUS00155,Nam Lê,1987-08-24,0910300215,janenguyen@example.com,"96 John Làng, Hoàn Kiếm, Hà Nội",1,0,ztran
+CUS00156,Quý cô Khoa Bùi,2008-08-21,0304010414,johnduong@example.net,"138 John Làng, Bình Thạnh, TP. Hồ Chí Minh",0,1,duongjohn1
+CUS00157,Quang Trí Dương,1984-10-09,0529712529,john83@example.org,"179 John Hẻm, Thanh Xuân, Hà Nội",0,0,
+CUS00158,Chị Mai Phạm,2009-10-28,0388397745,jane89@example.net,"172 John Hẻm, Ngũ Hành Sơn, Đà Nẵng",0,0,
+CUS00159,Phương Đặng,2004-08-28,0933117030,john51@example.net,"91 Jane Hẻm, Hoàn Kiếm, Hà Nội",0,1,aduong1
+CUS00160,Tú Bảo Lê,2000-01-29,0739885472,yle@example.net,"27 Lê Tổ, Tân Bình, TP. Hồ Chí Minh",1,0,bbui
+CUS00161,Phúc Thị Vũ,2008-01-12,0898363146,jane96@example.net,"99 John Số, Bình Thạnh, TP. Hồ Chí Minh",0,0,
+CUS00162,Hoàng Phạm,1977-05-14,0571130724,ydang@example.com,"27 John Số, Cẩm Lệ, Đà Nẵng",0,0,
+CUS00163,Vân Lê,1971-04-14,0763268685,gbui@example.net,"22 Jane Tổ, Tân Phú, TP. Hồ Chí Minh",0,1,duongjohn2
+CUS00164,An Đặng,1972-05-20,0736294897,hpham@example.net,"50 John Đường, Hoàng Mai, Hà Nội",0,1,pdang
+CUS00165,Hạnh Lê,1993-04-07,0309431814,wpham@example.com,"30 Hoàng Hẻm, Quận 7, TP. Hồ Chí Minh",0,1,
+CUS00166,Hải Bùi,1980-02-28,0773235494,jane53@example.net,"57 Jane Ngõ, Hoàn Kiếm, Hà Nội",0,1,qmai
+CUS00167,Tú Văn Bùi,2002-12-02,0732512257,janevu@example.net,"123 Phạm Dãy, Liên Chiểu, Đà Nẵng",1,1,ale
+CUS00168,Nhật Đặng,1976-05-12,0320957907,johnle@example.net,"68 Jane Số, Quận 5, TP. Hồ Chí Minh",0,1,obui
+CUS00169,Chi Nguyễn,2009-03-03,0738822114,maijohn@example.org,"175 Jane Dãy, Thủ Đức, TP. Hồ Chí Minh",1,1,hoangjohn1
+CUS00170,Quý cô Khoa Trần,2006-01-22,0845705458,nguyenjohn@example.org,"170 Jane Khu, Sơn Trà, Đà Nẵng",0,1,
+CUS00171,Chị Hải Mai,2004-09-28,0780263257,janepham@example.org,"29 Nguyễn Làng, Ngũ Hành Sơn, Đà Nẵng",0,0,
+CUS00172,Hạnh Phú Bùi,1971-05-22,0336148782,john78@example.com,"53 John Khu, Hai Bà Trưng, Hà Nội",1,0,janeduong3
+CUS00173,Chi Mai,1981-11-25,0730985916,edang@example.org,"71 John Hẻm, Ngũ Hành Sơn, Đà Nẵng",0,1,janetran
+CUS00174,Anh Khoa Vũ,2005-09-04,0372728498,hoangjane@example.org,"29 John Ngõ, Thanh Xuân, Hà Nội",0,0,
+CUS00175,Vi Vũ,1999-10-20,0803491074,jnguyen@example.com,"4 John Số, Quận 10, TP. Hồ Chí Minh",1,1,bhoang
+CUS00176,Phúc Lê,1970-03-25,0788214236,john31@example.org,"90 John Hẻm, Đống Đa, Hà Nội",0,1,janeduong4
+CUS00177,Nhiên Hoàng Phạm,1996-04-02,0866144942,johnmai@example.org,"174 John Khu, Cầu Giấy, Hà Nội",0,1,johnnguyen1
+CUS00178,Khoa Phạm,1995-04-19,0542683441,tranjohn@example.net,"175 Dương Hẻm, Thanh Khê, Đà Nẵng",0,0,
+CUS00179,Bà Ánh Mai,1983-05-04,0587585756,johntran@example.com,"25 Jane Đường, Hoàng Mai, Hà Nội",0,1,
+CUS00180,Tú Xuân Phạm,1990-12-05,0812943985,phamjohn@example.net,"197 Jane Khu, Hải Châu, Đà Nẵng",0,1,gtran1
+CUS00181,Thành Phú Dương,1975-09-17,0826078701,hpham@example.net,"194 Hoàng Số, Ba Đình, Hà Nội",0,0,
+CUS00182,Nam Nguyễn,1972-06-15,0349750198,hoangjane@example.org,"153 Mai Ngõ, Bình Thạnh, TP. Hồ Chí Minh",1,0,janele1
+CUS00183,Chi Hoàng,2003-03-02,0823244079,johndang@example.org,"144 Phạm Số, Thanh Khê, Đà Nẵng",0,0,
+CUS00184,Phương Mai Bảo Đặng,2000-11-07,0913317087,maijohn@example.org,"31 Dương Dãy, Thủ Đức, TP. Hồ Chí Minh",1,1,jane91
+CUS00185,Hồng Mai,1987-07-12,0584979162,epham@example.com,"48 Dương Ngõ, Long Biên, Hà Nội",1,1,lduong
+CUS00186,Quý cô Vân Lê,1998-07-16,0588377441,john69@example.org,"62 Jane Tổ, Cẩm Lệ, Đà Nẵng",1,1,jane69
+CUS00187,Cô An Dương,1996-05-30,0862047196,hpham@example.net,"119 Jane Tổ, Hải Châu, Đà Nẵng",0,1,john82
+CUS00188,Quý cô Xuân Trần,1970-06-30,0352774025,johndang@example.net,"114 Jane Khu, Liên Chiểu, Đà Nẵng",0,1,
+CUS00189,Ông Nam Nguyễn,1992-06-16,0912259572,janemai@example.net,"100 Mai Đường, Liên Chiểu, Đà Nẵng",0,1,john80
+CUS00190,Chị Nhật Hoàng,1982-06-27,0892988425,nguyenjane@example.org,"97 Đặng Khu, Tân Bình, TP. Hồ Chí Minh",0,1,
+CUS00191,An Mai Bảo Dương,1996-05-31,0323117753,johnhoang@example.net,"12 Jane Tổ, Hoàn Kiếm, Hà Nội",0,1,
+CUS00192,Hương Vũ,2004-08-14,0861094101,maijohn@example.net,"45 John Ngõ, Quận 3, TP. Hồ Chí Minh",0,0,
+CUS00193,Quý cô Duyên Đặng,1989-10-22,0862983347,johntran@example.net,"28 Jane Dãy, Bình Thạnh, TP. Hồ Chí Minh",0,1,
+CUS00194,Quý cô Hương Bùi,1989-08-17,0901302056,johnle@example.net,"23 John Đường, Cầu Giấy, Hà Nội",0,1,
+CUS00195,Thành Hoàng Bùi,1995-06-29,0973397855,maijohn@example.com,"165 Nguyễn Dãy, Cẩm Lệ, Đà Nẵng",0,1,lejane
+CUS00196,Cô Xuân Bùi,1997-09-29,0819128411,jnguyen@example.org,"110 Vũ Đường, Tân Bình, TP. Hồ Chí Minh",0,0,
+CUS00197,Cô Lâm Lê,1992-05-15,0746512418,johnduong@example.org,"58 Jane Khu, Ba Đình, Hà Nội",1,1,choang
+CUS00198,Chị Hồng Nguyễn,1995-10-23,0890819740,janebui@example.com,"80 Jane Tổ, Liên Chiểu, Đà Nẵng",1,1,xdang
+CUS00199,Châu Đặng,1971-06-13,0585037199,phamjane@example.net,"36 Hoàng Số, Ba Đình, Hà Nội",1,1,janemai1
+CUS00200,Lâm Hoàng Dương,2001-07-16,0991872401,rpham@example.org,"107 Jane Ngõ, Hoàn Kiếm, Hà Nội",0,0,
+CUS00201,Vi Trần,1971-08-07,0300389608,hoangjohn@example.com,"59 Đặng Ngõ, Thanh Xuân, Hà Nội",0,1,lejohn1
+CUS00202,Quý cô Vi Vũ,1991-08-18,0882171955,john46@example.net,"111 Hoàng Làng, Thanh Khê, Đà Nẵng",1,0,vujohn2
+CUS00203,Anh Châu Hoàng,1978-09-08,0903689003,jane45@example.com,"24 John Dãy, Quận 7, TP. Hồ Chí Minh",1,0,john09
+CUS00204,Trọng Mai Phạm,2006-06-14,0355934296,wpham@example.com,"73 Jane Đường, Đống Đa, Hà Nội",1,1,vdang
+CUS00205,Cô Mai Mai,1991-06-23,0737458438,jane45@example.com,"127 John Làng, Thanh Khê, Đà Nẵng",0,1,whoang
+CUS00206,Tùng Phú Hoàng,2010-01-21,0769741328,jane82@example.net,"14 John Ngõ, Hải Châu, Đà Nẵng",1,1,johnduong1
+CUS00207,Tú Mai,1980-05-05,0503771070,phamjohn@example.net,"186 Vũ Số, Bình Thạnh, TP. Hồ Chí Minh",1,1,fhoang
+CUS00208,Lâm Văn Hoàng,1982-02-15,0967066703,john49@example.com,"72 Jane Số, Quận 1, TP. Hồ Chí Minh",1,1,janebui1
+CUS00209,Ngọc Đặng,1979-03-25,0708509549,johnmai@example.org,"170 Bùi Số, Hải Châu, Đà Nẵng",1,1,johntran1
+CUS00210,Huy Dương,1979-09-18,0318648769,jane71@example.net,"187 John Số, Hoàng Mai, Hà Nội",0,1,
+CUS00211,Bác Quang Đặng,2002-04-06,0520441384,sduong@example.net,"191 John Hẻm, Long Biên, Hà Nội",0,1,johndang2
+CUS00212,Bác Anh Dương,1985-02-21,0901495427,hoangjane@example.org,"168 Vũ Ngõ, Thanh Xuân, Hà Nội",0,1,odang
+CUS00213,Chị Vi Dương,1990-10-04,0936091498,johntran@example.com,"123 Vũ Hẻm, Bình Thạnh, TP. Hồ Chí Minh",1,1,lejane1
+CUS00214,Bà Nhật Dương,1984-02-02,0532290310,john44@example.net,"127 Mai Đường, Thanh Xuân, Hà Nội",0,1,johnbui2
+CUS00215,Bảo Bùi,1978-04-07,0930440580,jane50@example.org,"11 Bùi Tổ, Sơn Trà, Đà Nẵng",0,0,
+CUS00216,Duyên Phạm,1996-12-09,0913359561,janehoang@example.org,"29 Vũ Số, Ngũ Hành Sơn, Đà Nẵng",1,1,lejane2
+CUS00217,Hưng Trần,1998-10-17,0857490250,jane19@example.com,"86 Mai Số, Sơn Trà, Đà Nẵng",0,1,janehoang
+CUS00218,Cô Mai Trần,1983-01-18,0558895369,johnvu@example.net,"156 John Ngõ, Quận 3, TP. Hồ Chí Minh",0,0,
+CUS00219,Chi Trần,1971-06-19,0598986818,dangjane@example.net,"20 Mai Khu, Hải Châu, Đà Nẵng",0,1,
+CUS00220,Bác Vũ Lê,2005-10-21,0743943535,imai@example.com,"113 Phạm Làng, Liên Chiểu, Đà Nẵng",1,1,johnle2
+CUS00221,Chị Ngọc Hoàng,1980-05-10,0851588157,lmai@example.com,"114 Lê Tổ, Quận 7, TP. Hồ Chí Minh",0,0,
+CUS00222,Ông Trọng Nguyễn,1997-02-23,0936929445,john87@example.net,"33 Lê Dãy, Thủ Đức, TP. Hồ Chí Minh",1,0,johntran2
+CUS00223,Châu Tấn Vũ,1984-01-30,0832702164,qnguyen@example.com,"148 Nguyễn Tổ, Thanh Khê, Đà Nẵng",1,1,gnguyen
+CUS00224,Quý cô Kim Trần,2004-05-04,0360212886,sdang@example.org,"33 Jane Số, Hải Châu, Đà Nẵng",0,0,
+CUS00225,Bảo Thị Trần,2010-07-25,0759991015,cbui@example.net,"31 Đặng Làng, Quận 10, TP. Hồ Chí Minh",0,1,
+CUS00226,Tùng Dương,1990-02-19,0822981209,ldang@example.org,"194 Jane Làng, Thanh Xuân, Hà Nội",0,1,
+CUS00227,Tùng Phú Trần,1996-08-08,0589413475,johntran@example.com,"113 John Làng, Hai Bà Trưng, Hà Nội",1,1,phamjane5
+CUS00228,Châu Đức Bùi,1972-03-02,0756522036,dangjane@example.com,"110 Mai Ngõ, Liên Chiểu, Đà Nẵng",0,0,
+CUS00229,Quý cô Vi Dương,1993-04-15,0721447732,vvu@example.com,"89 Bùi Dãy, Hoàn Kiếm, Hà Nội",1,0,janedang
+CUS00230,Cô Hạnh Dương,1982-12-10,0721388209,phamjohn@example.com,"171 John Dãy, Quận 7, TP. Hồ Chí Minh",0,1,
+CUS00231,Bác Nam Đặng,2010-06-27,0805349678,ole@example.net,"2 John Số, Thanh Khê, Đà Nẵng",1,0,john091
+CUS00232,Quang Trí Mai,1975-08-30,0874124151,janepham@example.net,"114 Phạm Số, Hải Châu, Đà Nẵng",0,1,lejane3
+CUS00233,Dũng Văn Đặng,2003-05-22,0747815061,nbui@example.net,"130 Lê Hẻm, Đống Đa, Hà Nội",0,0,
+CUS00234,An Mai Nguyễn,2001-08-18,0332963347,vujohn@example.org,"10 Jane Ngõ, Cẩm Lệ, Đà Nẵng",0,1,
+CUS00235,Châu Trần,1976-10-17,0383061789,john17@example.com,"163 Jane Dãy, Quận 7, TP. Hồ Chí Minh",0,1,maijohn1
+CUS00236,Phương Quang Lê,1979-05-10,0935782434,tranjane@example.org,"162 Jane Ngõ, Ngũ Hành Sơn, Đà Nẵng",0,1,
+CUS00237,Huy Lê,1999-12-19,0841314675,duongjohn@example.com,"140 Dương Số, Hai Bà Trưng, Hà Nội",0,0,
+CUS00238,Huy Lê,1981-02-05,0827796304,john24@example.org,"89 John Dãy, Hoàn Kiếm, Hà Nội",0,1,hoangjane
+CUS00239,Dương Bùi,1982-01-07,0745667664,lejohn@example.org,"144 Jane Tổ, Ba Đình, Hà Nội",0,0,
+CUS00240,Tùng Lê,2010-12-05,0347639283,janevu@example.net,"163 Jane Dãy, Bình Thạnh, TP. Hồ Chí Minh",1,1,zduong
+CUS00241,Ông Vũ Phạm,2004-12-20,0598006155,johnbui@example.org,"85 Lê Đường, Liên Chiểu, Đà Nẵng",0,0,
+CUS00242,Mai Dương,2004-05-25,0528634255,lejohn@example.org,"138 Jane Khu, Bình Thạnh, TP. Hồ Chí Minh",0,1,johntran3
+CUS00243,Chị Khoa Vũ,1988-07-18,0918670244,janeduong@example.com,"6 Jane Số, Quận 1, TP. Hồ Chí Minh",1,0,john13
+CUS00244,Tùng Hoàng,1971-02-02,0366241118,jane58@example.org,"70 John Số, Quận 1, TP. Hồ Chí Minh",1,0,johnhoang2
+CUS00245,Bác Huy Dương,2002-05-24,0992196394,hoangjohn@example.net,"191 John Hẻm, Quận 1, TP. Hồ Chí Minh",0,0,
+CUS00246,Quý ông Phúc Phạm,2005-03-15,0831497646,wvu@example.com,"71 Hoàng Tổ, Quận 10, TP. Hồ Chí Minh",1,1,janele2
+CUS00247,Chị Hạnh Phạm,1974-03-05,0983607658,tranjohn@example.net,"73 Jane Ngõ, Long Biên, Hà Nội",1,1,duongjane
+CUS00248,Vi Đặng,2002-01-20,0575791452,jane77@example.com,"198 Hoàng Làng, Gò Vấp, TP. Hồ Chí Minh",1,1,lduong1
+CUS00249,Nhật Đức Nguyễn,2006-04-27,0512697893,jane83@example.org,"152 Dương Hẻm, Tân Bình, TP. Hồ Chí Minh",0,1,
+CUS00250,Bác Trung Vũ,1972-08-23,0799604387,jane63@example.net,"10 Phạm Ngõ, Đống Đa, Hà Nội",0,1,sdang1
+CUS00251,Hà Phú Mai,1994-06-22,0888116162,janele@example.com,"119 Nguyễn Đường, Bình Thạnh, TP. Hồ Chí Minh",0,0,
+CUS00252,Nhật Lê,2003-12-14,0810672872,vujane@example.org,"51 John Số, Quận 5, TP. Hồ Chí Minh",1,1,johnpham1
+CUS00253,Thành Trần,2003-08-07,0785959224,zbui@example.org,"76 Mai Khu, Gò Vấp, TP. Hồ Chí Minh",0,1,lejane4
+CUS00254,Vũ Phú Trần,1993-06-21,0947735228,john02@example.net,"133 Nguyễn Làng, Sơn Trà, Đà Nẵng",0,0,
+CUS00255,Hà Mai,2002-01-28,0343318751,qnguyen@example.org,"18 Phạm Tổ, Tân Bình, TP. Hồ Chí Minh",0,1,yhoang
+CUS00256,Bảo Quang Hoàng,1972-09-28,0703446945,janetran@example.net,"58 John Tổ, Liên Chiểu, Đà Nẵng",0,1,idang
+CUS00257,Hương Hoàng,1998-01-05,0519213424,nguyenjane@example.com,"165 Trần Số, Liên Chiểu, Đà Nẵng",0,0,
+CUS00258,Kim Đức Dương,1995-04-15,0859994973,janemai@example.org,"197 Trần Số, Cẩm Lệ, Đà Nẵng",1,0,jane54
+CUS00259,Ông Vũ Vũ,1977-07-17,0522705102,duongjohn@example.com,"158 John Hẻm, Quận 3, TP. Hồ Chí Minh",1,1,bmai
+CUS00260,Minh Hoàng Trần,1992-12-14,0966675485,epham@example.net,"62 Vũ Dãy, Hoàn Kiếm, Hà Nội",0,1,omai
+CUS00261,Phương Trần,1993-10-21,0726877418,phamjohn@example.net,"163 Jane Làng, Quận 5, TP. Hồ Chí Minh",1,1,johnmai2
+CUS00262,Quý cô Chi Bùi,2010-05-12,0763983652,janetran@example.org,"198 Phạm Tổ, Long Biên, Hà Nội",0,1,john16
+CUS00263,Quý ông Tú Trần,2003-07-16,0751548094,jane97@example.net,"151 John Đường, Quận 1, TP. Hồ Chí Minh",0,1,ovu
+CUS00264,Hưng Hải Dương,1971-07-04,0709079772,janehoang@example.org,"65 Jane Hẻm, Cẩm Lệ, Đà Nẵng",0,1,zhoang1
+CUS00265,Linh Vũ,1991-03-28,0392221610,dangjohn@example.net,"95 Jane Khu, Quận 1, TP. Hồ Chí Minh",0,1,
+CUS00266,Thành Hải Phạm,1989-11-21,0905529580,udang@example.net,"50 Hoàng Khu, Sơn Trà, Đà Nẵng",0,1,vujane
+CUS00267,An Mai,1999-10-23,0582412704,avu@example.org,"17 Nguyễn Làng, Hải Châu, Đà Nẵng",0,0,
+CUS00268,Bà Ngọc Hoàng,1997-04-19,0785157919,tranjane@example.net,"80 Lê Làng, Quận 1, TP. Hồ Chí Minh",1,1,maijane3
+CUS00269,Hải Đặng,1990-10-08,0790203571,johnhoang@example.com,"48 John Số, Quận 3, TP. Hồ Chí Minh",1,0,johntran4
+CUS00270,Hà Đức Vũ,2009-05-08,0540642429,buijohn@example.com,"192 Lê Tổ, Thanh Khê, Đà Nẵng",0,1,
+CUS00271,Yến Hoàng,1984-02-26,0747417595,buijohn@example.com,"46 Jane Hẻm, Cầu Giấy, Hà Nội",0,0,
+CUS00272,Hưng Đặng,1985-08-25,0962893654,maijohn@example.net,"10 Hoàng Làng, Thanh Khê, Đà Nẵng",0,1,
+CUS00273,Thành Hữu Dương,1979-04-22,0383437401,janehoang@example.com,"69 Lê Đường, Cẩm Lệ, Đà Nẵng",1,0,johnhoang3
+CUS00274,Anh Quang Trần,1993-03-12,0969051502,duongjohn@example.com,"96 Nguyễn Đường, Sơn Trà, Đà Nẵng",0,1,janeduong5
+CUS00275,Vân Trần,1988-11-26,0578207979,ple@example.org,"79 Jane Khu, Bình Thạnh, TP. Hồ Chí Minh",0,1,
+CUS00276,Hạnh Dương,1995-11-02,0795764038,phamjohn@example.net,"65 John Tổ, Cầu Giấy, Hà Nội",0,0,
+CUS00277,Phương Trần,1974-11-03,0328249839,john89@example.com,"152 John Dãy, Ngũ Hành Sơn, Đà Nẵng",0,0,
+CUS00278,Tùng Hoàng,2003-09-23,0557627023,phamjohn@example.com,"80 Hoàng Làng, Quận 3, TP. Hồ Chí Minh",1,1,hduong
+CUS00279,Chị Ánh Phạm,2009-08-10,0813285072,janevu@example.com,"53 Trần Hẻm, Quận 7, TP. Hồ Chí Minh",1,1,duongjane1
+CUS00280,Ông Vũ Nguyễn,1985-06-18,0873162526,phamjane@example.net,"121 Hoàng Làng, Cầu Giấy, Hà Nội",1,1,janevu3
+CUS00281,Duyên Trần,2004-09-08,0968157903,nhoang@example.net,"109 Mai Làng, Cẩm Lệ, Đà Nẵng",1,1,janenguyen2
+CUS00282,Anh Hoàng Dương,2009-09-22,0909961327,buijane@example.org,"88 Jane Làng, Hai Bà Trưng, Hà Nội",0,0,
+CUS00283,Quang Mai,1978-06-07,0562446704,janele@example.org,"99 John Ngõ, Bình Thạnh, TP. Hồ Chí Minh",1,1,lejane5
+CUS00284,Chị Phương Nguyễn,1988-12-01,0351602529,ltran@example.org,"120 John Hẻm, Hải Châu, Đà Nẵng",1,1,johnhoang4
+CUS00285,Cô An Bùi,1992-09-28,0346419785,buijane@example.org,"109 Mai Làng, Hoàng Mai, Hà Nội",1,1,john30
+CUS00286,Phương Nguyễn,2005-01-12,0886120594,tranjohn@example.org,"46 Jane Ngõ, Hoàn Kiếm, Hà Nội",0,1,
+CUS00287,Tú Phú Mai,1978-11-12,0701775095,kbui@example.org,"119 John Hẻm, Ba Đình, Hà Nội",0,1,
+CUS00288,Chị Hồng Hoàng,1981-04-27,0545607540,dangjohn@example.net,"69 John Dãy, Tân Phú, TP. Hồ Chí Minh",0,1,
+CUS00289,Bảo Trần,1996-09-22,0521812276,pvu@example.com,"102 John Tổ, Cẩm Lệ, Đà Nẵng",1,0,jane92
+CUS00290,Anh Thành Lê,2010-01-17,0997015502,maijane@example.net,"63 Bùi Khu, Liên Chiểu, Đà Nẵng",1,0,jane60
+CUS00291,Nhiên Đặng,1997-05-02,0766024161,janemai@example.net,"87 Phạm Tổ, Hoàn Kiếm, Hà Nội",0,1,
+CUS00292,Phương Dương,2005-08-08,0359736424,phamjane@example.net,"178 Nguyễn Làng, Cầu Giấy, Hà Nội",1,1,johnmai3
+CUS00293,Hà Mai,1992-07-01,0363062447,jane15@example.com,"70 Nguyễn Ngõ, Sơn Trà, Đà Nẵng",0,1,
+CUS00294,Nhật Trí Nguyễn,1996-11-15,0731949796,lejane@example.org,"182 Đặng Tổ, Quận 1, TP. Hồ Chí Minh",0,1,johnhoang5
+CUS00295,Quý ông Nhiên Lê,1998-06-23,0755727738,johntran@example.com,"88 Mai Ngõ, Hải Châu, Đà Nẵng",0,1,maijohn2
+CUS00296,Quý cô Hà Phạm,2001-04-19,0917851385,jane47@example.org,"170 Jane Tổ, Ba Đình, Hà Nội",1,1,john01
+CUS00297,Thảo Hoàng,1983-08-22,0599295966,janehoang@example.net,"8 John Tổ, Ngũ Hành Sơn, Đà Nẵng",1,1,janetran1
+CUS00298,Lâm Quang Hoàng,2004-04-24,0568269116,jane35@example.com,"126 Trần Dãy, Cẩm Lệ, Đà Nẵng",1,0,jane75
+CUS00299,Chị Lan Vũ,1979-10-17,0886536945,gle@example.com,"41 Vũ Khu, Đống Đa, Hà Nội",1,1,tranjohn1
+CUS00300,Vũ Mai Vũ,2004-07-24,0788863677,johnmai@example.org,"196 Trần Làng, Cẩm Lệ, Đà Nẵng",1,1,john331
+CUS00301,Anh Tú Trần,1982-11-04,0385721696,jane55@example.net,"74 John Ngõ, Gò Vấp, TP. Hồ Chí Minh",0,1,
+CUS00302,Chị Hạnh Hoàng,1988-10-05,0919960593,nguyenjane@example.net,"159 Jane Khu, Thủ Đức, TP. Hồ Chí Minh",0,1,
+CUS00303,Cô Hương Đặng,1977-06-20,0968832753,jane36@example.net,"191 Hoàng Ngõ, Ba Đình, Hà Nội",0,1,htran
+CUS00304,Phương Thế Vũ,1977-11-10,0710397739,zmai@example.org,"34 Lê Đường, Bình Thạnh, TP. Hồ Chí Minh",0,0,
+CUS00305,Cô Vi Đặng,1989-11-25,0723710068,hoangjane@example.com,"155 John Làng, Hoàn Kiếm, Hà Nội",0,0,
+CUS00306,Nhật Bảo Nguyễn,1991-02-03,0980770460,johntran@example.org,"184 Jane Làng, Hoàn Kiếm, Hà Nội",0,1,kdang
+CUS00307,An Thị Dương,1986-04-20,0811249125,buijohn@example.org,"113 Phạm Hẻm, Cẩm Lệ, Đà Nẵng",1,0,johnduong2
+CUS00308,Chi Dương,1988-07-09,0351773454,johnle@example.com,"68 John Làng, Cầu Giấy, Hà Nội",0,1,tbui
+CUS00309,Quý ông Quang Phạm,2000-11-30,0790228403,jane19@example.net,"146 Jane Số, Sơn Trà, Đà Nẵng",0,0,
+CUS00310,Hạnh Tấn Nguyễn,2009-06-25,0594774222,ymai@example.net,"184 Dương Hẻm, Thanh Xuân, Hà Nội",1,1,tdang
+CUS00311,Bác Châu Mai,1997-04-01,0594290458,john19@example.org,"8 Vũ Ngõ, Thanh Khê, Đà Nẵng",1,1,janele3
+CUS00312,Bảo Mai,2003-06-10,0598585672,lejane@example.net,"165 Mai Ngõ, Bình Thạnh, TP. Hồ Chí Minh",0,1,tdang1
+CUS00313,Thành Trí Trần,2009-01-22,0543324913,hoangjane@example.org,"88 Hoàng Tổ, Quận 3, TP. Hồ Chí Minh",0,1,
+CUS00314,Cô Phương Đặng,1985-12-28,0550615814,jane65@example.org,"59 Phạm Làng, Tân Phú, TP. Hồ Chí Minh",0,1,
+CUS00315,Cô Hồng Đặng,1994-10-27,0898334233,hoangjohn@example.org,"15 Trần Ngõ, Hải Châu, Đà Nẵng",0,0,
+CUS00316,Huy Lê,2000-12-08,0512840333,janevu@example.com,"24 Trần Khu, Thanh Xuân, Hà Nội",0,1,
+CUS00317,Thành Trí Mai,1996-04-09,0337171731,jnguyen@example.org,"163 Jane Dãy, Bình Thạnh, TP. Hồ Chí Minh",0,1,mbui
+CUS00318,Bảo Nguyễn,1994-05-01,0373997046,udang@example.org,"111 Jane Số, Thủ Đức, TP. Hồ Chí Minh",0,1,rmai
+CUS00319,Huy Lê,1996-12-22,0744835488,phamjohn@example.net,"132 Mai Số, Long Biên, Hà Nội",1,1,jane13
+CUS00320,Phương Trần,1983-11-08,0787722164,fbui@example.net,"2 Trần Ngõ, Tân Bình, TP. Hồ Chí Minh",0,1,
+CUS00321,Hà Vũ,1974-03-30,0333484587,janevu@example.org,"50 Mai Tổ, Thanh Khê, Đà Nẵng",0,1,
+CUS00322,Quý ông Quang Lê,1974-08-14,0552362292,janetran@example.com,"173 Jane Dãy, Thủ Đức, TP. Hồ Chí Minh",0,0,
+CUS00323,Cô Duyên Bùi,1984-08-10,0734745245,nguyenjohn@example.com,"107 John Khu, Liên Chiểu, Đà Nẵng",0,0,
+CUS00324,Khoa Trần,2002-08-07,0966060652,jane21@example.net,"109 Mai Làng, Thanh Xuân, Hà Nội",1,0,enguyen
+CUS00325,Lan Dương,1990-06-30,0705665883,maijohn@example.net,"76 John Hẻm, Quận 10, TP. Hồ Chí Minh",0,1,
+CUS00326,Hương Vũ,2005-10-09,0525797067,john63@example.com,"20 Dương Ngõ, Hoàn Kiếm, Hà Nội",1,1,buijohn
+CUS00327,Dương Bùi,1981-03-17,0354857417,vujohn@example.net,"26 John Đường, Ba Đình, Hà Nội",1,1,john26
+CUS00328,Quý cô Lan Vũ,1976-01-10,0594938173,ymai@example.net,"39 John Dãy, Ngũ Hành Sơn, Đà Nẵng",0,1,
+CUS00329,Quý ông Thành Lê,1984-09-15,0321557325,jane75@example.com,"177 Jane Đường, Thanh Xuân, Hà Nội",0,0,
+CUS00330,Lâm Nguyễn,1991-01-04,0902166670,johntran@example.com,"66 Vũ Dãy, Quận 10, TP. Hồ Chí Minh",1,1,john07
+CUS00331,Nhật Thị Lê,2007-04-23,0960858749,phamjane@example.org,"5 Hoàng Ngõ, Sơn Trà, Đà Nẵng",0,0,
+CUS00332,Thành Thế Bùi,1984-12-21,0382819793,janetran@example.net,"143 Vũ Đường, Hải Châu, Đà Nẵng",0,0,
+CUS00333,Chị Thảo Lê,2003-09-24,0551295786,tbui@example.org,"116 Vũ Ngõ, Long Biên, Hà Nội",1,1,hoangjane1
+CUS00334,Trung Hữu Đặng,2009-11-23,0303562439,vnguyen@example.org,"100 John Dãy, Thủ Đức, TP. Hồ Chí Minh",1,1,janenguyen3
+CUS00335,Chị Linh Bùi,2000-04-04,0923234210,john16@example.net,"91 Jane Dãy, Thủ Đức, TP. Hồ Chí Minh",0,1,
+CUS00336,Bà Ánh Bùi,1993-12-05,0355333426,janemai@example.net,"90 Jane Tổ, Tân Phú, TP. Hồ Chí Minh",0,0,
+CUS00337,Bà Xuân Mai,1982-02-28,0816073607,johntran@example.net,"36 Jane Hẻm, Ba Đình, Hà Nội",1,0,johnnguyen2
+CUS00338,Ông Khoa Nguyễn,1989-09-03,0589812317,tranjane@example.org,"24 Đặng Số, Hoàn Kiếm, Hà Nội",1,1,tranjohn2
+CUS00339,Ánh Nguyễn,2003-03-23,0518574817,johntran@example.net,"49 Jane Ngõ, Hoàng Mai, Hà Nội",0,0,
+CUS00340,Thảo Vũ,1970-09-22,0741643167,hmai@example.net,"91 Đặng Đường, Hoàn Kiếm, Hà Nội",1,0,ihoang
+CUS00341,Ông Bảo Lê,1970-09-17,0529028227,qvu@example.com,"37 Lê Ngõ, Ba Đình, Hà Nội",0,1,
+CUS00342,Chị Phương Phạm,2004-03-12,0962622822,johntran@example.net,"96 Jane Khu, Quận 10, TP. Hồ Chí Minh",1,1,jane64
+CUS00343,Châu Phạm,1986-05-18,0854950050,johnnguyen@example.org,"79 Mai Số, Cầu Giấy, Hà Nội",0,1,john45
+CUS00344,Hương Dương,2009-11-14,0969822105,john98@example.com,"12 Hoàng Ngõ, Gò Vấp, TP. Hồ Chí Minh",0,0,
+CUS00345,Cô Lâm Mai,2010-03-31,0868729047,johnnguyen@example.org,"122 Jane Ngõ, Quận 3, TP. Hồ Chí Minh",1,1,john87
+CUS00346,Hải Bùi,1991-01-23,0377932382,vujane@example.com,"158 Jane Ngõ, Sơn Trà, Đà Nẵng",0,1,john29
+CUS00347,Chi Vũ,2006-02-17,0913342457,spham@example.net,"73 Lê Ngõ, Gò Vấp, TP. Hồ Chí Minh",0,1,john12
+CUS00348,Anh Đức Dương,1999-12-25,0852906032,johnduong@example.com,"84 Jane Đường, Đống Đa, Hà Nội",0,1,
+CUS00349,Hoàng Tấn Lê,1970-08-23,0709775396,jane30@example.com,"102 Jane Số, Quận 5, TP. Hồ Chí Minh",1,1,nguyenjane1
+CUS00350,Quý cô Hạnh Phạm,1990-04-13,0785524578,dbui@example.com,"191 John Ngõ, Hoàn Kiếm, Hà Nội",0,1,johnhoang6
+CUS00351,Hoàng Đức Hoàng,1990-06-21,0760821371,janetran@example.net,"17 Dương Khu, Sơn Trà, Đà Nẵng",0,1,lejane6
+CUS00352,Bác Vũ Mai,1975-05-25,0918268323,janele@example.net,"112 Jane Số, Long Biên, Hà Nội",0,1,
+CUS00353,Cô Vân Bùi,2004-10-21,0980858382,phoang@example.net,"145 John Khu, Đống Đa, Hà Nội",1,0,john92
+CUS00354,Hà Lê,1986-10-19,0528963406,johnhoang@example.org,"159 Jane Đường, Cẩm Lệ, Đà Nẵng",1,1,johnpham2
+CUS00355,Khoa Hải Vũ,1983-04-20,0724014843,vujohn@example.net,"120 Vũ Hẻm, Long Biên, Hà Nội",1,1,mhoang
+CUS00356,Cô Lâm Đặng,2002-11-26,0572362669,john08@example.org,"36 Vũ Ngõ, Gò Vấp, TP. Hồ Chí Minh",0,0,
+CUS00357,Trọng Thế Bùi,1978-09-04,0819237245,johnvu@example.com,"36 Đặng Đường, Quận 10, TP. Hồ Chí Minh",1,1,vujohn3
+CUS00358,Minh Hoàng,1970-06-26,0574189721,janepham@example.com,"121 Phạm Tổ, Liên Chiểu, Đà Nẵng",0,1,
+CUS00359,Chị Khoa Dương,2009-06-26,0841769274,jhoang@example.org,"11 John Dãy, Thanh Xuân, Hà Nội",0,0,
+CUS00360,Vi Vũ,1980-01-29,0866014448,jane43@example.com,"62 Jane Khu, Sơn Trà, Đà Nẵng",0,1,
+CUS00361,Bảo Phạm,1984-10-01,0373973964,janele@example.net,"4 Đặng Số, Hoàn Kiếm, Hà Nội",0,0,
+CUS00362,Chi Nguyễn,1974-08-31,0960919191,lejohn@example.org,"156 Phạm Ngõ, Hoàng Mai, Hà Nội",0,0,
+CUS00363,Quý ông Hoàng Bùi,1975-04-09,0805779806,tduong@example.net,"108 John Ngõ, Liên Chiểu, Đà Nẵng",0,1,
+CUS00364,Hạnh Mai Bùi,2006-06-23,0920514607,jane89@example.com,"56 John Dãy, Ba Đình, Hà Nội",0,0,
+CUS00365,Quý cô Hồng Đặng,2008-02-08,0805742388,phoang@example.com,"71 Jane Dãy, Cầu Giấy, Hà Nội",0,1,
+CUS00366,Hạnh Mai,1999-01-30,0355983541,jane97@example.com,"128 Jane Hẻm, Đống Đa, Hà Nội",1,1,buijohn1
+CUS00367,Cô Duyên Phạm,2002-05-21,0563475575,aduong@example.com,"164 Lê Đường, Ngũ Hành Sơn, Đà Nẵng",1,1,jane52
+CUS00368,Thành Hữu Phạm,2003-11-10,0948848826,johnpham@example.com,"49 John Hẻm, Quận 3, TP. Hồ Chí Minh",1,1,lejohn2
+CUS00369,Hải Hoàng,1997-09-29,0725856261,bdang@example.com,"104 Phạm Số, Cẩm Lệ, Đà Nẵng",0,1,nguyenjohn2
+CUS00370,Cô Nhật Nguyễn,2007-11-27,0570382407,dangjohn@example.net,"83 John Số, Hoàn Kiếm, Hà Nội",0,0,
+CUS00371,Châu Xuân Vũ,1980-01-26,0520430977,john40@example.com,"113 Đặng Đường, Quận 7, TP. Hồ Chí Minh",0,0,
+CUS00372,Hoàng Lê,1988-08-05,0996964546,jane94@example.org,"48 Jane Hẻm, Gò Vấp, TP. Hồ Chí Minh",0,0,
+CUS00373,Yến Hoàng,1986-08-10,0712538921,tranjohn@example.com,"139 Jane Dãy, Bình Thạnh, TP. Hồ Chí Minh",1,0,tranjane1
+CUS00374,Chị Hạnh Vũ,2005-03-06,0935837490,etran@example.com,"27 Jane Tổ, Sơn Trà, Đà Nẵng",0,0,
+CUS00375,Vân Vũ,1990-08-24,0880572151,johnvu@example.com,"144 John Ngõ, Quận 1, TP. Hồ Chí Minh",0,1,ebui
+CUS00376,Phúc Hữu Đặng,2002-03-31,0976263748,ydang@example.net,"183 Vũ Đường, Hải Châu, Đà Nẵng",1,1,john44
+CUS00377,Kim Bùi,2001-04-11,0995090591,cbui@example.com,"37 Mai Làng, Ngũ Hành Sơn, Đà Nẵng",0,1,
+CUS00378,Bà Thảo Mai,2004-09-30,0539220715,janehoang@example.net,"188 Hoàng Tổ, Thanh Khê, Đà Nẵng",0,1,
+CUS00379,Nhật Trần,1973-12-30,0867252145,janemai@example.net,"100 Jane Tổ, Cẩm Lệ, Đà Nẵng",1,1,qbui
+CUS00380,Quý ông Vũ Lê,1977-12-16,0763351571,john02@example.net,"48 John Tổ, Hoàn Kiếm, Hà Nội",0,0,
+CUS00381,Nhật Dương,1993-07-02,0712080056,wvu@example.org,"16 John Số, Tân Phú, TP. Hồ Chí Minh",1,0,dangjohn1
+CUS00382,Chị Yến Phạm,1983-09-27,0539728351,phamjohn@example.net,"18 Phạm Hẻm, Sơn Trà, Đà Nẵng",1,0,johnhoang7
+CUS00383,Thành Mai Bảo Hoàng,2009-02-13,0582709081,johndang@example.org,"181 John Đường, Tân Bình, TP. Hồ Chí Minh",0,1,fnguyen
+CUS00384,Bảo Phú Nguyễn,2006-03-18,0598217392,janeduong@example.com,"175 Mai Tổ, Bình Thạnh, TP. Hồ Chí Minh",0,0,
+CUS00385,Bảo Lê,1997-07-04,0818153523,nle@example.com,"100 Trần Tổ, Liên Chiểu, Đà Nẵng",0,0,
+CUS00386,Chị Thành Lê,2006-09-04,0891815899,johnduong@example.org,"16 John Làng, Bình Thạnh, TP. Hồ Chí Minh",0,0,
+CUS00387,Chị Ngọc Phạm,2001-07-01,0573466661,janevu@example.org,"83 Mai Đường, Quận 10, TP. Hồ Chí Minh",0,1,
+CUS00388,Trung Thế Mai,1992-01-01,0847408031,vujane@example.com,"157 Bùi Hẻm, Ngũ Hành Sơn, Đà Nẵng",1,1,buijane
+CUS00389,Lâm Đức Vũ,1983-10-11,0708004635,janemai@example.net,"45 Jane Đường, Liên Chiểu, Đà Nẵng",0,0,
+CUS00390,Hương Nguyễn,1994-02-14,0703172351,vujane@example.net,"131 John Hẻm, Đống Đa, Hà Nội",1,0,johnmai4
+CUS00391,Quang Đức Hoàng,2002-01-11,0363140352,mhoang@example.org,"4 Vũ Đường, Liên Chiểu, Đà Nẵng",1,1,johndang3
+CUS00392,Tùng Bùi,1987-06-29,0939469434,phamjane@example.org,"37 Vũ Khu, Quận 5, TP. Hồ Chí Minh",0,1,
+CUS00393,Huy Vũ,1988-05-10,0849060723,knguyen@example.org,"200 Vũ Ngõ, Cầu Giấy, Hà Nội",0,1,jane56
+CUS00394,Bà Vân Mai,1973-03-01,0952464844,xbui@example.org,"47 Jane Dãy, Hoàn Kiếm, Hà Nội",0,1,
+CUS00395,Khoa Hoàng,2008-05-17,0832807711,pmai@example.com,"143 Bùi Tổ, Quận 3, TP. Hồ Chí Minh",0,1,lejane7
+CUS00396,Chị Xuân Mai,1980-04-04,0895727908,lejane@example.net,"62 John Ngõ, Quận 3, TP. Hồ Chí Minh",1,1,john701
+CUS00397,Quý ông Huy Phạm,2004-05-25,0902542573,xhoang@example.net,"12 John Dãy, Sơn Trà, Đà Nẵng",0,0,
+CUS00398,Chi Hoàng,2010-06-11,0535707139,janevu@example.com,"58 Jane Số, Hoàn Kiếm, Hà Nội",0,1,mbui1
+CUS00399,Chị Hương Bùi,1993-09-16,0316880925,wmai@example.net,"15 Nguyễn Làng, Sơn Trà, Đà Nẵng",1,1,ehoang
+CUS00400,Bà Ngọc Vũ,1986-08-13,0809069130,ypham@example.org,"2 Hoàng Số, Thanh Khê, Đà Nẵng",1,0,johnnguyen3
+CUS00401,Dũng Bảo Hoàng,1995-04-14,0967379457,johnnguyen@example.org,"73 John Hẻm, Hoàng Mai, Hà Nội",0,1,
+CUS00402,Bảo Mai Lê,1991-06-30,0726425064,john27@example.net,"37 John Khu, Cầu Giấy, Hà Nội",0,1,
+CUS00403,Anh Dương,1976-06-17,0553666777,vujane@example.com,"103 John Làng, Thanh Khê, Đà Nẵng",1,1,johndang4
+CUS00404,Khoa Vũ,1987-06-05,0533939578,johnbui@example.com,"53 John Đường, Tân Phú, TP. Hồ Chí Minh",0,1,
+CUS00405,Vân Dương,2008-09-08,0818749603,jhoang@example.com,"37 Trần Tổ, Gò Vấp, TP. Hồ Chí Minh",0,1,
+CUS00406,Hoàng Xuân Trần,1979-09-29,0827036924,janetran@example.org,"133 Phạm Dãy, Ngũ Hành Sơn, Đà Nẵng",1,0,tranjane2
+CUS00407,Tú Lê,2003-06-19,0526573275,jane47@example.net,"148 Hoàng Dãy, Ngũ Hành Sơn, Đà Nẵng",0,0,
+CUS00408,Hải Hoàng,1997-05-19,0300051553,tranjane@example.net,"17 John Dãy, Quận 3, TP. Hồ Chí Minh",0,1,
+CUS00409,Anh Thành Vũ,2003-05-10,0797752441,jane67@example.net,"160 Vũ Khu, Bình Thạnh, TP. Hồ Chí Minh",1,1,jane03
+CUS00410,Kim Mai,2005-12-28,0389628874,jane94@example.net,"107 John Dãy, Quận 5, TP. Hồ Chí Minh",0,0,
+CUS00411,Minh Thị Lê,2000-12-13,0326767209,janemai@example.net,"25 Hoàng Số, Tân Bình, TP. Hồ Chí Minh",0,1,wvu
+CUS00412,Chị Vi Vũ,2000-11-13,0379551512,johnpham@example.com,"115 Mai Làng, Thanh Khê, Đà Nẵng",0,1,john471
+CUS00413,Anh Minh Nguyễn,1976-01-20,0741597099,jane43@example.org,"163 Jane Tổ, Quận 7, TP. Hồ Chí Minh",0,1,
+CUS00414,Quý cô Yến Nguyễn,1988-09-27,0375203447,johnhoang@example.net,"134 Nguyễn Hẻm, Sơn Trà, Đà Nẵng",0,1,john441
+CUS00415,Quý cô Thành Mai,1989-06-03,0358029090,john27@example.com,"169 John Dãy, Ngũ Hành Sơn, Đà Nẵng",1,1,john58
+CUS00416,Phương Thị Đặng,1983-07-31,0765586652,lle@example.com,"10 Jane Dãy, Hoàng Mai, Hà Nội",1,0,nguyenjane2
+CUS00417,Cô Kim Vũ,1985-07-13,0358102131,john38@example.com,"116 Đặng Số, Hoàn Kiếm, Hà Nội",0,1,john32
+CUS00418,Nhật Hoàng,1977-12-11,0305912975,jane45@example.com,"20 Bùi Số, Quận 3, TP. Hồ Chí Minh",1,1,john97
+CUS00419,Chị Linh Đặng,2005-04-06,0321106330,wnguyen@example.net,"191 Mai Khu, Quận 7, TP. Hồ Chí Minh",0,1,lejohn3
+CUS00420,Chi Vũ,2002-02-28,0579274907,bdang@example.com,"122 Jane Làng, Thanh Khê, Đà Nẵng",1,1,john64
+CUS00421,Anh Châu Dương,1978-04-18,0931132532,janevu@example.net,"139 Đặng Ngõ, Đống Đa, Hà Nội",0,1,
+CUS00422,Chị Ánh Phạm,1987-09-15,0564538044,johnvu@example.org,"74 Đặng Đường, Cẩm Lệ, Đà Nẵng",0,1,
+CUS00423,Nam Lê,2003-11-02,0396170159,john33@example.org,"188 John Số, Hai Bà Trưng, Hà Nội",1,1,john56
+CUS00424,Lan Nguyễn,2004-08-08,0757575747,jane44@example.org,"146 Trần Hẻm, Hải Châu, Đà Nẵng",0,1,
+CUS00425,Chị Phương Mai,1984-01-23,0356775677,janele@example.net,"44 Lê Tổ, Thủ Đức, TP. Hồ Chí Minh",0,0,
+CUS00426,Nam Tấn Bùi,1990-04-14,0556265062,john48@example.net,"7 Đặng Số, Hoàng Mai, Hà Nội",1,0,jane27
+CUS00427,Quý cô Duyên Lê,1976-10-10,0753076248,janemai@example.org,"39 John Hẻm, Long Biên, Hà Nội",0,1,dangjohn2
+CUS00428,Chị Phương Mai,1982-06-16,0827051157,jane85@example.com,"111 Đặng Khu, Ngũ Hành Sơn, Đà Nẵng",1,1,jane24
+CUS00429,Trọng Trí Lê,1997-04-07,0804254969,nguyenjane@example.com,"107 Jane Dãy, Cầu Giấy, Hà Nội",1,1,johnhoang8
+CUS00430,Quang Đặng,1975-06-20,0971075633,janebui@example.com,"95 Vũ Khu, Đống Đa, Hà Nội",0,1,johnvu3
+CUS00431,Bác Bảo Phạm,1984-08-19,0959532593,johndang@example.org,"72 Hoàng Dãy, Long Biên, Hà Nội",0,0,
+CUS00432,Hương Trần,2001-10-06,0781629518,johnduong@example.org,"5 Hoàng Hẻm, Long Biên, Hà Nội",0,1,
+CUS00433,Hưng Phú Lê,1992-01-09,0863425073,jane66@example.com,"18 Bùi Tổ, Sơn Trà, Đà Nẵng",0,0,
+CUS00434,Hưng Thị Lê,1980-01-08,0775983399,phamjohn@example.net,"70 Đặng Ngõ, Đống Đa, Hà Nội",0,1,
+CUS00435,Hải Thế Đặng,1975-05-27,0736604432,john39@example.org,"130 Lê Tổ, Tân Phú, TP. Hồ Chí Minh",1,1,johnduong3
+CUS00436,Chị Hải Đặng,1983-04-14,0827682975,duongjohn@example.com,"95 Vũ Khu, Hoàn Kiếm, Hà Nội",1,1,buijohn2
+CUS00437,Bác Tùng Mai,1974-11-01,0592501058,john45@example.com,"73 Đặng Làng, Ngũ Hành Sơn, Đà Nẵng",0,1,janepham2
+CUS00438,Cô Hà Lê,1991-05-27,0365625904,johnnguyen@example.org,"141 John Làng, Ngũ Hành Sơn, Đà Nẵng",1,1,johnle3
+CUS00439,Anh Văn Hoàng,1984-07-14,0312218231,john57@example.net,"128 Trần Đường, Quận 5, TP. Hồ Chí Minh",0,1,
+CUS00440,Phúc Hoàng,2003-11-08,0376808662,johnmai@example.org,"88 Trần Hẻm, Gò Vấp, TP. Hồ Chí Minh",1,1,jane70
+CUS00441,Anh Hoàng Lê,1994-08-03,0733080037,unguyen@example.net,"30 Jane Ngõ, Đống Đa, Hà Nội",0,0,
+CUS00442,Bảo Văn Đặng,1971-11-26,0756608470,janeduong@example.net,"129 John Hẻm, Quận 5, TP. Hồ Chí Minh",1,0,eduong
+CUS00443,Hồng Phạm,2000-01-15,0539705195,janetran@example.net,"10 Lê Ngõ, Thủ Đức, TP. Hồ Chí Minh",0,1,htran1
+CUS00444,Cô Nhật Nguyễn,1992-11-02,0944858623,nguyenjane@example.org,"161 Jane Dãy, Hải Châu, Đà Nẵng",0,1,nguyenjohn3
+CUS00445,Cô Nhật Nguyễn,2003-10-31,0770798632,jane39@example.com,"31 Jane Khu, Hoàng Mai, Hà Nội",0,1,johnhoang9
+CUS00446,Tùng Hữu Nguyễn,1975-01-21,0943945703,john65@example.org,"52 John Dãy, Thanh Khê, Đà Nẵng",1,0,jane17
+CUS00447,Quý cô Vân Mai,1995-06-06,0703253765,john21@example.org,"7 Lê Hẻm, Tân Phú, TP. Hồ Chí Minh",0,0,
+CUS00448,Vân Vũ,1990-07-16,0943191009,jane87@example.com,"144 Trần Làng, Long Biên, Hà Nội",0,1,maijane4
+CUS00449,Thành Bảo Lê,1972-03-30,0892105336,john29@example.net,"114 John Số, Quận 10, TP. Hồ Chí Minh",0,0,
+CUS00450,Khoa Phạm,2003-04-12,0314247310,vle@example.com,"198 Bùi Làng, Quận 10, TP. Hồ Chí Minh",0,1,johnnguyen4
+CUS00451,Nhật Mai Dương,2009-06-27,0984409712,jane38@example.com,"117 John Hẻm, Quận 7, TP. Hồ Chí Minh",0,1,johnhoang10
+CUS00452,Bác Hoàng Mai,1979-09-01,0876209014,jane83@example.org,"128 Bùi Số, Quận 1, TP. Hồ Chí Minh",1,1,xbui
+CUS00453,Cô Hạnh Lê,2001-11-05,0733700968,john00@example.com,"172 Nguyễn Hẻm, Ba Đình, Hà Nội",1,1,rtran1
+CUS00454,Lâm Trí Dương,2001-07-14,0395778255,phamjane@example.com,"94 Lê Số, Quận 10, TP. Hồ Chí Minh",0,1,
+CUS00455,An Hữu Mai,2002-07-30,0965754278,john65@example.org,"45 Nguyễn Ngõ, Hoàng Mai, Hà Nội",0,1,
+CUS00456,Khoa Bùi,1988-04-17,0757782058,jane30@example.com,"36 Dương Khu, Sơn Trà, Đà Nẵng",1,1,jane35
+CUS00457,Bà Vi Bùi,2008-07-25,0923616188,rhoang@example.org,"41 Phạm Làng, Cẩm Lệ, Đà Nẵng",0,1,janele4
+CUS00458,Ông Trung Bùi,1971-11-19,0557155868,maijane@example.com,"43 Jane Dãy, Cẩm Lệ, Đà Nẵng",0,1,hoangjane2
+CUS00459,Lâm Hải Nguyễn,1999-06-20,0823081721,nguyenjohn@example.org,"58 Đặng Đường, Hoàn Kiếm, Hà Nội",0,1,johnduong4
+CUS00460,Tú Xuân Lê,2001-03-04,0330004132,gbui@example.net,"164 Trần Dãy, Tân Phú, TP. Hồ Chí Minh",0,1,ghoang
+CUS00461,Bảo Xuân Mai,2007-02-16,0809456534,janenguyen@example.com,"92 John Khu, Gò Vấp, TP. Hồ Chí Minh",0,1,cmai
+CUS00462,Lan Hoàng,1989-03-22,0370755047,janepham@example.com,"152 Hoàng Tổ, Liên Chiểu, Đà Nẵng",0,0,
+CUS00463,Thảo Mai,2008-08-18,0995706071,john23@example.net,"177 Dương Tổ, Gò Vấp, TP. Hồ Chí Minh",0,0,
+CUS00464,Chị Hà Lê,1991-04-21,0853970548,janele@example.org,"117 John Làng, Quận 3, TP. Hồ Chí Minh",1,1,lejohn4
+CUS00465,Cô Kim Mai,2004-11-11,0590871827,janenguyen@example.net,"176 John Dãy, Quận 1, TP. Hồ Chí Minh",0,1,
+CUS00466,Bác Trọng Dương,1982-04-29,0791872742,maijane@example.org,"13 Bùi Tổ, Cẩm Lệ, Đà Nẵng",0,1,
+CUS00467,Ánh Phạm,1971-10-15,0577306260,jane46@example.com,"20 Phạm Khu, Quận 5, TP. Hồ Chí Minh",1,1,znguyen
+CUS00468,Phúc Dương,1983-07-24,0571122299,bvu@example.org,"127 Trần Làng, Liên Chiểu, Đà Nẵng",1,1,jane38
+CUS00469,Dương Dương,1971-01-23,0781670468,john05@example.net,"178 Jane Dãy, Tân Phú, TP. Hồ Chí Minh",0,1,
+CUS00470,Quý cô Vân Mai,2001-06-29,0883210219,buijane@example.com,"122 Lê Đường, Sơn Trà, Đà Nẵng",0,1,jane46
+CUS00471,Hải Lê,1978-05-19,0329618033,jmai@example.org,"123 Đặng Hẻm, Thanh Xuân, Hà Nội",0,1,
+CUS00472,Khoa Mai,1976-08-11,0380184980,ntran@example.org,"96 Jane Dãy, Ba Đình, Hà Nội",1,0,hoangjane3
+CUS00473,Quý ông Phúc Dương,1983-08-10,0877312688,janevu@example.org,"49 Jane Hẻm, Cầu Giấy, Hà Nội",0,1,
+CUS00474,Kim Nguyễn,2008-07-08,0378192365,john26@example.com,"195 Nguyễn Hẻm, Thanh Khê, Đà Nẵng",0,1,ppham
+CUS00475,Bà Nhật Hoàng,1980-02-10,0803567932,ktran@example.net,"200 John Số, Bình Thạnh, TP. Hồ Chí Minh",0,1,
+CUS00476,Vân Lê,1991-07-03,0984716906,john63@example.com,"62 Phạm Hẻm, Đống Đa, Hà Nội",0,0,
+CUS00477,Quý ông Anh Đặng,1972-12-22,0764754895,janeduong@example.com,"95 Jane Hẻm, Quận 1, TP. Hồ Chí Minh",0,0,
+CUS00478,Ông Hưng Đặng,1983-10-28,0999927517,jnguyen@example.org,"178 Trần Ngõ, Liên Chiểu, Đà Nẵng",0,1,tranjane3
+CUS00479,Trung Hoàng,1985-05-12,0798355393,janenguyen@example.org,"70 Phạm Làng, Sơn Trà, Đà Nẵng",0,1,dangjohn3
+CUS00480,Hoàng Hoàng Hoàng,1985-08-20,0796392435,hoangjane@example.com,"72 Jane Ngõ, Ngũ Hành Sơn, Đà Nẵng",0,1,johntran5
+CUS00481,Tú Hải Hoàng,2001-12-19,0343395275,john40@example.com,"45 Jane Tổ, Liên Chiểu, Đà Nẵng",0,1,
+CUS00482,Chi Hoàng,1981-01-07,0724914168,dangjohn@example.org,"138 Trần Dãy, Ngũ Hành Sơn, Đà Nẵng",1,0,nguyenjohn4
+CUS00483,Khoa Dương,1987-08-20,0994896340,vujane@example.com,"117 Jane Tổ, Long Biên, Hà Nội",1,1,mnguyen
+CUS00484,Vi Phạm,1989-03-09,0322150014,janedang@example.org,"81 John Hẻm, Hoàng Mai, Hà Nội",0,1,vle
+CUS00485,Vi Bùi,1974-10-27,0509001594,vnguyen@example.net,"109 John Hẻm, Cẩm Lệ, Đà Nẵng",0,1,
+CUS00486,Bà Mai Nguyễn,1982-10-01,0732089532,vujane@example.com,"142 Nguyễn Đường, Sơn Trà, Đà Nẵng",0,1,
+CUS00487,Bà Bảo Hoàng,2006-02-21,0994711363,jane58@example.com,"24 Vũ Hẻm, Quận 5, TP. Hồ Chí Minh",0,1,
+CUS00488,Minh Mai Bùi,1980-11-09,0334699673,johnbui@example.com,"28 Mai Khu, Quận 10, TP. Hồ Chí Minh",0,1,phamjane6
+CUS00489,Cô Phương Đặng,1980-06-01,0569608437,bbui@example.com,"114 Jane Số, Ngũ Hành Sơn, Đà Nẵng",1,1,john84
+CUS00490,Quý ông Hưng Hoàng,1989-08-03,0935219626,johnmai@example.com,"114 Jane Khu, Hoàng Mai, Hà Nội",0,1,janepham3
+CUS00491,Ánh Lê,1979-04-17,0736970931,johnpham@example.net,"184 Vũ Hẻm, Cầu Giấy, Hà Nội",1,1,john04
+CUS00492,Bác Quang Đặng,1990-04-15,0867616453,nguyenjohn@example.com,"6 Nguyễn Làng, Hoàng Mai, Hà Nội",0,1,
+CUS00493,Bà Yến Nguyễn,1982-01-27,0598983065,jane07@example.org,"44 Jane Hẻm, Đống Đa, Hà Nội",1,0,phamjohn3
+CUS00494,Nhật Lê,1972-02-26,0904184724,jane53@example.org,"179 John Số, Thủ Đức, TP. Hồ Chí Minh",0,1,
+CUS00495,Trọng Trần,1976-05-09,0581319092,lejane@example.org,"80 Jane Khu, Gò Vấp, TP. Hồ Chí Minh",0,1,
+CUS00496,Vân Hoàng,1982-12-06,0591114281,buijohn@example.com,"5 Jane Số, Quận 7, TP. Hồ Chí Minh",0,0,
+CUS00497,Quý cô Nhật Nguyễn,2004-12-12,0923052480,johnhoang@example.com,"40 John Khu, Thanh Khê, Đà Nẵng",0,0,
+CUS00498,Bác Tú Dương,1992-06-20,0539594737,tranjohn@example.com,"40 Jane Khu, Tân Bình, TP. Hồ Chí Minh",0,1,john741
+CUS00499,Cô Bảo Phạm,1977-11-09,0316204787,johnnguyen@example.com,"194 John Đường, Thủ Đức, TP. Hồ Chí Minh",0,0,
+CUS00500,Lâm Văn Vũ,2000-05-23,0959964862,zmai@example.org,"166 Vũ Tổ, Ngũ Hành Sơn, Đà Nẵng",0,1,
+CUS00501,Thành Tấn Bùi,1992-07-27,0719666450,jane13@example.org,"95 Đặng Số, Thủ Đức, TP. Hồ Chí Minh",0,1,opham
+CUS00502,Mai Phạm,1984-02-10,0579246320,dangjohn@example.net,"199 Hoàng Tổ, Gò Vấp, TP. Hồ Chí Minh",0,0,
+CUS00503,Chị Nhật Dương,2010-05-24,0853726032,dangjohn@example.org,"120 Dương Dãy, Hoàng Mai, Hà Nội",1,1,jane37
+CUS00504,Hồng Vũ,2010-03-29,0819458870,jane66@example.org,"99 Dương Số, Long Biên, Hà Nội",0,1,john11
+CUS00505,Hoàng Phú Bùi,2008-12-18,0328400838,eduong@example.com,"3 Trần Tổ, Đống Đa, Hà Nội",0,1,jane97
+CUS00506,Thành Hoàng,1986-08-27,0954508917,hoangjane@example.net,"89 Jane Tổ, Ngũ Hành Sơn, Đà Nẵng",1,1,hoangjane4
+CUS00507,Ông Thành Phạm,2004-01-10,0981265742,janele@example.net,"187 Nguyễn Số, Tân Phú, TP. Hồ Chí Minh",0,0,
+CUS00508,Quý cô Hà Hoàng,1976-05-18,0304023693,ndang@example.net,"57 Jane Hẻm, Hoàng Mai, Hà Nội",0,1,
+CUS00509,Ông Quang Phạm,1988-09-24,0312047137,janehoang@example.com,"54 John Đường, Thanh Xuân, Hà Nội",0,0,
+CUS00510,Bà Thành Lê,1977-06-06,0774988558,lejohn@example.org,"158 Vũ Ngõ, Hai Bà Trưng, Hà Nội",0,1,janebui2
+CUS00511,Minh Văn Đặng,1976-12-24,0793306745,sbui@example.org,"175 John Làng, Liên Chiểu, Đà Nẵng",0,0,
+CUS00512,Hà Thị Vũ,1992-10-28,0741283337,hoangjane@example.net,"152 Đặng Dãy, Ba Đình, Hà Nội",1,0,johntran6
+CUS00513,Cô Hồng Dương,2010-08-09,0866954132,jane59@example.org,"93 Bùi Số, Liên Chiểu, Đà Nẵng",1,1,janeduong6
+CUS00514,Hà Dương,1997-12-13,0866267055,johnhoang@example.com,"15 Jane Dãy, Bình Thạnh, TP. Hồ Chí Minh",0,0,
+CUS00515,Khoa Đặng,1975-04-22,0566343925,sduong@example.org,"151 John Đường, Hoàng Mai, Hà Nội",1,1,johntran7
+CUS00516,Thảo Mai,1977-02-21,0328671200,tle@example.com,"22 Đặng Đường, Quận 3, TP. Hồ Chí Minh",0,1,
+CUS00517,Cô Hương Dương,1991-02-20,0910245109,johnduong@example.com,"171 Jane Hẻm, Hai Bà Trưng, Hà Nội",1,1,fdang
+CUS00518,Anh Trung Trần,1973-09-11,0814949819,nguyenjohn@example.net,"101 Jane Dãy, Quận 5, TP. Hồ Chí Minh",0,1,
+CUS00519,Nhiên Đức Nguyễn,1982-10-05,0917934065,zbui@example.com,"165 John Hẻm, Đống Đa, Hà Nội",1,1,john291
+CUS00520,Hải Hoàng Đặng,1999-10-31,0746634533,ynguyen@example.com,"131 Trần Làng, Hai Bà Trưng, Hà Nội",1,1,jane381
+CUS00521,Bảo Phú Mai,1990-09-10,0321722145,john50@example.net,"151 Jane Khu, Quận 1, TP. Hồ Chí Minh",1,1,btran
+CUS00522,Khoa Đức Trần,2000-11-06,0389437052,john60@example.org,"105 Jane Dãy, Hoàng Mai, Hà Nội",1,1,johnhoang11
+CUS00523,Quý cô Linh Hoàng,1987-07-13,0577657256,john16@example.com,"100 Nguyễn Số, Quận 10, TP. Hồ Chí Minh",1,1,vujohn4
+CUS00524,Vân Phạm,1999-07-15,0324617520,jane05@example.com,"48 Dương Làng, Cẩm Lệ, Đà Nẵng",1,0,janepham4
+CUS00525,Vũ Trí Đặng,2009-08-31,0560055955,jane81@example.net,"52 Trần Đường, Thanh Xuân, Hà Nội",1,1,fnguyen1
+CUS00526,Hạnh Thế Lê,1970-02-14,0558486899,john59@example.net,"55 Jane Dãy, Thanh Khê, Đà Nẵng",1,0,john62
+CUS00527,Ngọc Lê,1997-06-18,0984870450,john28@example.org,"117 Vũ Làng, Hải Châu, Đà Nẵng",1,0,john111
+CUS00528,Vũ Trí Trần,1988-04-09,0899359374,maijohn@example.net,"107 Hoàng Hẻm, Tân Bình, TP. Hồ Chí Minh",0,0,
+CUS00529,Thành Trí Nguyễn,1983-06-21,0840830373,johnpham@example.org,"66 John Ngõ, Thủ Đức, TP. Hồ Chí Minh",0,0,
+CUS00530,Phương Phạm,1987-10-23,0960849079,janeduong@example.com,"138 Vũ Làng, Quận 10, TP. Hồ Chí Minh",1,1,lejohn5
+CUS00531,Hải Đức Mai,1979-07-29,0728306153,hoangjohn@example.com,"144 Jane Dãy, Gò Vấp, TP. Hồ Chí Minh",0,1,
+CUS00532,Quý cô Lan Nguyễn,1991-07-12,0544626325,janetran@example.com,"67 Jane Đường, Cẩm Lệ, Đà Nẵng",1,1,john60
+CUS00533,Ánh Nguyễn,1974-05-19,0312103142,tnguyen@example.com,"164 John Số, Liên Chiểu, Đà Nẵng",0,1,
+CUS00534,Chị Phương Bùi,1975-02-01,0379415152,janenguyen@example.net,"131 Vũ Dãy, Ngũ Hành Sơn, Đà Nẵng",0,1,
+CUS00535,Nhiên Hoàng,1987-05-27,0312252883,janebui@example.com,"197 Nguyễn Hẻm, Thủ Đức, TP. Hồ Chí Minh",0,1,nhoang
+CUS00536,Cô Ngọc Trần,1991-06-22,0861863239,duongjohn@example.com,"88 Đặng Đường, Ba Đình, Hà Nội",0,0,
+CUS00537,Thành Quang Mai,1998-08-06,0887655300,janedang@example.com,"169 Hoàng Dãy, Thanh Khê, Đà Nẵng",0,1,
+CUS00538,Bảo Dương,1990-04-26,0760571219,johnpham@example.org,"167 Mai Dãy, Bình Thạnh, TP. Hồ Chí Minh",1,1,jane271
+CUS00539,Bà Ánh Đặng,1993-05-08,0905348640,mvu@example.org,"31 Jane Số, Hai Bà Trưng, Hà Nội",0,1,fnguyen2
+CUS00540,Hải Mai Phạm,2008-07-08,0762456185,jane09@example.net,"179 Jane Làng, Thanh Khê, Đà Nẵng",1,0,jane01
+CUS00541,Quý cô Kim Lê,1973-05-15,0752128991,maijane@example.com,"7 Nguyễn Làng, Ba Đình, Hà Nội",0,0,
+CUS00542,Châu Mai,1986-04-06,0593913044,maijane@example.com,"32 Vũ Đường, Hai Bà Trưng, Hà Nội",1,0,jane701
+CUS00543,Lâm Nguyễn,2007-09-30,0948416046,john82@example.net,"148 John Làng, Tân Phú, TP. Hồ Chí Minh",0,0,
+CUS00544,Quý cô Yến Hoàng,1974-03-04,0317075681,utran@example.org,"151 Nguyễn Làng, Quận 3, TP. Hồ Chí Minh",0,1,jane19
+CUS00545,Bà Hà Trần,1981-11-09,0529107322,pduong@example.net,"86 Bùi Làng, Quận 3, TP. Hồ Chí Minh",1,0,john90
+CUS00546,Quang Bùi,2003-02-06,0384937830,john96@example.com,"105 Jane Dãy, Thanh Khê, Đà Nẵng",0,0,
+CUS00547,Quý ông Dũng Nguyễn,1989-04-11,0726969443,lmai@example.com,"75 John Làng, Tân Phú, TP. Hồ Chí Minh",1,1,kbui1
+CUS00548,Nam Dương,1997-08-25,0316934292,lejohn@example.org,"128 Jane Hẻm, Liên Chiểu, Đà Nẵng",0,1,duongjane2
+CUS00549,Thành Lê,2006-07-14,0501623419,hoangjohn@example.net,"60 Jane Đường, Quận 1, TP. Hồ Chí Minh",0,1,
+CUS00550,Khoa Phú Hoàng,1970-02-16,0353722155,fbui@example.net,"106 Đặng Dãy, Hải Châu, Đà Nẵng",0,0,
+CUS00551,Quang Quang Hoàng,1988-06-10,0523653377,adang@example.net,"170 Nguyễn Dãy, Long Biên, Hà Nội",1,1,johnbui3
+CUS00552,Trọng Bảo Phạm,1982-04-15,0884361424,dangjohn@example.com,"16 Hoàng Dãy, Quận 1, TP. Hồ Chí Minh",0,1,johnduong5
+CUS00553,Trọng Phạm,1982-07-13,0854373476,johndang@example.org,"151 John Số, Hoàn Kiếm, Hà Nội",1,0,jane36
+CUS00554,Anh Tùng Đặng,1982-02-04,0576388214,john10@example.net,"200 Jane Hẻm, Quận 1, TP. Hồ Chí Minh",1,1,janedang1
+CUS00555,Kim Đặng,2002-05-09,0946019134,evu@example.net,"169 John Số, Quận 10, TP. Hồ Chí Minh",1,1,vujohn5
+CUS00556,Chị Hải Đặng,1981-04-23,0982780205,nguyenjohn@example.org,"158 John Ngõ, Liên Chiểu, Đà Nẵng",0,0,
+CUS00557,Ánh Đặng,2004-06-21,0514644936,jane39@example.com,"50 John Số, Tân Bình, TP. Hồ Chí Minh",0,1,
+CUS00558,Nam Lê,2000-01-18,0933505573,jane87@example.org,"121 Jane Tổ, Gò Vấp, TP. Hồ Chí Minh",0,1,
+CUS00559,Hà Lê,1993-11-20,0319236037,nguyenjohn@example.org,"177 Đặng Ngõ, Hải Châu, Đà Nẵng",1,1,gdang
+CUS00560,Dũng Mai Bảo Đặng,1988-07-01,0533351040,jane35@example.net,"113 Jane Ngõ, Tân Phú, TP. Hồ Chí Minh",0,0,
+CUS00561,Huy Hoàng,1996-05-09,0515391149,john25@example.org,"116 Jane Số, Liên Chiểu, Đà Nẵng",0,0,
+CUS00562,Cô Hạnh Phạm,1994-01-31,0782073651,kmai@example.net,"122 Jane Đường, Quận 1, TP. Hồ Chí Minh",0,0,
+CUS00563,Cô Duyên Bùi,1973-12-24,0757820190,xle@example.com,"179 Mai Làng, Gò Vấp, TP. Hồ Chí Minh",0,1,
+CUS00564,Chi Mai,1999-12-08,0323332470,lejohn@example.com,"189 Jane Đường, Quận 7, TP. Hồ Chí Minh",1,1,mmai
+CUS00565,Vũ Xuân Mai,1999-09-06,0746212760,jane80@example.net,"53 Jane Khu, Cẩm Lệ, Đà Nẵng",0,1,snguyen
+CUS00566,Phương Lê,1977-09-08,0323126163,ctran@example.org,"28 Vũ Số, Ngũ Hành Sơn, Đà Nẵng",1,1,tranjohn3
+CUS00567,Quý cô Hạnh Mai,2001-05-21,0995729893,tranjohn@example.net,"136 Mai Làng, Cẩm Lệ, Đà Nẵng",0,1,
+CUS00568,Quang Lê,1990-02-22,0930364687,dangjane@example.org,"67 Lê Đường, Hai Bà Trưng, Hà Nội",0,1,
+CUS00569,Chị Nhật Bùi,1974-01-31,0918769208,vujohn@example.org,"189 Vũ Làng, Quận 7, TP. Hồ Chí Minh",0,1,
+CUS00570,Hạnh Dương,1978-01-24,0913881588,john29@example.org,"156 John Ngõ, Tân Phú, TP. Hồ Chí Minh",0,1,rle
+CUS00571,Minh Nguyễn,1974-03-13,0873231829,phamjohn@example.org,"12 Jane Tổ, Quận 5, TP. Hồ Chí Minh",1,1,lejane8
+CUS00572,Tùng Lê,1989-11-04,0772450000,nvu@example.net,"189 Jane Đường, Hải Châu, Đà Nẵng",1,0,johnpham3
+CUS00573,An Xuân Vũ,2004-10-11,0591137178,johnvu@example.org,"83 Jane Tổ, Quận 3, TP. Hồ Chí Minh",0,1,
+CUS00574,Phương Phạm,1999-01-18,0555618444,ymai@example.net,"7 Jane Số, Liên Chiểu, Đà Nẵng",1,0,lejane9
+CUS00575,Nhiên Đức Nguyễn,1977-02-22,0974781224,qdang@example.org,"148 Jane Ngõ, Cẩm Lệ, Đà Nẵng",1,0,sduong
+CUS00576,Hạnh Bùi,1992-06-29,0800900436,johnbui@example.org,"112 Phạm Khu, Tân Phú, TP. Hồ Chí Minh",0,1,buijane1
+CUS00577,Kim Lê,1985-06-29,0891362483,jane23@example.net,"104 Vũ Hẻm, Đống Đa, Hà Nội",0,1,
+CUS00578,Xuân Lê,1984-06-05,0808070633,johnduong@example.net,"148 Nguyễn Ngõ, Đống Đa, Hà Nội",1,1,kdang1
+CUS00579,Phương Mai,1988-05-26,0982210401,hnguyen@example.org,"198 Trần Làng, Ba Đình, Hà Nội",0,1,smai
+CUS00580,Hồng Nguyễn,2008-10-24,0344287738,jane90@example.com,"136 Bùi Ngõ, Tân Phú, TP. Hồ Chí Minh",1,0,dangjohn4
+CUS00581,Hoàng Trí Nguyễn,1978-09-12,0843212694,johnpham@example.com,"17 Mai Làng, Cẩm Lệ, Đà Nẵng",1,0,vnguyen1
+CUS00582,An Bảo Vũ,2002-07-26,0764203625,john16@example.org,"188 Hoàng Hẻm, Cẩm Lệ, Đà Nẵng",1,1,phamjohn4
+CUS00583,Lâm Đức Dương,2002-05-26,0806462554,tranjohn@example.org,"22 John Số, Thanh Xuân, Hà Nội",0,1,john161
+CUS00584,Cô Lan Hoàng,2008-11-10,0782430176,phamjane@example.org,"95 Jane Khu, Cẩm Lệ, Đà Nẵng",0,1,
+CUS00585,Khoa Mai Bảo Dương,1983-10-21,0331538882,jane79@example.org,"130 John Làng, Liên Chiểu, Đà Nẵng",0,1,john83
+CUS00586,Bà Lâm Nguyễn,2007-04-02,0704043333,janedang@example.org,"173 Dương Tổ, Ba Đình, Hà Nội",0,1,
+CUS00587,Trọng Bảo Vũ,2004-04-26,0363211197,mbui@example.net,"182 Hoàng Khu, Sơn Trà, Đà Nẵng",0,1,
+CUS00588,Duyên Nguyễn,1993-08-09,0933913732,janebui@example.com,"13 John Đường, Tân Phú, TP. Hồ Chí Minh",0,0,
+CUS00589,Ông Nam Hoàng,1988-03-02,0319875617,hoangjohn@example.com,"9 Jane Tổ, Gò Vấp, TP. Hồ Chí Minh",0,0,
+CUS00590,Bảo Mai Nguyễn,1992-06-17,0323009156,ktran@example.org,"3 Jane Số, Liên Chiểu, Đà Nẵng",0,0,
+CUS00591,Trung Hoàng,1975-01-10,0857744916,nguyenjohn@example.net,"63 John Dãy, Hải Châu, Đà Nẵng",0,0,
+CUS00592,Dương Phạm,1970-02-20,0314911894,dangjohn@example.org,"35 Trần Số, Sơn Trà, Đà Nẵng",0,1,vmai
+CUS00593,Trung Dương,1974-11-19,0926322399,john26@example.net,"7 Jane Số, Hai Bà Trưng, Hà Nội",0,1,zdang
+CUS00594,Hưng Hoàng Mai,1992-09-09,0811404288,johnmai@example.com,"87 Trần Tổ, Hai Bà Trưng, Hà Nội",1,1,john702
+CUS00595,Phúc Dương,1988-04-08,0866608112,lejane@example.org,"61 John Tổ, Bình Thạnh, TP. Hồ Chí Minh",0,1,dangjohn5
+CUS00596,Bảo Trần,1989-02-18,0556691062,mbui@example.com,"134 Jane Khu, Quận 1, TP. Hồ Chí Minh",0,1,qdang
+CUS00597,Bà Hồng Mai,2000-09-21,0545506882,tranjane@example.com,"197 Jane Ngõ, Quận 5, TP. Hồ Chí Minh",0,1,
+CUS00598,Bảo Bảo Hoàng,1989-07-27,0584401348,john37@example.net,"160 Phạm Đường, Đống Đa, Hà Nội",0,1,
+CUS00599,Quý cô Ánh Nguyễn,1970-03-23,0578826033,johntran@example.com,"77 John Khu, Bình Thạnh, TP. Hồ Chí Minh",0,0,
+CUS00600,Khoa Bùi,1998-12-09,0770908599,ntran@example.net,"171 Trần Đường, Quận 3, TP. Hồ Chí Minh",1,0,john95
+CUS00601,Quý cô Duyên Hoàng,2001-09-27,0849269996,ebui@example.net,"5 Jane Đường, Thanh Khê, Đà Nẵng",1,1,johnle4
+CUS00602,An Văn Bùi,2004-05-22,0997184285,buijane@example.com,"142 John Ngõ, Sơn Trà, Đà Nẵng",0,0,
+CUS00603,Ánh Phạm,1995-12-26,0914084993,jane31@example.org,"85 Dương Ngõ, Quận 5, TP. Hồ Chí Minh",1,0,john231
+CUS00604,Quý cô Lan Lê,1977-11-09,0566980690,vujohn@example.org,"200 Nguyễn Hẻm, Quận 10, TP. Hồ Chí Minh",0,1,
+CUS00605,Quý cô Phương Lê,1995-01-10,0823483893,ghoang@example.com,"165 Jane Số, Ba Đình, Hà Nội",0,1,tle
+CUS00606,Bà Lâm Lê,1984-08-12,0904056129,lmai@example.com,"36 Vũ Khu, Tân Phú, TP. Hồ Chí Minh",0,1,omai1
+CUS00607,Khoa Thị Vũ,1997-05-13,0782641869,dangjohn@example.org,"152 John Làng, Gò Vấp, TP. Hồ Chí Minh",0,1,
+CUS00608,Bác Hoàng Dương,1986-12-21,0861238595,janebui@example.com,"144 Dương Đường, Quận 1, TP. Hồ Chí Minh",1,1,johnle5
+CUS00609,Nhật Mai Bảo Nguyễn,2003-08-30,0539484002,vbui@example.net,"139 Nguyễn Dãy, Hoàng Mai, Hà Nội",1,0,duongjane3
+CUS00610,Chị Hồng Phạm,1991-06-18,0861016831,phamjohn@example.net,"154 Trần Làng, Ngũ Hành Sơn, Đà Nẵng",0,1,
+CUS00611,Hồng Dương,1973-08-23,0368094149,johnpham@example.org,"13 Jane Ngõ, Ba Đình, Hà Nội",0,0,
+CUS00612,Kim Đặng,1973-04-13,0976205344,johnhoang@example.org,"51 Jane Làng, Tân Phú, TP. Hồ Chí Minh",0,1,janebui3
+CUS00613,Anh Trung Nguyễn,1970-10-03,0826629250,bbui@example.com,"15 Đặng Ngõ, Đống Đa, Hà Nội",0,1,
+CUS00614,Lâm Hoàng Phạm,1994-12-01,0329914068,janevu@example.net,"99 Vũ Ngõ, Long Biên, Hà Nội",0,0,
+CUS00615,Cô Nhật Mai,2000-04-06,0325523561,johnpham@example.com,"60 Jane Hẻm, Tân Bình, TP. Hồ Chí Minh",0,1,ptran
+CUS00616,Kim Đặng,1990-12-16,0920613638,npham@example.net,"21 Trần Tổ, Quận 3, TP. Hồ Chí Minh",0,1,fbui
+CUS00617,Anh Châu Mai,2000-01-15,0813371844,janehoang@example.org,"89 Hoàng Hẻm, Liên Chiểu, Đà Nẵng",1,1,jane921
+CUS00618,Cô Xuân Vũ,1981-11-14,0326480164,janedang@example.org,"83 John Hẻm, Thủ Đức, TP. Hồ Chí Minh",0,0,
+CUS00619,Bà Dương Nguyễn,1982-10-10,0881277822,janemai@example.net,"102 Nguyễn Đường, Hoàn Kiếm, Hà Nội",0,1,pvu
+CUS00620,Bà Nhật Nguyễn,1973-05-16,0921348629,jane94@example.net,"151 Trần Tổ, Tân Bình, TP. Hồ Chí Minh",1,1,janetran2
+CUS00621,Chị Hạnh Đặng,1994-07-01,0836383182,johnnguyen@example.org,"156 John Đường, Cẩm Lệ, Đà Nẵng",1,0,johnvu4
+CUS00622,Kim Lê,1994-05-19,0807986617,jane01@example.org,"193 Jane Dãy, Thủ Đức, TP. Hồ Chí Minh",0,1,john442
+CUS00623,Bà Nhật Bùi,1991-06-16,0505068212,janemai@example.org,"133 Dương Làng, Gò Vấp, TP. Hồ Chí Minh",0,1,
+CUS00624,Khoa Đặng,1978-02-04,0850587146,snguyen@example.com,"23 John Số, Thanh Khê, Đà Nẵng",1,1,john06
+CUS00625,Vân Nguyễn,1995-07-18,0925967908,johnhoang@example.com,"19 Jane Đường, Thanh Khê, Đà Nẵng",1,1,jane201
+CUS00626,Bác Tùng Đặng,1996-06-29,0780220509,qpham@example.org,"139 Vũ Hẻm, Liên Chiểu, Đà Nẵng",0,1,pvu1
+CUS00627,Quý cô Dương Lê,2001-01-12,0784249598,dangjohn@example.org,"184 John Khu, Liên Chiểu, Đà Nẵng",0,1,
+CUS00628,Tú Mai,1994-10-31,0371523867,john98@example.com,"193 John Ngõ, Long Biên, Hà Nội",0,1,tbui1
+CUS00629,Chị Xuân Bùi,1987-07-08,0846191779,jane39@example.com,"158 Dương Tổ, Quận 1, TP. Hồ Chí Minh",0,1,
+CUS00630,Hà Trần,1993-11-15,0822589370,buijohn@example.org,"130 Phạm Làng, Ngũ Hành Sơn, Đà Nẵng",0,1,
+CUS00631,Quý cô Mai Bùi,2005-06-18,0550405669,hnguyen@example.net,"175 Vũ Hẻm, Đống Đa, Hà Nội",0,1,
+CUS00632,Thảo Dương,1984-11-20,0925544286,janebui@example.org,"72 Jane Dãy, Quận 5, TP. Hồ Chí Minh",0,1,odang1
+CUS00633,Quang Hoàng,1990-08-31,0528946338,johndang@example.org,"48 John Tổ, Sơn Trà, Đà Nẵng",0,1,jane90
+CUS00634,Nhật Dương,2010-06-10,0715285725,john15@example.net,"43 Jane Hẻm, Hoàng Mai, Hà Nội",0,0,
+CUS00635,An Dương,1987-06-15,0558951381,john86@example.org,"178 Bùi Đường, Cầu Giấy, Hà Nội",1,1,john48
+CUS00636,Hải Hoàng,1995-02-12,0768509574,nguyenjane@example.net,"133 Phạm Khu, Ngũ Hành Sơn, Đà Nẵng",0,1,vujane1
+CUS00637,Bảo Hải Lê,2007-01-01,0991179720,dangjohn@example.net,"173 John Làng, Hoàn Kiếm, Hà Nội",1,1,jane94
+CUS00638,Hà Mai Mai,1978-12-07,0315364154,jane03@example.com,"69 Nguyễn Ngõ, Thanh Khê, Đà Nẵng",0,0,
+CUS00639,An Văn Lê,1990-05-09,0559367813,ipham@example.org,"56 Vũ Đường, Quận 3, TP. Hồ Chí Minh",1,0,gdang1
+CUS00640,Xuân Đặng,2005-10-31,0721410527,jane10@example.com,"159 Hoàng Dãy, Quận 1, TP. Hồ Chí Minh",0,0,
+CUS00641,Bảo Quang Mai,1987-03-06,0880927045,johnle@example.net,"135 Phạm Khu, Thủ Đức, TP. Hồ Chí Minh",0,0,
+CUS00642,Thành Hoàng Trần,1975-10-28,0525866059,evu@example.org,"103 John Dãy, Sơn Trà, Đà Nẵng",1,1,phamjane7
+CUS00643,Ông Trung Bùi,1992-09-19,0722758548,janehoang@example.com,"72 Jane Đường, Ngũ Hành Sơn, Đà Nẵng",0,0,
+CUS00644,Quý ông Nhiên Trần,1998-05-11,0942824911,choang@example.com,"183 Nguyễn Khu, Hai Bà Trưng, Hà Nội",1,1,john19
+CUS00645,Anh Đức Vũ,2006-06-11,0302453931,buijane@example.com,"2 Jane Dãy, Quận 5, TP. Hồ Chí Minh",0,0,
+CUS00646,Nhật Lê,1980-08-09,0330557083,jane10@example.com,"82 Jane Hẻm, Bình Thạnh, TP. Hồ Chí Minh",1,0,jane00
+CUS00647,Hương Bùi,1998-05-31,0788966997,janevu@example.org,"78 John Tổ, Quận 10, TP. Hồ Chí Minh",0,1,tranjane4
+CUS00648,Huy Đặng,1976-06-18,0846202582,bpham@example.com,"115 Dương Dãy, Gò Vấp, TP. Hồ Chí Minh",0,0,
+CUS00649,Trung Bùi,1986-07-18,0581231239,john60@example.org,"56 Jane Hẻm, Tân Phú, TP. Hồ Chí Minh",1,0,john451
+CUS00650,Cô An Dương,1976-06-04,0801836472,johndang@example.com,"16 John Ngõ, Hải Châu, Đà Nẵng",0,1,
+CUS00651,Cô Dương Đặng,1979-02-24,0917225775,johntran@example.net,"104 Lê Đường, Tân Bình, TP. Hồ Chí Minh",0,1,vujohn6
+CUS00652,Bà Xuân Vũ,1981-09-05,0590529187,janevu@example.org,"98 John Làng, Đống Đa, Hà Nội",0,1,
+CUS00653,An Phạm,1987-02-26,0571721733,dangjohn@example.org,"141 John Hẻm, Ba Đình, Hà Nội",0,1,
+CUS00654,Bảo Trần,1989-11-13,0505222999,john97@example.org,"150 Jane Số, Cẩm Lệ, Đà Nẵng",0,0,
+CUS00655,Lan Lê,1979-08-09,0914388232,john34@example.com,"84 John Khu, Gò Vấp, TP. Hồ Chí Minh",0,0,
+CUS00656,Phúc Phú Đặng,1984-08-01,0558446177,janemai@example.net,"139 Nguyễn Hẻm, Thủ Đức, TP. Hồ Chí Minh",0,0,
+CUS00657,Hưng Đặng,2003-01-24,0395449791,janedang@example.net,"64 John Dãy, Thanh Xuân, Hà Nội",0,1,tranjohn4
+CUS00658,Bà Ngọc Đặng,1978-02-04,0592712053,janehoang@example.net,"1 Jane Làng, Ngũ Hành Sơn, Đà Nẵng",0,1,
+CUS00659,Hải Quang Bùi,1999-11-28,0852988322,janetran@example.org,"55 Lê Dãy, Hoàn Kiếm, Hà Nội",0,1,
+CUS00660,Dương Mai,1971-04-06,0808320048,janenguyen@example.com,"94 John Khu, Quận 5, TP. Hồ Chí Minh",0,0,
+CUS00661,Nhật Phạm,1991-12-07,0558523860,bbui@example.org,"90 Lê Làng, Long Biên, Hà Nội",0,0,
+CUS00662,Cô An Phạm,2005-10-29,0743619951,phamjohn@example.org,"5 Jane Ngõ, Quận 7, TP. Hồ Chí Minh",0,0,
+CUS00663,Quý cô Mai Bùi,1990-08-24,0910292950,johnpham@example.net,"187 Jane Dãy, Quận 7, TP. Hồ Chí Minh",1,0,johnmai5
+CUS00664,Vân Lê,1974-02-24,0509309671,ihoang@example.org,"131 Lê Số, Cẩm Lệ, Đà Nẵng",1,1,dpham
+CUS00665,Cô Mai Hoàng,1979-06-10,0322132176,duongjane@example.net,"102 Hoàng Ngõ, Quận 5, TP. Hồ Chí Minh",0,1,
+CUS00666,An Hữu Phạm,1990-12-06,0316612201,john72@example.net,"23 Jane Dãy, Cẩm Lệ, Đà Nẵng",0,1,jane12
+CUS00667,Linh Dương,1997-09-13,0833930493,lle@example.com,"136 John Khu, Cẩm Lệ, Đà Nẵng",0,1,
+CUS00668,Chị Lan Dương,1989-05-09,0781242114,janeduong@example.org,"117 Đặng Khu, Quận 5, TP. Hồ Chí Minh",1,1,vujohn7
+CUS00669,Bảo Hải Đặng,1971-01-08,0952294620,dangjohn@example.org,"3 Dương Ngõ, Bình Thạnh, TP. Hồ Chí Minh",0,1,
+CUS00670,An Mai Bảo Phạm,2007-09-06,0339952970,maijohn@example.net,"17 Đặng Hẻm, Hoàng Mai, Hà Nội",0,1,
+CUS00671,Quang Phạm,2004-10-28,0565858564,johnle@example.com,"71 Hoàng Làng, Quận 5, TP. Hồ Chí Minh",1,0,tduong
+CUS00672,Quý ông Trung Đặng,2004-03-16,0570615927,john39@example.net,"7 Jane Dãy, Quận 5, TP. Hồ Chí Minh",0,1,john452
+CUS00673,Trọng Mai Trần,1980-05-09,0366906322,janeduong@example.com,"114 Vũ Đường, Hải Châu, Đà Nẵng",0,1,nguyenjohn5
+CUS00674,Cô Lâm Trần,2008-07-30,0720340301,phamjohn@example.net,"82 John Đường, Bình Thạnh, TP. Hồ Chí Minh",1,1,jane33
+CUS00675,Chị Lâm Bùi,1970-10-04,0856491579,johntran@example.net,"145 Nguyễn Dãy, Long Biên, Hà Nội",0,0,
+CUS00676,Quý cô Kim Hoàng,2000-05-16,0812476010,tranjane@example.org,"65 Jane Hẻm, Quận 7, TP. Hồ Chí Minh",0,1,vbui
+CUS00677,Bà An Hoàng,1994-11-23,0506831764,johnmai@example.net,"10 Jane Khu, Hải Châu, Đà Nẵng",1,1,hoangjane5
+CUS00678,Bác Hưng Phạm,2004-03-31,0915712901,buijane@example.com,"4 Vũ Hẻm, Tân Phú, TP. Hồ Chí Minh",0,1,adang
+CUS00679,Nam Vũ,1985-05-17,0330735104,janevu@example.com,"116 John Khu, Gò Vấp, TP. Hồ Chí Minh",0,1,bvu
+CUS00680,Thành Phạm,1986-03-14,0821300962,gtran@example.com,"52 John Khu, Thanh Xuân, Hà Nội",0,0,
+CUS00681,Quý ông Hưng Lê,1985-08-26,0770318053,johnbui@example.org,"153 Mai Làng, Hoàng Mai, Hà Nội",0,1,hhoang
+CUS00682,Anh Trần,2000-02-07,0846662159,jane92@example.org,"41 Jane Ngõ, Ngũ Hành Sơn, Đà Nẵng",0,0,
+CUS00683,Nhật Thế Hoàng,1972-11-15,0304666145,maijohn@example.com,"5 Jane Đường, Ngũ Hành Sơn, Đà Nẵng",0,0,
+CUS00684,Vân Đặng,1998-02-13,0977140049,janedang@example.com,"115 Mai Tổ, Quận 1, TP. Hồ Chí Minh",0,0,
+CUS00685,Anh Dũng Hoàng,1980-08-01,0790531520,jane55@example.org,"194 John Số, Thủ Đức, TP. Hồ Chí Minh",0,0,
+CUS00686,Bà Hà Đặng,1981-06-18,0987313797,johnduong@example.net,"102 Jane Ngõ, Long Biên, Hà Nội",0,1,
+CUS00687,Nhật Mai Bảo Bùi,2000-09-25,0716612374,phamjane@example.net,"192 John Đường, Liên Chiểu, Đà Nẵng",1,1,yle
+CUS00688,Kim Trí Nguyễn,1972-03-15,0538994991,vujane@example.org,"112 Trần Số, Bình Thạnh, TP. Hồ Chí Minh",0,1,johnhoang12
+CUS00689,Nhật Nguyễn,1997-05-22,0503708782,maijohn@example.org,"111 Hoàng Làng, Đống Đa, Hà Nội",0,1,
+CUS00690,Chị Nhật Dương,1974-09-28,0718135998,vujohn@example.org,"162 Đặng Tổ, Quận 1, TP. Hồ Chí Minh",1,1,etran
+CUS00691,Quang Mai,1996-09-17,0317088948,johnvu@example.net,"38 Jane Hẻm, Ngũ Hành Sơn, Đà Nẵng",0,0,
+CUS00692,Hồng Phạm,1971-05-16,0782217588,jane25@example.net,"67 Jane Làng, Ngũ Hành Sơn, Đà Nẵng",0,0,
+CUS00693,Nhật Dương,2003-01-30,0382004806,janedang@example.com,"113 John Khu, Sơn Trà, Đà Nẵng",0,1,rtran2
+CUS00694,Chị Bảo Mai,1991-04-12,0914961128,johndang@example.com,"98 Trần Ngõ, Quận 7, TP. Hồ Chí Minh",1,1,johnvu5
+CUS00695,Cô Nhật Lê,2009-12-19,0888276970,hoangjohn@example.org,"154 John Tổ, Đống Đa, Hà Nội",0,0,
+CUS00696,Bảo Bảo Vũ,1981-12-25,0396156078,lduong@example.org,"67 Hoàng Đường, Hải Châu, Đà Nẵng",1,1,janebui4
+CUS00697,Bà Vi Hoàng,1998-10-24,0935651796,buijohn@example.org,"142 Jane Làng, Cẩm Lệ, Đà Nẵng",1,1,janetran3
+CUS00698,Thảo Nguyễn,1978-02-25,0796683496,vujane@example.net,"180 Mai Số, Ngũ Hành Sơn, Đà Nẵng",1,1,john641
+CUS00699,Quý cô Linh Đặng,1971-02-24,0328516225,john47@example.net,"114 Phạm Dãy, Quận 3, TP. Hồ Chí Minh",1,1,tranjane5
+CUS00700,Hưng Phú Trần,1996-01-07,0920893486,johnhoang@example.com,"139 Jane Hẻm, Thanh Xuân, Hà Nội",0,0,
+CUS00701,Phương Mai,1993-11-23,0872879916,uhoang@example.com,"67 Trần Làng, Đống Đa, Hà Nội",0,1,janepham5
+CUS00702,Bác Huy Dương,1970-12-28,0559236133,johndang@example.net,"151 Jane Số, Quận 3, TP. Hồ Chí Minh",0,1,johnduong6
+CUS00703,Ông Trọng Phạm,1991-04-25,0345881650,maijohn@example.com,"64 John Dãy, Đống Đa, Hà Nội",0,0,
+CUS00704,Quý cô Thảo Lê,2010-10-27,0541916503,onguyen@example.org,"127 Jane Dãy, Thanh Xuân, Hà Nội",1,0,jane48
+CUS00705,Cô Phương Phạm,2001-04-07,0377182498,john42@example.org,"103 Hoàng Tổ, Ngũ Hành Sơn, Đà Nẵng",1,1,janele5
+CUS00706,Ánh Nguyễn,1995-09-18,0882141746,maijohn@example.org,"103 Trần Ngõ, Hải Châu, Đà Nẵng",0,1,
+CUS00707,Phương Mai,1993-03-11,0848698939,nguyenjane@example.net,"101 Hoàng Đường, Đống Đa, Hà Nội",0,1,jane65
+CUS00708,Quang Đức Vũ,1987-10-04,0715594501,duongjohn@example.com,"146 Lê Hẻm, Ngũ Hành Sơn, Đà Nẵng",0,1,janevu4
+CUS00709,Bà Hạnh Bùi,1975-07-27,0853605117,nguyenjohn@example.org,"15 Vũ Khu, Thanh Khê, Đà Nẵng",0,0,
+CUS00710,Lâm Đức Dương,1973-07-11,0963653621,mnguyen@example.net,"138 Bùi Làng, Thủ Đức, TP. Hồ Chí Minh",0,0,
+CUS00711,An Lê,1993-02-01,0309942489,nguyenjane@example.net,"2 Phạm Tổ, Long Biên, Hà Nội",0,1,
+CUS00712,Lâm Mai Bảo Dương,1981-03-23,0789667605,hdang@example.com,"175 Phạm Ngõ, Hoàng Mai, Hà Nội",1,1,nguyenjane3
+CUS00713,Bảo Vũ,2005-05-26,0777580974,janevu@example.com,"109 Jane Đường, Hai Bà Trưng, Hà Nội",0,1,
+CUS00714,Cô Linh Dương,2004-06-14,0823546622,hoangjane@example.net,"8 Nguyễn Số, Liên Chiểu, Đà Nẵng",1,1,john15
+CUS00715,Bác Huy Đặng,2004-07-23,0799530062,ynguyen@example.org,"102 Trần Làng, Quận 3, TP. Hồ Chí Minh",0,0,
+CUS00716,Hà Hữu Bùi,2008-05-18,0867746259,jane51@example.org,"196 Trần Hẻm, Đống Đa, Hà Nội",1,1,buijane2
+CUS00717,Hồng Đặng,1973-01-08,0315848860,ddang@example.net,"182 Đặng Ngõ, Quận 10, TP. Hồ Chí Minh",1,1,john76
+CUS00718,Chị Mai Nguyễn,1970-04-11,0986778231,janevu@example.net,"122 Jane Hẻm, Quận 3, TP. Hồ Chí Minh",0,0,
+CUS00719,Hạnh Đức Vũ,1977-10-03,0772642612,john73@example.org,"4 Jane Khu, Long Biên, Hà Nội",0,0,
+CUS00720,Quý cô Bảo Dương,2002-10-07,0575365968,john25@example.org,"65 Mai Làng, Tân Phú, TP. Hồ Chí Minh",1,1,hoangjane6
+CUS00721,Khoa Hải Hoàng,1972-02-27,0924218385,phamjane@example.net,"68 Lê Làng, Bình Thạnh, TP. Hồ Chí Minh",0,1,
+CUS00722,Lan Vũ,2009-05-31,0844547523,janetran@example.net,"9 Dương Làng, Ba Đình, Hà Nội",1,0,jane10
+CUS00723,Bác Bảo Hoàng,2007-12-05,0997917763,umai@example.net,"74 Jane Số, Tân Bình, TP. Hồ Chí Minh",0,1,
+CUS00724,Quý ông Hưng Hoàng,1980-11-23,0338862175,sle@example.org,"44 Jane Khu, Tân Bình, TP. Hồ Chí Minh",0,1,
+CUS00725,Hoàng Hoàng Mai,2002-01-14,0504530693,tle@example.org,"100 Dương Làng, Thủ Đức, TP. Hồ Chí Minh",1,1,janenguyen4
+CUS00726,Bà Hà Nguyễn,1984-07-30,0540018167,umai@example.org,"85 Jane Dãy, Thanh Khê, Đà Nẵng",0,1,jane521
+CUS00727,Bảo Đức Vũ,1991-04-09,0744544608,john75@example.com,"45 Hoàng Dãy, Hai Bà Trưng, Hà Nội",0,1,jane73
+CUS00728,Anh Thị Dương,1979-06-07,0993781053,dangjane@example.org,"122 John Đường, Hải Châu, Đà Nẵng",0,0,
+CUS00729,Lan Phạm,1998-11-15,0786999698,phamjohn@example.org,"170 John Tổ, Liên Chiểu, Đà Nẵng",0,1,ktran
+CUS00730,Cô Yến Hoàng,1993-01-29,0757927147,janetran@example.org,"16 Lê Đường, Liên Chiểu, Đà Nẵng",0,0,
+CUS00731,Bảo Mai,2000-07-19,0986424238,janepham@example.net,"187 Jane Dãy, Quận 3, TP. Hồ Chí Minh",1,1,sle
+CUS00732,Trọng Nguyễn,1999-02-06,0912187062,vnguyen@example.com,"61 Trần Ngõ, Thanh Khê, Đà Nẵng",1,1,janetran4
+CUS00733,Cô Linh Trần,2009-07-18,0983221010,johnbui@example.net,"13 Phạm Làng, Liên Chiểu, Đà Nẵng",0,0,
+CUS00734,Kim Bùi,1978-04-21,0967661008,johnpham@example.net,"178 John Ngõ, Quận 3, TP. Hồ Chí Minh",1,0,janemai2
+CUS00735,Hưng Mai Bảo Lê,2007-09-27,0810814356,nle@example.org,"184 Trần Ngõ, Ngũ Hành Sơn, Đà Nẵng",0,1,
+CUS00736,Hạnh Mai Đặng,2005-09-29,0753198074,lle@example.net,"142 John Ngõ, Thanh Khê, Đà Nẵng",1,1,johnpham4
+CUS00737,Châu Tấn Bùi,1988-11-21,0554695100,jane44@example.com,"36 Dương Dãy, Cẩm Lệ, Đà Nẵng",0,0,
+CUS00738,Chị Hương Lê,1978-11-28,0354596715,jane78@example.net,"47 Jane Khu, Hoàng Mai, Hà Nội",0,0,
+CUS00739,Quý ông Phúc Nguyễn,1970-11-17,0711065411,janenguyen@example.org,"109 Vũ Dãy, Ngũ Hành Sơn, Đà Nẵng",0,1,gvu
+CUS00740,Nhật Phạm,2001-08-01,0885169949,janehoang@example.net,"1 John Làng, Quận 10, TP. Hồ Chí Minh",0,0,
+CUS00741,Bà Nhật Đặng,1991-01-22,0883482689,janenguyen@example.org,"111 John Hẻm, Cầu Giấy, Hà Nội",1,1,janeduong7
+CUS00742,Chị Bảo Mai,1995-04-30,0968889178,vujane@example.com,"60 Bùi Khu, Tân Phú, TP. Hồ Chí Minh",0,1,
+CUS00743,Anh Thành Đặng,2000-08-06,0962571976,jane20@example.com,"95 Jane Khu, Ba Đình, Hà Nội",0,1,
+CUS00744,Lâm Hải Phạm,1971-01-18,0778982604,vujane@example.org,"111 Jane Ngõ, Quận 5, TP. Hồ Chí Minh",0,1,buijane3
+CUS00745,Hải Phú Đặng,1973-07-12,0375585177,janepham@example.net,"36 Jane Hẻm, Sơn Trà, Đà Nẵng",0,1,
+CUS00746,Bảo Vũ,1990-07-01,0769211882,johnbui@example.com,"125 Jane Khu, Thanh Khê, Đà Nẵng",1,1,vhoang1
+CUS00747,An Lê,1982-07-29,0722297589,janele@example.net,"112 John Hẻm, Đống Đa, Hà Nội",1,0,johnduong7
+CUS00748,Ông Trung Mai,1973-05-04,0518545705,maijohn@example.net,"69 Jane Đường, Hai Bà Trưng, Hà Nội",0,0,
+CUS00749,Chị Hương Trần,1989-07-08,0809001635,jane64@example.net,"94 Jane Tổ, Quận 5, TP. Hồ Chí Minh",0,1,
+CUS00750,Ánh Vũ,1988-05-23,0772828954,jane42@example.org,"35 Hoàng Khu, Quận 7, TP. Hồ Chí Minh",1,1,jane922
+CUS00751,Cô Duyên Đặng,1970-03-24,0547312616,johnnguyen@example.net,"47 John Tổ, Liên Chiểu, Đà Nẵng",1,1,tranjane6
+CUS00752,Bà Lâm Vũ,1994-04-29,0305801195,nle@example.net,"124 John Số, Ba Đình, Hà Nội",0,0,
+CUS00753,Quang Xuân Vũ,1970-01-17,0561053709,jane82@example.com,"81 John Ngõ, Quận 3, TP. Hồ Chí Minh",0,0,
+CUS00754,Bác Phúc Dương,1976-02-09,0700741894,omai@example.com,"152 Vũ Số, Gò Vấp, TP. Hồ Chí Minh",1,1,jane541
+CUS00755,Minh Văn Trần,1995-03-15,0976989365,jane23@example.com,"146 Lê Hẻm, Thanh Khê, Đà Nẵng",0,1,john18
+CUS00756,Bà Linh Nguyễn,1975-11-25,0398273481,hduong@example.net,"188 John Đường, Gò Vấp, TP. Hồ Chí Minh",0,1,john581
+CUS00757,Cô Kim Hoàng,1979-07-26,0702589632,jane47@example.com,"67 Hoàng Số, Quận 1, TP. Hồ Chí Minh",0,0,
+CUS00758,Phương Đức Nguyễn,1973-01-30,0783526806,rduong@example.com,"113 Bùi Số, Sơn Trà, Đà Nẵng",0,1,
+CUS00759,Vũ Hoàng Vũ,2008-09-01,0598344883,janeduong@example.org,"115 Jane Làng, Gò Vấp, TP. Hồ Chí Minh",1,1,nguyenjohn6
+CUS00760,Nam Hoàng Mai,1994-07-18,0762805507,janemai@example.com,"162 John Hẻm, Gò Vấp, TP. Hồ Chí Minh",1,1,sbui
+CUS00761,Anh Phú Nguyễn,2006-08-14,0751562392,john69@example.org,"159 Vũ Làng, Long Biên, Hà Nội",0,1,ebui1
+CUS00762,Ông Anh Nguyễn,2002-09-16,0374091311,janetran@example.com,"28 Jane Đường, Hai Bà Trưng, Hà Nội",0,1,
+CUS00763,Chị Hà Trần,1974-06-29,0554760220,vhoang@example.com,"5 Lê Ngõ, Cẩm Lệ, Đà Nẵng",0,1,bduong
+CUS00764,Bác Dũng Đặng,1988-03-20,0501227595,jane35@example.net,"175 John Ngõ, Hoàn Kiếm, Hà Nội",0,1,mmai1
+CUS00765,Hải Dương,2009-02-10,0715325947,vpham@example.com,"21 Dương Tổ, Hải Châu, Đà Nẵng",0,1,
+CUS00766,Anh Trí Lê,1998-06-05,0832798059,john83@example.org,"26 Lê Đường, Tân Bình, TP. Hồ Chí Minh",0,1,hhoang1
+CUS00767,Thành Dương,2000-03-27,0364934039,john04@example.net,"13 Phạm Hẻm, Quận 3, TP. Hồ Chí Minh",1,1,omai2
+CUS00768,Hạnh Nguyễn,1975-04-26,0389411849,john70@example.org,"110 Nguyễn Làng, Quận 7, TP. Hồ Chí Minh",1,1,hduong1
+CUS00769,Hạnh Phú Lê,2010-10-25,0928553595,jane70@example.org,"158 Nguyễn Dãy, Sơn Trà, Đà Nẵng",1,1,john50
+CUS00770,Khoa Hoàng Lê,1976-07-28,0899006968,janele@example.org,"105 Hoàng Ngõ, Quận 1, TP. Hồ Chí Minh",1,1,gduong
+CUS00771,Bà Ngọc Phạm,1972-08-21,0337842339,jane65@example.org,"68 Trần Tổ, Long Biên, Hà Nội",1,1,janenguyen5
+CUS00772,Trọng Hoàng,2008-01-20,0367762550,janemai@example.net,"6 Trần Làng, Cầu Giấy, Hà Nội",1,1,jane79
+CUS00773,Trọng Nguyễn,1979-10-12,0565426241,lejane@example.com,"127 John Dãy, Quận 3, TP. Hồ Chí Minh",1,1,sduong1
+CUS00774,Phương Bùi,1990-08-10,0533451100,janenguyen@example.net,"180 John Làng, Thủ Đức, TP. Hồ Chí Minh",0,1,janedang2
+CUS00775,Hải Xuân Mai,1995-08-18,0508868430,nguyenjane@example.net,"92 John Tổ, Ba Đình, Hà Nội",1,0,dangjane1
+CUS00776,Quý cô Lâm Đặng,1976-10-17,0904575988,lejohn@example.org,"35 John Tổ, Cầu Giấy, Hà Nội",0,1,jhoang
+CUS00777,Bà Duyên Mai,1990-03-28,0996426033,johnle@example.com,"44 Jane Đường, Quận 3, TP. Hồ Chí Minh",1,1,wpham
+CUS00778,Chị Nhật Phạm,1988-10-19,0758214770,dangjohn@example.org,"118 Jane Số, Quận 5, TP. Hồ Chí Minh",0,0,
+CUS00779,Trọng Nguyễn,2001-03-04,0580236219,hle@example.org,"42 Dương Ngõ, Bình Thạnh, TP. Hồ Chí Minh",0,1,ule
+CUS00780,Quang Mai,2002-07-19,0970591611,john95@example.com,"134 Nguyễn Làng, Hải Châu, Đà Nẵng",0,1,
+CUS00781,Thảo Bùi,1992-07-27,0959772168,jane08@example.org,"187 Lê Khu, Hải Châu, Đà Nẵng",0,1,phamjane8
+CUS00782,Trọng Hoàng Trần,1993-03-07,0993186928,janehoang@example.com,"123 Hoàng Đường, Cầu Giấy, Hà Nội",1,1,johnnguyen5
+CUS00783,Trọng Đức Nguyễn,2010-10-04,0701822720,johnle@example.com,"85 John Khu, Sơn Trà, Đà Nẵng",0,0,
+CUS00784,Bảo Xuân Nguyễn,1972-06-03,0522041447,johnmai@example.com,"161 Lê Tổ, Đống Đa, Hà Nội",1,1,npham
+CUS00785,Chị Kim Mai,1982-07-04,0316599302,john60@example.net,"192 Jane Tổ, Liên Chiểu, Đà Nẵng",0,0,
+CUS00786,Minh Vũ,2003-01-02,0532277521,john52@example.net,"71 Phạm Ngõ, Quận 1, TP. Hồ Chí Minh",0,1,npham1
+CUS00787,Quý cô Yến Dương,1980-12-06,0850646300,phamjohn@example.org,"24 Dương Số, Tân Phú, TP. Hồ Chí Minh",1,1,buijohn3
+CUS00788,Trọng Tấn Dương,1985-06-14,0769198321,john65@example.com,"118 Hoàng Ngõ, Long Biên, Hà Nội",0,1,
+CUS00789,Duyên Bùi,2000-09-03,0374690298,jane08@example.net,"107 Phạm Làng, Hải Châu, Đà Nẵng",1,1,jane05
+CUS00790,Thành Phạm,1979-10-15,0941966229,buijohn@example.com,"190 Hoàng Số, Cầu Giấy, Hà Nội",1,0,janebui5
+CUS00791,Thành Mai Bảo Đặng,1973-08-22,0356856670,john15@example.net,"129 Jane Tổ, Ba Đình, Hà Nội",0,1,maijohn3
+CUS00792,Hoàng Phạm,1987-03-10,0965504944,jane97@example.net,"147 Vũ Số, Quận 3, TP. Hồ Chí Minh",1,1,janedang3
+CUS00793,Trọng Hoàng,1983-06-25,0539650496,tranjane@example.org,"155 Jane Khu, Quận 10, TP. Hồ Chí Minh",0,1,kdang2
+CUS00794,Lâm Đặng,1977-07-03,0342436258,buijohn@example.org,"31 Đặng Số, Gò Vấp, TP. Hồ Chí Minh",0,1,janeduong8
+CUS00795,Quý cô Ánh Dương,2001-03-12,0387991962,maijohn@example.org,"132 John Số, Tân Phú, TP. Hồ Chí Minh",1,1,maijohn4
+CUS00796,Hạnh Bảo Đặng,1998-09-08,0996433853,johnvu@example.net,"169 Vũ Đường, Hải Châu, Đà Nẵng",1,1,jane44
+CUS00797,Nhiên Lê,2009-10-21,0705833343,nguyenjohn@example.com,"48 Hoàng Tổ, Long Biên, Hà Nội",1,0,jhoang1
+CUS00798,Hà Quang Đặng,2006-07-27,0787605457,jane83@example.net,"181 Nguyễn Dãy, Quận 3, TP. Hồ Chí Minh",1,1,johnbui4
+CUS00799,Bác Nhiên Lê,2004-11-30,0857694535,johntran@example.net,"69 Jane Tổ, Cẩm Lệ, Đà Nẵng",0,0,
+CUS00800,Xuân Trần,1980-10-05,0986163421,ndang@example.net,"99 Đặng Đường, Hoàng Mai, Hà Nội",0,1,

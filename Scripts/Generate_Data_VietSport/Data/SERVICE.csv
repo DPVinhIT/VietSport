@@ -1,0 +1,101 @@
+ServiceID,ServiceName,TimeUnitType,Price,AvailableStatus
+SRV0001,Tủ đồ cá nhân loại nhỏ,Lượt,20000,Đang hoạt động
+SRV0002,Tủ đồ cá nhân loại lớn,Lượt,28000,Đang hoạt động
+SRV0003,Tủ đồ VIP có khóa điện tử,Lượt,48000,Đang hoạt động
+SRV0004,Thuê vợt cầu lông Yonex,Giờ,24000,Đang hoạt động
+SRV0005,Thuê vợt cầu lông Victor,Giờ,30000,Đang hoạt động
+SRV0006,Thuê vợt tennis Wilson,Giờ,49000,Đang hoạt động
+SRV0007,Thuê vợt tennis Head,Giờ,38000,Đang hoạt động
+SRV0008,Thuê bóng đá size 4,Lượt,28000,Bảo trì
+SRV0009,Thuê bóng đá size 5,Lượt,41000,Đang hoạt động
+SRV0010,Thuê bóng rổ Spalding,Lượt,40000,Đang hoạt động
+SRV0011,Thuê giày thể thao,Giờ,39000,Tạm ngưng
+SRV0012,Thuê áo đấu có số,Lượt,19000,Đang hoạt động
+SRV0013,Phòng VIP có điều hòa,Giờ,197000,Đang hoạt động
+SRV0014,Phòng VIP có màn hình LED,Giờ,327000,Đang hoạt động
+SRV0015,Phòng họp đội,Giờ,137000,Đang hoạt động
+SRV0016,Thuê HLV cá nhân - Basic,Giờ,285000,Bảo trì
+SRV0017,Thuê HLV cá nhân - Pro,Giờ,511000,Đang hoạt động
+SRV0018,Thuê HLV nhóm,Giờ,353000,Đang hoạt động
+SRV0019,Nước suối Aquafina,Lượt,10000,Đang hoạt động
+SRV0020,Nước tăng lực Redbull,Lượt,21000,Bảo trì
+SRV0021,Nước điện giải Pocari,Lượt,17000,Bảo trì
+SRV0022,Khăn tắm cotton,Lượt,17000,Đang hoạt động
+SRV0023,Khăn mặt,Lượt,11000,Bảo trì
+SRV0024,Dầu gội sữa tắm combo,Lượt,17000,Đang hoạt động
+SRV0025,Massage thư giãn 30 phút,Lượt,200000,Đang hoạt động
+SRV0026,Massage thể thao 60 phút,Lượt,349000,Đang hoạt động
+SRV0027,Xông hơi khô,Lượt,87000,Đang hoạt động
+SRV0028,Xông hơi ướt,Lượt,72000,Đang hoạt động
+SRV0029,Bể sục jacuzzi,Giờ,132000,Đang hoạt động
+SRV0030,Phòng tắm VIP,Lượt,40000,Tạm ngưng
+SRV0031,Đỗ xe ô tô,Lượt,24000,Đang hoạt động
+SRV0032,Đỗ xe máy VIP,Lượt,11000,Đang hoạt động
+SRV0033,Gửi đồ qua đêm,Ngày,44000,Đang hoạt động
+SRV0034,Dịch vụ giặt đồ,Lượt,36000,Đang hoạt động
+SRV0035,Cho thuê đồng phục thi đấu,Lượt,83000,Đang hoạt động
+SRV0036,Livestream trận đấu,Giờ,417000,Đang hoạt động
+SRV0037,Dịch vụ khác 37,Giờ,62816,Đang hoạt động
+SRV0038,Dịch vụ khác 38,Lượt,265060,Đang hoạt động
+SRV0039,Dịch vụ khác 39,Ngày,68886,Bảo trì
+SRV0040,Dịch vụ khác 40,Ngày,269075,Đang hoạt động
+SRV0041,Dịch vụ khác 41,Giờ,163702,Tạm ngưng
+SRV0042,Dịch vụ khác 42,Giờ,282484,Đang hoạt động
+SRV0043,Dịch vụ khác 43,Ngày,55514,Đang hoạt động
+SRV0044,Dịch vụ khác 44,Lượt,100799,Đang hoạt động
+SRV0045,Dịch vụ khác 45,Lượt,24586,Đang hoạt động
+SRV0046,Dịch vụ khác 46,Giờ,281122,Đang hoạt động
+SRV0047,Dịch vụ khác 47,Giờ,261876,Đang hoạt động
+SRV0048,Dịch vụ khác 48,Lượt,255203,Đang hoạt động
+SRV0049,Dịch vụ khác 49,Giờ,234812,Đang hoạt động
+SRV0050,Dịch vụ khác 50,Giờ,193052,Đang hoạt động
+SRV0051,Dịch vụ khác 51,Ngày,182314,Đang hoạt động
+SRV0052,Dịch vụ khác 52,Giờ,110301,Đang hoạt động
+SRV0053,Dịch vụ khác 53,Giờ,186935,Đang hoạt động
+SRV0054,Dịch vụ khác 54,Ngày,173208,Đang hoạt động
+SRV0055,Dịch vụ khác 55,Lượt,88993,Tạm ngưng
+SRV0056,Dịch vụ khác 56,Giờ,273645,Đang hoạt động
+SRV0057,Dịch vụ khác 57,Giờ,260707,Đang hoạt động
+SRV0058,Dịch vụ khác 58,Giờ,80888,Đang hoạt động
+SRV0059,Dịch vụ khác 59,Ngày,249467,Bảo trì
+SRV0060,Dịch vụ khác 60,Ngày,235086,Tạm ngưng
+SRV0061,Dịch vụ khác 61,Giờ,129096,Đang hoạt động
+SRV0062,Dịch vụ khác 62,Lượt,165039,Đang hoạt động
+SRV0063,Dịch vụ khác 63,Ngày,250407,Tạm ngưng
+SRV0064,Dịch vụ khác 64,Giờ,110381,Đang hoạt động
+SRV0065,Dịch vụ khác 65,Ngày,30675,Đang hoạt động
+SRV0066,Dịch vụ khác 66,Ngày,188913,Đang hoạt động
+SRV0067,Dịch vụ khác 67,Ngày,282989,Đang hoạt động
+SRV0068,Dịch vụ khác 68,Giờ,178942,Đang hoạt động
+SRV0069,Dịch vụ khác 69,Giờ,256315,Đang hoạt động
+SRV0070,Dịch vụ khác 70,Lượt,89142,Đang hoạt động
+SRV0071,Dịch vụ khác 71,Ngày,164663,Đang hoạt động
+SRV0072,Dịch vụ khác 72,Lượt,77038,Đang hoạt động
+SRV0073,Dịch vụ khác 73,Ngày,173784,Đang hoạt động
+SRV0074,Dịch vụ khác 74,Lượt,48956,Đang hoạt động
+SRV0075,Dịch vụ khác 75,Lượt,191059,Đang hoạt động
+SRV0076,Dịch vụ khác 76,Giờ,277190,Đang hoạt động
+SRV0077,Dịch vụ khác 77,Giờ,230133,Tạm ngưng
+SRV0078,Dịch vụ khác 78,Giờ,246120,Đang hoạt động
+SRV0079,Dịch vụ khác 79,Ngày,87720,Đang hoạt động
+SRV0080,Dịch vụ khác 80,Ngày,96836,Đang hoạt động
+SRV0081,Dịch vụ khác 81,Ngày,28535,Đang hoạt động
+SRV0082,Dịch vụ khác 82,Ngày,110329,Đang hoạt động
+SRV0083,Dịch vụ khác 83,Ngày,24489,Đang hoạt động
+SRV0084,Dịch vụ khác 84,Lượt,92834,Đang hoạt động
+SRV0085,Dịch vụ khác 85,Lượt,184659,Đang hoạt động
+SRV0086,Dịch vụ khác 86,Giờ,22498,Đang hoạt động
+SRV0087,Dịch vụ khác 87,Giờ,114887,Bảo trì
+SRV0088,Dịch vụ khác 88,Giờ,86995,Đang hoạt động
+SRV0089,Dịch vụ khác 89,Giờ,229044,Đang hoạt động
+SRV0090,Dịch vụ khác 90,Giờ,187902,Đang hoạt động
+SRV0091,Dịch vụ khác 91,Giờ,111501,Đang hoạt động
+SRV0092,Dịch vụ khác 92,Giờ,139351,Đang hoạt động
+SRV0093,Dịch vụ khác 93,Giờ,138227,Đang hoạt động
+SRV0094,Dịch vụ khác 94,Giờ,160468,Đang hoạt động
+SRV0095,Dịch vụ khác 95,Lượt,50356,Đang hoạt động
+SRV0096,Dịch vụ khác 96,Ngày,295272,Tạm ngưng
+SRV0097,Dịch vụ khác 97,Ngày,62718,Đang hoạt động
+SRV0098,Dịch vụ khác 98,Ngày,162095,Đang hoạt động
+SRV0099,Dịch vụ khác 99,Ngày,107426,Bảo trì
+SRV0100,Dịch vụ khác 100,Giờ,132519,Đang hoạt động

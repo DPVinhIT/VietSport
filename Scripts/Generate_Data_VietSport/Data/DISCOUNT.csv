@@ -1,0 +1,61 @@
+DiscountID,DiscountName,StartDate,EndDate,Percentage,TargetUser,MID
+DSC001,Khai trương - Giảm sốc,2024-07-27,2024-07-30,20,Khách hàng mới,EMP0126
+DSC002,Flash Sale cuối tuần,2023-08-02,2023-09-01,20,Nhóm 4+ người,EMP0001
+DSC003,Happy Hour 14h-17h,2024-04-16,2024-04-30,15,Thành viên Gold,EMP0104
+DSC004,Sinh nhật VietSport,2024-10-06,2024-10-13,15,Thành viên Diamond,EMP0003
+DSC005,Ưu đãi thành viên mới,2023-11-08,2023-11-15,20,Khách hàng mới,EMP0007
+DSC006,Combo gia đình,2023-04-16,2023-04-30,10,Khách hàng mới,EMP0106
+DSC007,Khuyến mãi mùa hè,2024-02-06,2024-02-13,10,Tất cả khách hàng,EMP0102
+DSC008,Sale Tết Nguyên Đán,2023-11-27,2023-12-11,10,Sinh viên,EMP0035
+DSC009,Giảm giá Black Friday,2023-06-17,2023-06-24,10,Tất cả khách hàng,EMP0065
+DSC010,Ưu đãi 8/3,2023-09-03,2023-09-06,10,Thành viên Silver,EMP0147
+DSC011,Sale 11/11,2023-04-18,2023-06-02,20,Sinh viên,EMP0026
+DSC012,Christmas Special,2023-09-10,2023-09-17,5,Thành viên Silver,EMP0024
+DSC013,Năm mới - Deal mới,2023-11-05,2024-01-04,5,Tất cả khách hàng,EMP0040
+DSC014,Đặt sớm giảm 20%,2024-07-14,2024-07-21,5,Thành viên Gold,EMP0056
+DSC015,Giảm giá nhóm 4+,2023-06-11,2023-06-25,15,Thành viên Silver,EMP0070
+DSC016,Ưu đãi sinh viên,2023-01-03,2023-02-02,5,Thành viên Diamond,EMP0085
+DSC017,Deal cuối năm,2023-11-02,2023-11-09,10,Thành viên Gold,EMP0044
+DSC018,Tri ân khách hàng,2023-10-22,2023-10-29,5,Thành viên Gold,EMP0015
+DSC019,Tháng vàng khuyến mãi,2023-01-16,2023-01-19,5,Sinh viên,EMP0135
+DSC020,Siêu sale mùa thu,2024-09-10,2024-09-17,15,Thành viên Gold,EMP0068
+DSC021,Ưu đãi Valentine,2023-08-30,2023-09-06,15,Sinh viên,EMP0146
+DSC022,Deal hot tháng 6,2023-04-09,2023-05-09,5,Thành viên Platinum,EMP0042
+DSC023,Giảm giá mùa World Cup,2024-09-10,2024-09-17,10,Sinh viên,EMP0106
+DSC024,Khuyến mãi SEA Games,2023-07-08,2023-07-22,20,Nhóm 4+ người,EMP0071
+DSC025,Ưu đãi hè rực rỡ,2024-02-22,2024-03-23,20,Thành viên Diamond,EMP0015
+DSC026,Khuyến mãi đặc biệt 26,2024-07-04,2024-08-03,20,Sinh viên,EMP0118
+DSC027,Khuyến mãi đặc biệt 27,2024-08-16,2024-09-30,5,Thành viên Silver,EMP0071
+DSC028,Khuyến mãi đặc biệt 28,2023-01-04,2023-01-18,5,Sinh viên,EMP0011
+DSC029,Khuyến mãi đặc biệt 29,2024-09-03,2024-09-06,5,Thành viên Platinum,EMP0097
+DSC030,Khuyến mãi đặc biệt 30,2023-02-26,2023-03-05,25,Thành viên Silver,EMP0086
+DSC031,Khuyến mãi đặc biệt 31,2024-03-09,2024-03-23,15,Đặt online,EMP0018
+DSC032,Khuyến mãi đặc biệt 32,2024-05-16,2024-06-15,25,Thành viên Platinum,EMP0110
+DSC033,Khuyến mãi đặc biệt 33,2023-07-11,2023-07-25,10,Nhóm 4+ người,EMP0147
+DSC034,Khuyến mãi đặc biệt 34,2024-04-26,2024-05-26,20,Thành viên Platinum,EMP0140
+DSC035,Khuyến mãi đặc biệt 35,2023-07-06,2023-08-05,5,Nhóm 4+ người,EMP0040
+DSC036,Khuyến mãi đặc biệt 36,2023-03-07,2023-03-14,5,Thành viên Gold,EMP0043
+DSC037,Khuyến mãi đặc biệt 37,2023-07-10,2023-09-08,25,Thành viên Platinum,EMP0051
+DSC038,Khuyến mãi đặc biệt 38,2024-06-18,2024-07-18,5,Nhóm 4+ người,EMP0084
+DSC039,Khuyến mãi đặc biệt 39,2023-06-30,2023-07-30,5,Tất cả khách hàng,EMP0099
+DSC040,Khuyến mãi đặc biệt 40,2023-05-29,2023-06-12,5,Thành viên Diamond,EMP0011
+DSC041,Khuyến mãi đặc biệt 41,2023-04-09,2023-06-08,10,Thành viên Gold,EMP0080
+DSC042,Khuyến mãi đặc biệt 42,2023-12-13,2024-01-27,5,Thành viên Gold,EMP0065
+DSC043,Khuyến mãi đặc biệt 43,2024-01-14,2024-01-21,15,Nhóm 4+ người,EMP0146
+DSC044,Khuyến mãi đặc biệt 44,2023-08-14,2023-08-28,5,Khách hàng mới,EMP0009
+DSC045,Khuyến mãi đặc biệt 45,2023-10-14,2023-10-28,5,Thành viên Platinum,EMP0051
+DSC046,Khuyến mãi đặc biệt 46,2024-10-20,2024-12-19,10,Khách hàng mới,EMP0051
+DSC047,Khuyến mãi đặc biệt 47,2023-12-17,2023-12-31,20,Thành viên Platinum,EMP0054
+DSC048,Khuyến mãi đặc biệt 48,2024-06-18,2024-07-02,15,Khách hàng mới,EMP0021
+DSC049,Khuyến mãi đặc biệt 49,2024-09-16,2024-09-19,5,Tất cả khách hàng,EMP0149
+DSC050,Khuyến mãi đặc biệt 50,2024-10-16,2024-11-15,10,Sinh viên,EMP0093
+DSC051,Khuyến mãi đặc biệt 51,2024-08-07,2024-08-14,10,Thành viên Gold,EMP0089
+DSC052,Khuyến mãi đặc biệt 52,2024-05-03,2024-05-10,5,Thành viên Platinum,EMP0004
+DSC053,Khuyến mãi đặc biệt 53,2023-01-06,2023-01-20,15,Thành viên Silver,EMP0143
+DSC054,Khuyến mãi đặc biệt 54,2024-03-22,2024-04-05,10,Thành viên Diamond,EMP0101
+DSC055,Khuyến mãi đặc biệt 55,2024-04-12,2024-04-19,15,Khách hàng mới,EMP0044
+DSC056,Khuyến mãi đặc biệt 56,2024-09-26,2024-09-29,10,Khách hàng mới,EMP0098
+DSC057,Khuyến mãi đặc biệt 57,2024-01-07,2024-01-10,15,Đặt online,EMP0147
+DSC058,Khuyến mãi đặc biệt 58,2023-05-20,2023-06-19,5,Tất cả khách hàng,EMP0045
+DSC059,Khuyến mãi đặc biệt 59,2023-12-07,2024-01-06,15,Khách hàng mới,EMP0068
+DSC060,Khuyến mãi đặc biệt 60,2024-10-02,2024-10-09,5,Tất cả khách hàng,EMP0095

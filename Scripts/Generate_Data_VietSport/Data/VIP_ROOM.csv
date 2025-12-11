@@ -1,0 +1,7 @@
+VRServiceID,RoomID,StatusRoom
+SRV0003,1,Đang sử dụng
+SRV0013,2,Đang dọn dẹp
+SRV0014,3,Đang sử dụng
+SRV0015,4,Đã đặt trước
+SRV0030,5,Bảo trì
+SRV0032,6,Trống

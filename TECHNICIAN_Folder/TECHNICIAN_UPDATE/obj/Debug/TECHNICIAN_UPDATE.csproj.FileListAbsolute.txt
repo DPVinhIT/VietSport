@@ -1,0 +1,10 @@
+C:\Users\dovin\source\repos\TECHNICIAN_UPDATE\bin\Debug\TECHNICIAN_UPDATE.exe.config
+C:\Users\dovin\source\repos\TECHNICIAN_UPDATE\bin\Debug\TECHNICIAN_UPDATE.exe
+C:\Users\dovin\source\repos\TECHNICIAN_UPDATE\bin\Debug\TECHNICIAN_UPDATE.pdb
+C:\Users\dovin\source\repos\TECHNICIAN_UPDATE\obj\Debug\TECHNICIAN_UPDATE.csproj.AssemblyReference.cache
+C:\Users\dovin\source\repos\TECHNICIAN_UPDATE\obj\Debug\TECHNICIAN_UPDATE.Properties.Resources.resources
+C:\Users\dovin\source\repos\TECHNICIAN_UPDATE\obj\Debug\TECHNICIAN_UPDATE.Update_Status.resources
+C:\Users\dovin\source\repos\TECHNICIAN_UPDATE\obj\Debug\TECHNICIAN_UPDATE.csproj.GenerateResource.cache
+C:\Users\dovin\source\repos\TECHNICIAN_UPDATE\obj\Debug\TECHNICIAN_UPDATE.csproj.CoreCompileInputs.cache
+C:\Users\dovin\source\repos\TECHNICIAN_UPDATE\obj\Debug\TECHNICIAN_UPDATE.exe
+C:\Users\dovin\source\repos\TECHNICIAN_UPDATE\obj\Debug\TECHNICIAN_UPDATE.pdb

@@ -1,0 +1,56 @@
+C:\Users\dovin\source\repos\MANAGER\obj\Debug\MANAGER.csproj.AssemblyReference.cache
+C:\Users\dovin\source\repos\MANAGER\obj\Debug\HQTCSDL_UI.Manager.resources
+C:\Users\dovin\source\repos\MANAGER\obj\Debug\MANAGER.Properties.Resources.resources
+C:\Users\dovin\source\repos\MANAGER\obj\Debug\MANAGER.csproj.GenerateResource.cache
+C:\Users\dovin\source\repos\MANAGER\obj\Debug\MANAGER.csproj.CoreCompileInputs.cache
+C:\Users\dovin\source\repos\MANAGER\bin\Debug\MANAGER.exe.config
+C:\Users\dovin\source\repos\MANAGER\bin\Debug\MANAGER.exe
+C:\Users\dovin\source\repos\MANAGER\bin\Debug\MANAGER.pdb
+C:\Users\dovin\source\repos\MANAGER\obj\Debug\MANAGER.exe
+C:\Users\dovin\source\repos\MANAGER\obj\Debug\MANAGER.pdb
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\SPORTS-FIELD-BOOKING-AND-SERVICE-MANAGEMENT-SYSTEM-master\MANAGER\bin\Debug\MANAGER.exe.config
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\SPORTS-FIELD-BOOKING-AND-SERVICE-MANAGEMENT-SYSTEM-master\MANAGER\bin\Debug\MANAGER.exe
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\SPORTS-FIELD-BOOKING-AND-SERVICE-MANAGEMENT-SYSTEM-master\MANAGER\bin\Debug\MANAGER.pdb
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\SPORTS-FIELD-BOOKING-AND-SERVICE-MANAGEMENT-SYSTEM-master\MANAGER\obj\Debug\MANAGER.csproj.AssemblyReference.cache
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\SPORTS-FIELD-BOOKING-AND-SERVICE-MANAGEMENT-SYSTEM-master\MANAGER\obj\Debug\HQTCSDL_UI.Manager.resources
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\SPORTS-FIELD-BOOKING-AND-SERVICE-MANAGEMENT-SYSTEM-master\MANAGER\obj\Debug\MANAGER.Properties.Resources.resources
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\SPORTS-FIELD-BOOKING-AND-SERVICE-MANAGEMENT-SYSTEM-master\MANAGER\obj\Debug\MANAGER.csproj.GenerateResource.cache
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\SPORTS-FIELD-BOOKING-AND-SERVICE-MANAGEMENT-SYSTEM-master\MANAGER\obj\Debug\MANAGER.csproj.CoreCompileInputs.cache
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\SPORTS-FIELD-BOOKING-AND-SERVICE-MANAGEMENT-SYSTEM-master\MANAGER\obj\Debug\MANAGER.exe
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\SPORTS-FIELD-BOOKING-AND-SERVICE-MANAGEMENT-SYSTEM-master\MANAGER\obj\Debug\MANAGER.pdb
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\SPORTS-FIELD-BOOKING-AND-SERVICE-MANAGEMENT-SYSTEM-master\RECEPTIONIST_BOOKINGFORM\bin\Debug\MANAGER.exe.config
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\SPORTS-FIELD-BOOKING-AND-SERVICE-MANAGEMENT-SYSTEM-master\RECEPTIONIST_BOOKINGFORM\bin\Debug\MANAGER.exe
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\SPORTS-FIELD-BOOKING-AND-SERVICE-MANAGEMENT-SYSTEM-master\RECEPTIONIST_BOOKINGFORM\bin\Debug\MANAGER.pdb
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\SPORTS-FIELD-BOOKING-AND-SERVICE-MANAGEMENT-SYSTEM-master\RECEPTIONIST_BOOKINGFORM\obj\Debug\MANAGER.csproj.AssemblyReference.cache
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\SPORTS-FIELD-BOOKING-AND-SERVICE-MANAGEMENT-SYSTEM-master\RECEPTIONIST_BOOKINGFORM\obj\Debug\HQTCSDL_UI.Manager.resources
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\SPORTS-FIELD-BOOKING-AND-SERVICE-MANAGEMENT-SYSTEM-master\RECEPTIONIST_BOOKINGFORM\obj\Debug\MANAGER.Properties.Resources.resources
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\SPORTS-FIELD-BOOKING-AND-SERVICE-MANAGEMENT-SYSTEM-master\RECEPTIONIST_BOOKINGFORM\obj\Debug\MANAGER.csproj.GenerateResource.cache
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\SPORTS-FIELD-BOOKING-AND-SERVICE-MANAGEMENT-SYSTEM-master\RECEPTIONIST_BOOKINGFORM\obj\Debug\MANAGER.csproj.CoreCompileInputs.cache
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\SPORTS-FIELD-BOOKING-AND-SERVICE-MANAGEMENT-SYSTEM-master\RECEPTIONIST_BOOKINGFORM\obj\Debug\MANAGER.exe
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\SPORTS-FIELD-BOOKING-AND-SERVICE-MANAGEMENT-SYSTEM-master\RECEPTIONIST_BOOKINGFORM\obj\Debug\MANAGER.pdb
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\SPORTS-FIELD-BOOKING-AND-SERVICE-MANAGEMENT-SYSTEM-master\RECEPTIONIST_BOOKINGFORM\obj\Debug\MANAGER.csproj.SuggestedBindingRedirects.cache
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\SPORTS-FIELD-BOOKING-AND-SERVICE-MANAGEMENT-SYSTEM-master\RECEPTIONIST_BOOKINGFORM\obj\Debug\MANAGER.exe.config
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\SPORTS-FIELD-BOOKING-AND-SERVICE-MANAGEMENT-SYSTEM-master\RECEPTIONIST_BOOKINGFORM\bin\Debug\System.Buffers.dll
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\SPORTS-FIELD-BOOKING-AND-SERVICE-MANAGEMENT-SYSTEM-master\RECEPTIONIST_BOOKINGFORM\bin\Debug\System.Memory.dll
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\SPORTS-FIELD-BOOKING-AND-SERVICE-MANAGEMENT-SYSTEM-master\RECEPTIONIST_BOOKINGFORM\bin\Debug\System.Numerics.Vectors.dll
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\SPORTS-FIELD-BOOKING-AND-SERVICE-MANAGEMENT-SYSTEM-master\RECEPTIONIST_BOOKINGFORM\bin\Debug\System.Resources.Extensions.dll
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\SPORTS-FIELD-BOOKING-AND-SERVICE-MANAGEMENT-SYSTEM-master\RECEPTIONIST_BOOKINGFORM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\SPORTS-FIELD-BOOKING-AND-SERVICE-MANAGEMENT-SYSTEM-master\RECEPTIONIST_BOOKINGFORM\obj\Debug\MANAGER.csproj.Up2Date
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\New folder\RECEPTIONIST_CENCELLATIONFORM\bin\Debug\MANAGER.exe.config
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\New folder\RECEPTIONIST_CENCELLATIONFORM\bin\Debug\MANAGER.exe
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\New folder\RECEPTIONIST_CENCELLATIONFORM\bin\Debug\MANAGER.pdb
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\New folder\RECEPTIONIST_CENCELLATIONFORM\bin\Debug\System.Buffers.dll
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\New folder\RECEPTIONIST_CENCELLATIONFORM\bin\Debug\System.Memory.dll
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\New folder\RECEPTIONIST_CENCELLATIONFORM\bin\Debug\System.Numerics.Vectors.dll
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\New folder\RECEPTIONIST_CENCELLATIONFORM\bin\Debug\System.Resources.Extensions.dll
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\New folder\RECEPTIONIST_CENCELLATIONFORM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\New folder\RECEPTIONIST_CENCELLATIONFORM\obj\Debug\MANAGER.csproj.AssemblyReference.cache
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\New folder\RECEPTIONIST_CENCELLATIONFORM\obj\Debug\MANAGER.csproj.SuggestedBindingRedirects.cache
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\New folder\RECEPTIONIST_CENCELLATIONFORM\obj\Debug\MANAGER.exe.config
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\New folder\RECEPTIONIST_CENCELLATIONFORM\obj\Debug\HQTCSDL_UI.Manager.resources
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\New folder\RECEPTIONIST_CENCELLATIONFORM\obj\Debug\MANAGER.Properties.Resources.resources
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\New folder\RECEPTIONIST_CENCELLATIONFORM\obj\Debug\MANAGER.csproj.GenerateResource.cache
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\New folder\RECEPTIONIST_CENCELLATIONFORM\obj\Debug\MANAGER.csproj.CoreCompileInputs.cache
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\New folder\RECEPTIONIST_CENCELLATIONFORM\obj\Debug\MANAGER.csproj.Up2Date
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\New folder\RECEPTIONIST_CENCELLATIONFORM\obj\Debug\MANAGER.exe
+D:\Dai_Hoc\3rd year\HQTCSDL\Projects\TTTheThao\New folder\RECEPTIONIST_CENCELLATIONFORM\obj\Debug\MANAGER.pdb

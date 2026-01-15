@@ -1,0 +1,10 @@
+C:\Users\dovin\source\repos\MANAGER_PAYROLL\bin\Debug\MANAGER_PAYROLL.exe.config
+C:\Users\dovin\source\repos\MANAGER_PAYROLL\bin\Debug\MANAGER_PAYROLL.exe
+C:\Users\dovin\source\repos\MANAGER_PAYROLL\bin\Debug\MANAGER_PAYROLL.pdb
+C:\Users\dovin\source\repos\MANAGER_PAYROLL\obj\Debug\MANAGER_PAYROLL.csproj.AssemblyReference.cache
+C:\Users\dovin\source\repos\MANAGER_PAYROLL\obj\Debug\MANAGER_PAYROLL.Payroll.resources
+C:\Users\dovin\source\repos\MANAGER_PAYROLL\obj\Debug\MANAGER_PAYROLL.Properties.Resources.resources
+C:\Users\dovin\source\repos\MANAGER_PAYROLL\obj\Debug\MANAGER_PAYROLL.csproj.GenerateResource.cache
+C:\Users\dovin\source\repos\MANAGER_PAYROLL\obj\Debug\MANAGER_PAYROLL.csproj.CoreCompileInputs.cache
+C:\Users\dovin\source\repos\MANAGER_PAYROLL\obj\Debug\MANAGER_PAYROLL.exe
+C:\Users\dovin\source\repos\MANAGER_PAYROLL\obj\Debug\MANAGER_PAYROLL.pdb

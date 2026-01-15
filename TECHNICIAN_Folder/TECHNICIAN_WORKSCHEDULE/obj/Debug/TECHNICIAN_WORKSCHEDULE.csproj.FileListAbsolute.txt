@@ -1,0 +1,10 @@
+C:\Users\dovin\source\repos\TECHNICIAN_WORKSCHEDULE\bin\Debug\TECHNICIAN_WORKSCHEDULE.exe.config
+C:\Users\dovin\source\repos\TECHNICIAN_WORKSCHEDULE\bin\Debug\TECHNICIAN_WORKSCHEDULE.exe
+C:\Users\dovin\source\repos\TECHNICIAN_WORKSCHEDULE\bin\Debug\TECHNICIAN_WORKSCHEDULE.pdb
+C:\Users\dovin\source\repos\TECHNICIAN_WORKSCHEDULE\obj\Debug\TECHNICIAN_WORKSCHEDULE.csproj.AssemblyReference.cache
+C:\Users\dovin\source\repos\TECHNICIAN_WORKSCHEDULE\obj\Debug\TECHNICIAN_WORKSCHEDULE.Properties.Resources.resources
+C:\Users\dovin\source\repos\TECHNICIAN_WORKSCHEDULE\obj\Debug\TECHNICIAN_WORKSCHEDULE.Work_Schedule.resources
+C:\Users\dovin\source\repos\TECHNICIAN_WORKSCHEDULE\obj\Debug\TECHNICIAN_WORKSCHEDULE.csproj.GenerateResource.cache
+C:\Users\dovin\source\repos\TECHNICIAN_WORKSCHEDULE\obj\Debug\TECHNICIAN_WORKSCHEDULE.csproj.CoreCompileInputs.cache
+C:\Users\dovin\source\repos\TECHNICIAN_WORKSCHEDULE\obj\Debug\TECHNICIAN_WORKSCHEDULE.exe
+C:\Users\dovin\source\repos\TECHNICIAN_WORKSCHEDULE\obj\Debug\TECHNICIAN_WORKSCHEDULE.pdb

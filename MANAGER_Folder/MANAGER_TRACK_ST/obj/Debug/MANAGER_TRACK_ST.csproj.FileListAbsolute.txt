@@ -1,0 +1,10 @@
+C:\Users\dovin\source\repos\MANAGER_TRACK_ST\obj\Debug\MANAGER_TRACK_ST.csproj.AssemblyReference.cache
+C:\Users\dovin\source\repos\MANAGER_TRACK_ST\obj\Debug\MANAGER_TRACK_ST.Form1.resources
+C:\Users\dovin\source\repos\MANAGER_TRACK_ST\obj\Debug\MANAGER_TRACK_ST.Properties.Resources.resources
+C:\Users\dovin\source\repos\MANAGER_TRACK_ST\obj\Debug\MANAGER_TRACK_ST.csproj.GenerateResource.cache
+C:\Users\dovin\source\repos\MANAGER_TRACK_ST\obj\Debug\MANAGER_TRACK_ST.csproj.CoreCompileInputs.cache
+C:\Users\dovin\source\repos\MANAGER_TRACK_ST\bin\Debug\MANAGER_TRACK_ST.exe.config
+C:\Users\dovin\source\repos\MANAGER_TRACK_ST\bin\Debug\MANAGER_TRACK_ST.exe
+C:\Users\dovin\source\repos\MANAGER_TRACK_ST\bin\Debug\MANAGER_TRACK_ST.pdb
+C:\Users\dovin\source\repos\MANAGER_TRACK_ST\obj\Debug\MANAGER_TRACK_ST.exe
+C:\Users\dovin\source\repos\MANAGER_TRACK_ST\obj\Debug\MANAGER_TRACK_ST.pdb

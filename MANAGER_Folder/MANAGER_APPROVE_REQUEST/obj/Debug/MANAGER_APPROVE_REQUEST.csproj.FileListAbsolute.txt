@@ -1,0 +1,10 @@
+C:\Users\dovin\source\repos\MANAGER_APPROVE_REQUEST\bin\Debug\MANAGER_APPROVE_REQUEST.exe.config
+C:\Users\dovin\source\repos\MANAGER_APPROVE_REQUEST\bin\Debug\MANAGER_APPROVE_REQUEST.exe
+C:\Users\dovin\source\repos\MANAGER_APPROVE_REQUEST\bin\Debug\MANAGER_APPROVE_REQUEST.pdb
+C:\Users\dovin\source\repos\MANAGER_APPROVE_REQUEST\obj\Debug\MANAGER_APPROVE_REQUEST.csproj.AssemblyReference.cache
+C:\Users\dovin\source\repos\MANAGER_APPROVE_REQUEST\obj\Debug\MANAGER_APPROVE_REQUEST.Approve_Request.resources
+C:\Users\dovin\source\repos\MANAGER_APPROVE_REQUEST\obj\Debug\MANAGER_APPROVE_REQUEST.Properties.Resources.resources
+C:\Users\dovin\source\repos\MANAGER_APPROVE_REQUEST\obj\Debug\MANAGER_APPROVE_REQUEST.csproj.GenerateResource.cache
+C:\Users\dovin\source\repos\MANAGER_APPROVE_REQUEST\obj\Debug\MANAGER_APPROVE_REQUEST.csproj.CoreCompileInputs.cache
+C:\Users\dovin\source\repos\MANAGER_APPROVE_REQUEST\obj\Debug\MANAGER_APPROVE_REQUEST.exe
+C:\Users\dovin\source\repos\MANAGER_APPROVE_REQUEST\obj\Debug\MANAGER_APPROVE_REQUEST.pdb

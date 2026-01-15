@@ -1,0 +1,10 @@
+C:\Users\dovin\source\repos\TECHNICIAN_PROFILE\bin\Debug\TECHNICIAN_PROFILE.exe.config
+C:\Users\dovin\source\repos\TECHNICIAN_PROFILE\bin\Debug\TECHNICIAN_PROFILE.exe
+C:\Users\dovin\source\repos\TECHNICIAN_PROFILE\bin\Debug\TECHNICIAN_PROFILE.pdb
+C:\Users\dovin\source\repos\TECHNICIAN_PROFILE\obj\Debug\TECHNICIAN_PROFILE.csproj.AssemblyReference.cache
+C:\Users\dovin\source\repos\TECHNICIAN_PROFILE\obj\Debug\TECHNICIAN_PROFILE.Profile.resources
+C:\Users\dovin\source\repos\TECHNICIAN_PROFILE\obj\Debug\TECHNICIAN_PROFILE.Properties.Resources.resources
+C:\Users\dovin\source\repos\TECHNICIAN_PROFILE\obj\Debug\TECHNICIAN_PROFILE.csproj.GenerateResource.cache
+C:\Users\dovin\source\repos\TECHNICIAN_PROFILE\obj\Debug\TECHNICIAN_PROFILE.csproj.CoreCompileInputs.cache
+C:\Users\dovin\source\repos\TECHNICIAN_PROFILE\obj\Debug\TECHNICIAN_PROFILE.exe
+C:\Users\dovin\source\repos\TECHNICIAN_PROFILE\obj\Debug\TECHNICIAN_PROFILE.pdb

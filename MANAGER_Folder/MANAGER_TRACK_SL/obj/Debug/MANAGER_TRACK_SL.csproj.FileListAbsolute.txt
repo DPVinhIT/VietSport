@@ -1,0 +1,10 @@
+C:\Users\dovin\source\repos\MANAGER_TRACK_SL\bin\Debug\MANAGER_TRACK_SL.exe.config
+C:\Users\dovin\source\repos\MANAGER_TRACK_SL\bin\Debug\MANAGER_TRACK_SL.exe
+C:\Users\dovin\source\repos\MANAGER_TRACK_SL\bin\Debug\MANAGER_TRACK_SL.pdb
+C:\Users\dovin\source\repos\MANAGER_TRACK_SL\obj\Debug\MANAGER_TRACK_SL.csproj.AssemblyReference.cache
+C:\Users\dovin\source\repos\MANAGER_TRACK_SL\obj\Debug\MANAGER_TRACK_SL.Properties.Resources.resources
+C:\Users\dovin\source\repos\MANAGER_TRACK_SL\obj\Debug\MANAGER_TRACK_SL.Track_Salary.resources
+C:\Users\dovin\source\repos\MANAGER_TRACK_SL\obj\Debug\MANAGER_TRACK_SL.csproj.GenerateResource.cache
+C:\Users\dovin\source\repos\MANAGER_TRACK_SL\obj\Debug\MANAGER_TRACK_SL.csproj.CoreCompileInputs.cache
+C:\Users\dovin\source\repos\MANAGER_TRACK_SL\obj\Debug\MANAGER_TRACK_SL.exe
+C:\Users\dovin\source\repos\MANAGER_TRACK_SL\obj\Debug\MANAGER_TRACK_SL.pdb

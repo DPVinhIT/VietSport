@@ -1,0 +1,10 @@
+C:\Users\dovin\source\repos\MANAGER_LOG\obj\Debug\MANAGER_LOG.csproj.AssemblyReference.cache
+C:\Users\dovin\source\repos\MANAGER_LOG\obj\Debug\MANAGER_LOG.Log.resources
+C:\Users\dovin\source\repos\MANAGER_LOG\obj\Debug\MANAGER_LOG.Properties.Resources.resources
+C:\Users\dovin\source\repos\MANAGER_LOG\obj\Debug\MANAGER_LOG.csproj.GenerateResource.cache
+C:\Users\dovin\source\repos\MANAGER_LOG\obj\Debug\MANAGER_LOG.csproj.CoreCompileInputs.cache
+C:\Users\dovin\source\repos\MANAGER_LOG\bin\Debug\MANAGER_LOG.exe.config
+C:\Users\dovin\source\repos\MANAGER_LOG\bin\Debug\MANAGER_LOG.exe
+C:\Users\dovin\source\repos\MANAGER_LOG\bin\Debug\MANAGER_LOG.pdb
+C:\Users\dovin\source\repos\MANAGER_LOG\obj\Debug\MANAGER_LOG.exe
+C:\Users\dovin\source\repos\MANAGER_LOG\obj\Debug\MANAGER_LOG.pdb

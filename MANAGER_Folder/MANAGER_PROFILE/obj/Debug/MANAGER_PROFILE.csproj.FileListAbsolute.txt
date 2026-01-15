@@ -1,0 +1,10 @@
+C:\Users\dovin\source\repos\MANAGER_PROFILE\bin\Debug\MANAGER_PROFILE.exe.config
+C:\Users\dovin\source\repos\MANAGER_PROFILE\bin\Debug\MANAGER_PROFILE.exe
+C:\Users\dovin\source\repos\MANAGER_PROFILE\bin\Debug\MANAGER_PROFILE.pdb
+C:\Users\dovin\source\repos\MANAGER_PROFILE\obj\Debug\MANAGER_PROFILE.csproj.AssemblyReference.cache
+C:\Users\dovin\source\repos\MANAGER_PROFILE\obj\Debug\MANAGER_PROFILE.Profile.resources
+C:\Users\dovin\source\repos\MANAGER_PROFILE\obj\Debug\MANAGER_PROFILE.Properties.Resources.resources
+C:\Users\dovin\source\repos\MANAGER_PROFILE\obj\Debug\MANAGER_PROFILE.csproj.GenerateResource.cache
+C:\Users\dovin\source\repos\MANAGER_PROFILE\obj\Debug\MANAGER_PROFILE.csproj.CoreCompileInputs.cache
+C:\Users\dovin\source\repos\MANAGER_PROFILE\obj\Debug\MANAGER_PROFILE.exe
+C:\Users\dovin\source\repos\MANAGER_PROFILE\obj\Debug\MANAGER_PROFILE.pdb

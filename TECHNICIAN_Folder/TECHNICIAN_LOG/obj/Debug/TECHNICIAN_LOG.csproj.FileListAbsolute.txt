@@ -1,0 +1,10 @@
+C:\Users\dovin\source\repos\TECHNICIAN_LOG\bin\Debug\TECHNICIAN_LOG.exe.config
+C:\Users\dovin\source\repos\TECHNICIAN_LOG\bin\Debug\TECHNICIAN_LOG.exe
+C:\Users\dovin\source\repos\TECHNICIAN_LOG\bin\Debug\TECHNICIAN_LOG.pdb
+C:\Users\dovin\source\repos\TECHNICIAN_LOG\obj\Debug\TECHNICIAN_LOG.csproj.AssemblyReference.cache
+C:\Users\dovin\source\repos\TECHNICIAN_LOG\obj\Debug\TECHNICIAN_LOG.Log.resources
+C:\Users\dovin\source\repos\TECHNICIAN_LOG\obj\Debug\TECHNICIAN_LOG.Properties.Resources.resources
+C:\Users\dovin\source\repos\TECHNICIAN_LOG\obj\Debug\TECHNICIAN_LOG.csproj.GenerateResource.cache
+C:\Users\dovin\source\repos\TECHNICIAN_LOG\obj\Debug\TECHNICIAN_LOG.csproj.CoreCompileInputs.cache
+C:\Users\dovin\source\repos\TECHNICIAN_LOG\obj\Debug\TECHNICIAN_LOG.exe
+C:\Users\dovin\source\repos\TECHNICIAN_LOG\obj\Debug\TECHNICIAN_LOG.pdb

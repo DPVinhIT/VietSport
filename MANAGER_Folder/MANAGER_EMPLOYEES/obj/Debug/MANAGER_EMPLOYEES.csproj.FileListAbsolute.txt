@@ -1,0 +1,10 @@
+C:\Users\dovin\source\repos\MANAGER_EMPLOYEES\obj\Debug\MANAGER_EMPLOYEES.csproj.AssemblyReference.cache
+C:\Users\dovin\source\repos\MANAGER_EMPLOYEES\obj\Debug\MANAGER.Employees.resources
+C:\Users\dovin\source\repos\MANAGER_EMPLOYEES\obj\Debug\MANAGER_EMPLOYEES.Properties.Resources.resources
+C:\Users\dovin\source\repos\MANAGER_EMPLOYEES\obj\Debug\MANAGER_EMPLOYEES.csproj.GenerateResource.cache
+C:\Users\dovin\source\repos\MANAGER_EMPLOYEES\obj\Debug\MANAGER_EMPLOYEES.csproj.CoreCompileInputs.cache
+C:\Users\dovin\source\repos\MANAGER_EMPLOYEES\bin\Debug\MANAGER_EMPLOYEES.exe.config
+C:\Users\dovin\source\repos\MANAGER_EMPLOYEES\bin\Debug\MANAGER_EMPLOYEES.exe
+C:\Users\dovin\source\repos\MANAGER_EMPLOYEES\bin\Debug\MANAGER_EMPLOYEES.pdb
+C:\Users\dovin\source\repos\MANAGER_EMPLOYEES\obj\Debug\MANAGER_EMPLOYEES.exe
+C:\Users\dovin\source\repos\MANAGER_EMPLOYEES\obj\Debug\MANAGER_EMPLOYEES.pdb

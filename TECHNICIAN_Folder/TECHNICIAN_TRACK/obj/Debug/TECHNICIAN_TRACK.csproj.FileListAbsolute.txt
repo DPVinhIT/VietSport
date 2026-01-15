@@ -1,0 +1,10 @@
+C:\Users\dovin\source\repos\TECHNICIAN_TRACK\bin\Debug\TECHNICIAN_TRACK.exe.config
+C:\Users\dovin\source\repos\TECHNICIAN_TRACK\bin\Debug\TECHNICIAN_TRACK.exe
+C:\Users\dovin\source\repos\TECHNICIAN_TRACK\bin\Debug\TECHNICIAN_TRACK.pdb
+C:\Users\dovin\source\repos\TECHNICIAN_TRACK\obj\Debug\TECHNICIAN_TRACK.csproj.AssemblyReference.cache
+C:\Users\dovin\source\repos\TECHNICIAN_TRACK\obj\Debug\TECHNICIAN_TRACK.Properties.Resources.resources
+C:\Users\dovin\source\repos\TECHNICIAN_TRACK\obj\Debug\TECHNICIAN_TRACK.Track_Status.resources
+C:\Users\dovin\source\repos\TECHNICIAN_TRACK\obj\Debug\TECHNICIAN_TRACK.csproj.GenerateResource.cache
+C:\Users\dovin\source\repos\TECHNICIAN_TRACK\obj\Debug\TECHNICIAN_TRACK.csproj.CoreCompileInputs.cache
+C:\Users\dovin\source\repos\TECHNICIAN_TRACK\obj\Debug\TECHNICIAN_TRACK.exe
+C:\Users\dovin\source\repos\TECHNICIAN_TRACK\obj\Debug\TECHNICIAN_TRACK.pdb

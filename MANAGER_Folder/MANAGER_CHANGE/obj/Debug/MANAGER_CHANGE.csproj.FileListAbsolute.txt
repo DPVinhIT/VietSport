@@ -1,0 +1,10 @@
+C:\Users\dovin\source\repos\MANAGER_CHANGE\bin\Debug\MANAGER_CHANGE.exe.config
+C:\Users\dovin\source\repos\MANAGER_CHANGE\bin\Debug\MANAGER_CHANGE.exe
+C:\Users\dovin\source\repos\MANAGER_CHANGE\bin\Debug\MANAGER_CHANGE.pdb
+C:\Users\dovin\source\repos\MANAGER_CHANGE\obj\Debug\MANAGER_CHANGE.csproj.AssemblyReference.cache
+C:\Users\dovin\source\repos\MANAGER_CHANGE\obj\Debug\MANAGER_CHANGE.Change_PW.resources
+C:\Users\dovin\source\repos\MANAGER_CHANGE\obj\Debug\MANAGER_CHANGE.Properties.Resources.resources
+C:\Users\dovin\source\repos\MANAGER_CHANGE\obj\Debug\MANAGER_CHANGE.csproj.GenerateResource.cache
+C:\Users\dovin\source\repos\MANAGER_CHANGE\obj\Debug\MANAGER_CHANGE.csproj.CoreCompileInputs.cache
+C:\Users\dovin\source\repos\MANAGER_CHANGE\obj\Debug\MANAGER_CHANGE.exe
+C:\Users\dovin\source\repos\MANAGER_CHANGE\obj\Debug\MANAGER_CHANGE.pdb

@@ -1,0 +1,10 @@
+C:\Users\dovin\source\repos\TECHNICIAN\obj\Debug\TECHNICIAN.csproj.AssemblyReference.cache
+C:\Users\dovin\source\repos\TECHNICIAN\obj\Debug\TECHNICIAN.Properties.Resources.resources
+C:\Users\dovin\source\repos\TECHNICIAN\obj\Debug\HQTCSDL_UI.Technician.resources
+C:\Users\dovin\source\repos\TECHNICIAN\obj\Debug\TECHNICIAN.csproj.GenerateResource.cache
+C:\Users\dovin\source\repos\TECHNICIAN\obj\Debug\TECHNICIAN.csproj.CoreCompileInputs.cache
+C:\Users\dovin\source\repos\TECHNICIAN\bin\Debug\TECHNICIAN.exe.config
+C:\Users\dovin\source\repos\TECHNICIAN\bin\Debug\TECHNICIAN.exe
+C:\Users\dovin\source\repos\TECHNICIAN\bin\Debug\TECHNICIAN.pdb
+C:\Users\dovin\source\repos\TECHNICIAN\obj\Debug\TECHNICIAN.exe
+C:\Users\dovin\source\repos\TECHNICIAN\obj\Debug\TECHNICIAN.pdb

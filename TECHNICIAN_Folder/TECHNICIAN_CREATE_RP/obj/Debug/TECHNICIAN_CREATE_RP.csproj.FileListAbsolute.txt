@@ -1,0 +1,10 @@
+C:\Users\dovin\source\repos\TECHNICIAN_CREATE_RP\bin\Debug\TECHNICIAN_CREATE_RP.exe.config
+C:\Users\dovin\source\repos\TECHNICIAN_CREATE_RP\bin\Debug\TECHNICIAN_CREATE_RP.exe
+C:\Users\dovin\source\repos\TECHNICIAN_CREATE_RP\bin\Debug\TECHNICIAN_CREATE_RP.pdb
+C:\Users\dovin\source\repos\TECHNICIAN_CREATE_RP\obj\Debug\TECHNICIAN_CREATE_RP.csproj.AssemblyReference.cache
+C:\Users\dovin\source\repos\TECHNICIAN_CREATE_RP\obj\Debug\TECHNICIAN_CREATE_RP.Create_RP.resources
+C:\Users\dovin\source\repos\TECHNICIAN_CREATE_RP\obj\Debug\TECHNICIAN_CREATE_RP.Properties.Resources.resources
+C:\Users\dovin\source\repos\TECHNICIAN_CREATE_RP\obj\Debug\TECHNICIAN_CREATE_RP.csproj.GenerateResource.cache
+C:\Users\dovin\source\repos\TECHNICIAN_CREATE_RP\obj\Debug\TECHNICIAN_CREATE_RP.csproj.CoreCompileInputs.cache
+C:\Users\dovin\source\repos\TECHNICIAN_CREATE_RP\obj\Debug\TECHNICIAN_CREATE_RP.exe
+C:\Users\dovin\source\repos\TECHNICIAN_CREATE_RP\obj\Debug\TECHNICIAN_CREATE_RP.pdb

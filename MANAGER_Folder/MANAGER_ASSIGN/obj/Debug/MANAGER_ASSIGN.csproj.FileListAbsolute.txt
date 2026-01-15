@@ -1,0 +1,10 @@
+C:\Users\dovin\source\repos\MANAGER_ASSIGN\bin\Debug\MANAGER_ASSIGN.exe.config
+C:\Users\dovin\source\repos\MANAGER_ASSIGN\bin\Debug\MANAGER_ASSIGN.exe
+C:\Users\dovin\source\repos\MANAGER_ASSIGN\bin\Debug\MANAGER_ASSIGN.pdb
+C:\Users\dovin\source\repos\MANAGER_ASSIGN\obj\Debug\MANAGER_ASSIGN.csproj.AssemblyReference.cache
+C:\Users\dovin\source\repos\MANAGER_ASSIGN\obj\Debug\MANAGER_ASSIGN.Assign.resources
+C:\Users\dovin\source\repos\MANAGER_ASSIGN\obj\Debug\MANAGER_ASSIGN.Properties.Resources.resources
+C:\Users\dovin\source\repos\MANAGER_ASSIGN\obj\Debug\MANAGER_ASSIGN.csproj.GenerateResource.cache
+C:\Users\dovin\source\repos\MANAGER_ASSIGN\obj\Debug\MANAGER_ASSIGN.csproj.CoreCompileInputs.cache
+C:\Users\dovin\source\repos\MANAGER_ASSIGN\obj\Debug\MANAGER_ASSIGN.exe
+C:\Users\dovin\source\repos\MANAGER_ASSIGN\obj\Debug\MANAGER_ASSIGN.pdb

@@ -1,0 +1,10 @@
+C:\Users\dovin\source\repos\TECHNICIAN_CREATE_LA\bin\Debug\TECHNICIAN_CREATE_LA.exe.config
+C:\Users\dovin\source\repos\TECHNICIAN_CREATE_LA\bin\Debug\TECHNICIAN_CREATE_LA.exe
+C:\Users\dovin\source\repos\TECHNICIAN_CREATE_LA\bin\Debug\TECHNICIAN_CREATE_LA.pdb
+C:\Users\dovin\source\repos\TECHNICIAN_CREATE_LA\obj\Debug\TECHNICIAN_CREATE_LA.csproj.AssemblyReference.cache
+C:\Users\dovin\source\repos\TECHNICIAN_CREATE_LA\obj\Debug\TECHNICIAN_CREATE_LA.Create_LA.resources
+C:\Users\dovin\source\repos\TECHNICIAN_CREATE_LA\obj\Debug\TECHNICIAN_CREATE_LA.Properties.Resources.resources
+C:\Users\dovin\source\repos\TECHNICIAN_CREATE_LA\obj\Debug\TECHNICIAN_CREATE_LA.csproj.GenerateResource.cache
+C:\Users\dovin\source\repos\TECHNICIAN_CREATE_LA\obj\Debug\TECHNICIAN_CREATE_LA.csproj.CoreCompileInputs.cache
+C:\Users\dovin\source\repos\TECHNICIAN_CREATE_LA\obj\Debug\TECHNICIAN_CREATE_LA.exe
+C:\Users\dovin\source\repos\TECHNICIAN_CREATE_LA\obj\Debug\TECHNICIAN_CREATE_LA.pdb

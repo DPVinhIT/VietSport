@@ -1,0 +1,7 @@
+C:\Users\dovin\source\repos\NOTIFY\obj\Debug\MANAFER_NOTIFY.csproj.AssemblyReference.cache
+C:\Users\dovin\source\repos\NOTIFY\obj\Debug\MANAGER.Notify.resources
+C:\Users\dovin\source\repos\NOTIFY\obj\Debug\NOTIFY.Properties.Resources.resources
+C:\Users\dovin\source\repos\NOTIFY\obj\Debug\MANAFER_NOTIFY.csproj.GenerateResource.cache
+C:\Users\dovin\source\repos\NOTIFY\obj\Debug\MANAFER_NOTIFY.csproj.CoreCompileInputs.cache
+C:\Users\dovin\source\repos\NOTIFY\obj\Debug\NOTIFY.exe
+C:\Users\dovin\source\repos\NOTIFY\obj\Debug\NOTIFY.pdb

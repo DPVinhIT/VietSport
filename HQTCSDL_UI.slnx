@@ -1,0 +1,31 @@
+<Solution>
+  <Project Path="../MANAGER/MANAGER.csproj" Id="d9ac646a-b123-45c4-8e5a-1de8eadb70ea" />
+  <Project Path="../MANAGER_APPROVE_REQUEST/MANAGER_APPROVE_REQUEST.csproj" Id="f6d1e8a4-77e3-4bd9-a1cb-eca9efdd2970" />
+  <Project Path="../MANAGER_ASSIGN/MANAGER_ASSIGN.csproj" Id="e90c1021-237f-4418-bdbd-816dc0471121" />
+  <Project Path="../MANAGER_CHANGE/MANAGER_CHANGE.csproj" Id="0df228cf-d85b-4709-8629-5573fa445ee9" />
+  <Project Path="../MANAGER_CREATE_LA/MANAGER_CREATE_LA.csproj" Id="6ba65f04-2e4b-4a62-aa6d-23fb2486a5d0" />
+  <Project Path="../MANAGER_CREATE_RP/MANAGER_CREATE_RP.csproj" Id="ac9fb717-e7a3-48bd-bc84-6c7a141f3f29" />
+  <Project Path="../MANAGER_EMPLOYEES/MANAGER_EMPLOYEES.csproj" Id="8b395b39-8a4e-44fc-b17f-933c4cacddc5" />
+  <Project Path="../MANAGER_LOG/MANAGER_LOG.csproj" Id="3beff920-c8d6-49cb-97d1-026202ac35b8" />
+  <Project Path="../MANAGER_PAYROLL/MANAGER_PAYROLL.csproj" Id="86fd9eee-edea-4c65-8994-76850a5bb223" />
+  <Project Path="../MANAGER_PROFILE/MANAGER_PROFILE.csproj" Id="2aff8225-f4d6-4fe8-a574-196986aa25e9" />
+  <Project Path="../MANAGER_TRACK_SL/MANAGER_TRACK_SL.csproj" Id="ea87643d-a41e-4aca-a189-d391b96f2714" />
+  <Project Path="../MANAGER_TRACK_ST/MANAGER_TRACK_ST.csproj" Id="cd81aeef-8e78-4fe0-9217-24e6ea4212f2" />
+  <Project Path="../MANAGER_VIEW_RP/MANAGER_VIEW_RP.csproj" Id="5e263303-561e-4eed-bd38-1e98f8ab27b6" />
+  <Project Path="../MANAGER_VIEW_SHIFT/MANAGER_VIEW_SHIFT.csproj" Id="51fdcea4-49fb-4be2-8f2f-e611e5e82e8e" />
+  <Project Path="../MANAGER_WORKSCHEDULE/MANAGER_WORKSCHEDULE.csproj" Id="105d463e-be68-4e91-92e8-d02f753b6f9e" />
+  <Project Path="../NOTIFY/MANAGER_NOTIFY.csproj" Id="eedb3568-1642-428c-92a7-04db9f5bc164" />
+  <Project Path="../TECHINICIAN_WORKSCHEDULE/TECHINICIAN_VIEW_MN.csproj" Id="0667a48f-cb3f-41a5-bf7b-a5219e31956f" />
+  <Project Path="../TECHNICIAN/TECHNICIAN.csproj" Id="7e1b9e73-c896-40be-8ab9-dcc08a967a6e" />
+  <Project Path="../TECHNICIAN_CHANGE/TECHNICIAN_CHANGE.csproj" Id="5c12b42a-ca19-4d14-8e16-389692b92ef9" />
+  <Project Path="../TECHNICIAN_CREATE_LA/TECHNICIAN_CREATE_LA.csproj" Id="37235a23-b13e-491c-83c4-aed717af06b9" />
+  <Project Path="../TECHNICIAN_CREATE_RP/TECHNICIAN_CREATE_RP.csproj" Id="90506592-081a-48d9-8050-36d5f8d7ec79" />
+  <Project Path="../TECHNICIAN_LOG/TECHNICIAN_LOG.csproj" Id="b4e62be1-6923-4b2c-80bc-aed716ede73f" />
+  <Project Path="../TECHNICIAN_NOTIFY/TECHNICIAN_NOTIFY.csproj" Id="103a33ac-fc94-4535-ad82-4a8c9f5c6f8b" />
+  <Project Path="../TECHNICIAN_PAYROLL/TECHNICIAN_PAYROLL.csproj" Id="babf4e56-0751-40ab-86e7-c9d9c9d5fc4f" />
+  <Project Path="../TECHNICIAN_PROFILE/TECHNICIAN_PROFILE.csproj" Id="2fd771a4-08b0-48c2-96f7-9643b4253bc3" />
+  <Project Path="../TECHNICIAN_TRACK/TECHNICIAN_TRACK.csproj" Id="d242197c-0d1f-438d-b87e-96c0bca4ee36" />
+  <Project Path="../TECHNICIAN_UPDATE/TECHNICIAN_UPDATE.csproj" Id="2af07219-0212-4456-be5e-050fe63a124d" />
+  <Project Path="../TECHNICIAN_WORKSCHEDULE/TECHNICIAN_WORKSCHEDULE.csproj" Id="aba69c15-35fe-4d1f-90b7-6948ef5e8f81" />
+  <Project Path="LOGIN.csproj" Id="263b56ee-a51c-4b04-a17f-4567add5ae3e" />
+</Solution>

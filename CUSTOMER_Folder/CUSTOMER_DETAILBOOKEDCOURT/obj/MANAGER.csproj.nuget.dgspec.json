@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Dai_Hoc\\3rd year\\HQTCSDL\\Projects\\TTTheThao\\New folder\\CUSTOMER_DETAILBOOKEDCOURT\\MANAGER.csproj": {}
+  },
+  "projects": {
+    "D:\\Dai_Hoc\\3rd year\\HQTCSDL\\Projects\\TTTheThao\\New folder\\CUSTOMER_DETAILBOOKEDCOURT\\MANAGER.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dai_Hoc\\3rd year\\HQTCSDL\\Projects\\TTTheThao\\New folder\\CUSTOMER_DETAILBOOKEDCOURT\\MANAGER.csproj",
+        "projectName": "MANAGER",
+        "projectPath": "D:\\Dai_Hoc\\3rd year\\HQTCSDL\\Projects\\TTTheThao\\New folder\\CUSTOMER_DETAILBOOKEDCOURT\\MANAGER.csproj",
+        "packagesPath": "C:\\Users\\ngoct\\.nuget\\packages\\",
+        "outputPath": "D:\\Dai_Hoc\\3rd year\\HQTCSDL\\Projects\\TTTheThao\\New folder\\CUSTOMER_DETAILBOOKEDCOURT\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ngoct\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "System.Resources.Extensions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

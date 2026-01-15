@@ -1,0 +1,10 @@
+C:\Users\dovin\source\repos\TECHNICIAN_CHANGE\bin\Debug\TECHNICIAN_CHANGE.exe.config
+C:\Users\dovin\source\repos\TECHNICIAN_CHANGE\bin\Debug\TECHNICIAN_CHANGE.exe
+C:\Users\dovin\source\repos\TECHNICIAN_CHANGE\bin\Debug\TECHNICIAN_CHANGE.pdb
+C:\Users\dovin\source\repos\TECHNICIAN_CHANGE\obj\Debug\TECHNICIAN_CHANGE.csproj.AssemblyReference.cache
+C:\Users\dovin\source\repos\TECHNICIAN_CHANGE\obj\Debug\TECHNICIAN_CHANGE.Change_PW.resources
+C:\Users\dovin\source\repos\TECHNICIAN_CHANGE\obj\Debug\TECHNICIAN_CHANGE.Properties.Resources.resources
+C:\Users\dovin\source\repos\TECHNICIAN_CHANGE\obj\Debug\TECHNICIAN_CHANGE.csproj.GenerateResource.cache
+C:\Users\dovin\source\repos\TECHNICIAN_CHANGE\obj\Debug\TECHNICIAN_CHANGE.csproj.CoreCompileInputs.cache
+C:\Users\dovin\source\repos\TECHNICIAN_CHANGE\obj\Debug\TECHNICIAN_CHANGE.exe
+C:\Users\dovin\source\repos\TECHNICIAN_CHANGE\obj\Debug\TECHNICIAN_CHANGE.pdb

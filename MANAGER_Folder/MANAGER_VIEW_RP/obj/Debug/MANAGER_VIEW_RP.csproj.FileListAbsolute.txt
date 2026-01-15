@@ -1,0 +1,10 @@
+C:\Users\dovin\source\repos\MANAGER_VIEW_RP\bin\Debug\MANAGER_VIEW_RP.exe.config
+C:\Users\dovin\source\repos\MANAGER_VIEW_RP\bin\Debug\MANAGER_VIEW_RP.exe
+C:\Users\dovin\source\repos\MANAGER_VIEW_RP\bin\Debug\MANAGER_VIEW_RP.pdb
+C:\Users\dovin\source\repos\MANAGER_VIEW_RP\obj\Debug\MANAGER_VIEW_RP.csproj.AssemblyReference.cache
+C:\Users\dovin\source\repos\MANAGER_VIEW_RP\obj\Debug\MANAGER_VIEW_RP.Properties.Resources.resources
+C:\Users\dovin\source\repos\MANAGER_VIEW_RP\obj\Debug\MANAGER_VIEW_RP.View_RP.resources
+C:\Users\dovin\source\repos\MANAGER_VIEW_RP\obj\Debug\MANAGER_VIEW_RP.csproj.GenerateResource.cache
+C:\Users\dovin\source\repos\MANAGER_VIEW_RP\obj\Debug\MANAGER_VIEW_RP.csproj.CoreCompileInputs.cache
+C:\Users\dovin\source\repos\MANAGER_VIEW_RP\obj\Debug\MANAGER_VIEW_RP.exe
+C:\Users\dovin\source\repos\MANAGER_VIEW_RP\obj\Debug\MANAGER_VIEW_RP.pdb

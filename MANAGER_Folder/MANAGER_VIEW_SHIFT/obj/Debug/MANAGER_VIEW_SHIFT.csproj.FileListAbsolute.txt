@@ -1,0 +1,10 @@
+C:\Users\dovin\source\repos\MANAGER_VIEW_SHIFT\bin\Debug\MANAGER_VIEW_SHIFT.exe.config
+C:\Users\dovin\source\repos\MANAGER_VIEW_SHIFT\bin\Debug\MANAGER_VIEW_SHIFT.exe
+C:\Users\dovin\source\repos\MANAGER_VIEW_SHIFT\bin\Debug\MANAGER_VIEW_SHIFT.pdb
+C:\Users\dovin\source\repos\MANAGER_VIEW_SHIFT\obj\Debug\MANAGER_VIEW_SHIFT.csproj.AssemblyReference.cache
+C:\Users\dovin\source\repos\MANAGER_VIEW_SHIFT\obj\Debug\MANAGER_VIEW_SHIFT.Properties.Resources.resources
+C:\Users\dovin\source\repos\MANAGER_VIEW_SHIFT\obj\Debug\MANAGER_VIEW_SHIFT.View_Shift.resources
+C:\Users\dovin\source\repos\MANAGER_VIEW_SHIFT\obj\Debug\MANAGER_VIEW_SHIFT.csproj.GenerateResource.cache
+C:\Users\dovin\source\repos\MANAGER_VIEW_SHIFT\obj\Debug\MANAGER_VIEW_SHIFT.csproj.CoreCompileInputs.cache
+C:\Users\dovin\source\repos\MANAGER_VIEW_SHIFT\obj\Debug\MANAGER_VIEW_SHIFT.exe
+C:\Users\dovin\source\repos\MANAGER_VIEW_SHIFT\obj\Debug\MANAGER_VIEW_SHIFT.pdb

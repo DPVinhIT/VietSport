@@ -1,0 +1,10 @@
+C:\Users\dovin\source\repos\TECHNICIAN_NOTIFY\bin\Debug\TECHNICIAN_NOTIFY.exe.config
+C:\Users\dovin\source\repos\TECHNICIAN_NOTIFY\bin\Debug\TECHNICIAN_NOTIFY.exe
+C:\Users\dovin\source\repos\TECHNICIAN_NOTIFY\bin\Debug\TECHNICIAN_NOTIFY.pdb
+C:\Users\dovin\source\repos\TECHNICIAN_NOTIFY\obj\Debug\TECHNICIAN_NOTIFY.csproj.AssemblyReference.cache
+C:\Users\dovin\source\repos\TECHNICIAN_NOTIFY\obj\Debug\TECHNICIAN_NOTIFY.Notify.resources
+C:\Users\dovin\source\repos\TECHNICIAN_NOTIFY\obj\Debug\TECHNICIAN_NOTIFY.Properties.Resources.resources
+C:\Users\dovin\source\repos\TECHNICIAN_NOTIFY\obj\Debug\TECHNICIAN_NOTIFY.csproj.GenerateResource.cache
+C:\Users\dovin\source\repos\TECHNICIAN_NOTIFY\obj\Debug\TECHNICIAN_NOTIFY.csproj.CoreCompileInputs.cache
+C:\Users\dovin\source\repos\TECHNICIAN_NOTIFY\obj\Debug\TECHNICIAN_NOTIFY.exe
+C:\Users\dovin\source\repos\TECHNICIAN_NOTIFY\obj\Debug\TECHNICIAN_NOTIFY.pdb

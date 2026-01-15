@@ -1,0 +1,10 @@
+C:\Users\dovin\source\repos\MANAGER\obj\Debug\MANAGER.csproj.AssemblyReference.cache
+C:\Users\dovin\source\repos\MANAGER\obj\Debug\HQTCSDL_UI.Manager.resources
+C:\Users\dovin\source\repos\MANAGER\obj\Debug\MANAGER.Properties.Resources.resources
+C:\Users\dovin\source\repos\MANAGER\obj\Debug\MANAGER.csproj.GenerateResource.cache
+C:\Users\dovin\source\repos\MANAGER\obj\Debug\MANAGER.csproj.CoreCompileInputs.cache
+C:\Users\dovin\source\repos\MANAGER\bin\Debug\MANAGER.exe.config
+C:\Users\dovin\source\repos\MANAGER\bin\Debug\MANAGER.exe
+C:\Users\dovin\source\repos\MANAGER\bin\Debug\MANAGER.pdb
+C:\Users\dovin\source\repos\MANAGER\obj\Debug\MANAGER.exe
+C:\Users\dovin\source\repos\MANAGER\obj\Debug\MANAGER.pdb

@@ -1,0 +1,10 @@
+C:\Users\dovin\source\repos\TECHNICIAN_PAYROLL\bin\Debug\TECHNICIAN_PAYROLL.exe.config
+C:\Users\dovin\source\repos\TECHNICIAN_PAYROLL\bin\Debug\TECHNICIAN_PAYROLL.exe
+C:\Users\dovin\source\repos\TECHNICIAN_PAYROLL\bin\Debug\TECHNICIAN_PAYROLL.pdb
+C:\Users\dovin\source\repos\TECHNICIAN_PAYROLL\obj\Debug\TECHNICIAN_PAYROLL.csproj.AssemblyReference.cache
+C:\Users\dovin\source\repos\TECHNICIAN_PAYROLL\obj\Debug\TECHNICIAN_PAYROLL.Payroll.resources
+C:\Users\dovin\source\repos\TECHNICIAN_PAYROLL\obj\Debug\TECHNICIAN_PAYROLL.Properties.Resources.resources
+C:\Users\dovin\source\repos\TECHNICIAN_PAYROLL\obj\Debug\TECHNICIAN_PAYROLL.csproj.GenerateResource.cache
+C:\Users\dovin\source\repos\TECHNICIAN_PAYROLL\obj\Debug\TECHNICIAN_PAYROLL.csproj.CoreCompileInputs.cache
+C:\Users\dovin\source\repos\TECHNICIAN_PAYROLL\obj\Debug\TECHNICIAN_PAYROLL.exe
+C:\Users\dovin\source\repos\TECHNICIAN_PAYROLL\obj\Debug\TECHNICIAN_PAYROLL.pdb

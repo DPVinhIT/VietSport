@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEADLINE\\HQTCSDL\\HQTCSDL_UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{860B8149-202E-5C10-5904-1EF588F16756}|CASHIER_Folder\\CASHIER\\CASHIER.csproj|d:\\deadline\\hqtcsdl\\hqtcsdl_ui\\cashier_folder\\cashier\\cashier_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{860B8149-202E-5C10-5904-1EF588F16756}|CASHIER_Folder\\CASHIER\\CASHIER.csproj|solutionrelative:cashier_folder\\cashier\\cashier_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860B8149-202E-5C10-5904-1EF588F16756}|CASHIER_Folder\\CASHIER\\CASHIER.csproj|d:\\deadline\\hqtcsdl\\hqtcsdl_ui\\cashier_folder\\cashier\\cashier_paymentgenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860B8149-202E-5C10-5904-1EF588F16756}|CASHIER_Folder\\CASHIER\\CASHIER.csproj|solutionrelative:cashier_folder\\cashier\\cashier_paymentgenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860B8149-202E-5C10-5904-1EF588F16756}|CASHIER_Folder\\CASHIER\\CASHIER.csproj|d:\\deadline\\hqtcsdl\\hqtcsdl_ui\\cashier_folder\\cashier\\cashier_checkpaymentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860B8149-202E-5C10-5904-1EF588F16756}|CASHIER_Folder\\CASHIER\\CASHIER.csproj|solutionrelative:cashier_folder\\cashier\\cashier_checkpaymentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860B8149-202E-5C10-5904-1EF588F16756}|CASHIER_Folder\\CASHIER\\CASHIER.csproj|d:\\deadline\\hqtcsdl\\hqtcsdl_ui\\cashier_folder\\cashier\\cashier_checkpaymentdl.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860B8149-202E-5C10-5904-1EF588F16756}|CASHIER_Folder\\CASHIER\\CASHIER.csproj|solutionrelative:cashier_folder\\cashier\\cashier_checkpaymentdl.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860B8149-202E-5C10-5904-1EF588F16756}|CASHIER_Folder\\CASHIER\\CASHIER.csproj|d:\\deadline\\hqtcsdl\\hqtcsdl_ui\\cashier_folder\\cashier\\cashier_paymentrt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{860B8149-202E-5C10-5904-1EF588F16756}|CASHIER_Folder\\CASHIER\\CASHIER.csproj|solutionrelative:cashier_folder\\cashier\\cashier_paymentrt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860B8149-202E-5C10-5904-1EF588F16756}|CASHIER_Folder\\CASHIER\\CASHIER.csproj|d:\\deadline\\hqtcsdl\\hqtcsdl_ui\\cashier_folder\\cashier\\cashier_cancellationfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{860B8149-202E-5C10-5904-1EF588F16756}|CASHIER_Folder\\CASHIER\\CASHIER.csproj|solutionrelative:cashier_folder\\cashier\\cashier_cancellationfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860B8149-202E-5C10-5904-1EF588F16756}|CASHIER_Folder\\CASHIER\\CASHIER.csproj|d:\\deadline\\hqtcsdl\\hqtcsdl_ui\\cashier_folder\\cashier\\cashier_cancellationfee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860B8149-202E-5C10-5904-1EF588F16756}|CASHIER_Folder\\CASHIER\\CASHIER.csproj|solutionrelative:cashier_folder\\cashier\\cashier_cancellationfee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860B8149-202E-5C10-5904-1EF588F16756}|CASHIER_Folder\\CASHIER\\CASHIER.csproj|d:\\deadline\\hqtcsdl\\hqtcsdl_ui\\cashier_folder\\cashier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860B8149-202E-5C10-5904-1EF588F16756}|CASHIER_Folder\\CASHIER\\CASHIER.csproj|solutionrelative:cashier_folder\\cashier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860B8149-202E-5C10-5904-1EF588F16756}|CASHIER_Folder\\CASHIER\\CASHIER.csproj|d:\\deadline\\hqtcsdl\\hqtcsdl_ui\\cashier_folder\\cashier\\cashier_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860B8149-202E-5C10-5904-1EF588F16756}|CASHIER_Folder\\CASHIER\\CASHIER.csproj|solutionrelative:cashier_folder\\cashier\\cashier_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860B8149-202E-5C10-5904-1EF588F16756}|CASHIER_Folder\\CASHIER\\CASHIER.csproj|d:\\deadline\\hqtcsdl\\hqtcsdl_ui\\cashier_folder\\cashier\\cashier_main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860B8149-202E-5C10-5904-1EF588F16756}|CASHIER_Folder\\CASHIER\\CASHIER.csproj|solutionrelative:cashier_folder\\cashier\\cashier_main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A669C4-E51C-830C-77A8-CC2AE9B2CDA6}|RECEPTIONIST_Folder\\RECEPTIONIST_COURT\\MANAGER.csproj|d:\\deadline\\hqtcsdl\\hqtcsdl_ui\\receptionist_folder\\receptionist_court\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8A669C4-E51C-830C-77A8-CC2AE9B2CDA6}|RECEPTIONIST_Folder\\RECEPTIONIST_COURT\\MANAGER.csproj|solutionrelative:receptionist_folder\\receptionist_court\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860B8149-202E-5C10-5904-1EF588F16756}|CASHIER_Folder\\CASHIER\\CASHIER.csproj|d:\\deadline\\hqtcsdl\\hqtcsdl_ui\\cashier_folder\\cashier\\cashier_invoicecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860B8149-202E-5C10-5904-1EF588F16756}|CASHIER_Folder\\CASHIER\\CASHIER.csproj|solutionrelative:cashier_folder\\cashier\\cashier_invoicecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860B8149-202E-5C10-5904-1EF588F16756}|CASHIER_Folder\\CASHIER\\CASHIER.csproj|d:\\deadline\\hqtcsdl\\hqtcsdl_ui\\cashier_folder\\cashier\\cashier_invoicediscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860B8149-202E-5C10-5904-1EF588F16756}|CASHIER_Folder\\CASHIER\\CASHIER.csproj|solutionrelative:cashier_folder\\cashier\\cashier_invoicediscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860B8149-202E-5C10-5904-1EF588F16756}|CASHIER_Folder\\CASHIER\\CASHIER.csproj|d:\\deadline\\hqtcsdl\\hqtcsdl_ui\\cashier_folder\\cashier\\cashier_invoicediscount.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860B8149-202E-5C10-5904-1EF588F16756}|CASHIER_Folder\\CASHIER\\CASHIER.csproj|solutionrelative:cashier_folder\\cashier\\cashier_invoicediscount.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cashier_CheckPaymentDL.cs",
+              "DocumentMoniker": "D:\\DEADLINE\\HQTCSDL\\HQTCSDL_UI\\CASHIER_Folder\\CASHIER\\Cashier_CheckPaymentDL.cs",
+              "RelativeDocumentMoniker": "CASHIER_Folder\\CASHIER\\Cashier_CheckPaymentDL.cs",
+              "ToolTip": "D:\\DEADLINE\\HQTCSDL\\HQTCSDL_UI\\CASHIER_Folder\\CASHIER\\Cashier_CheckPaymentDL.cs",
+              "RelativeToolTip": "CASHIER_Folder\\CASHIER\\Cashier_CheckPaymentDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T01:49:36.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cashier_CheckPaymentDL.Designer.cs",
+              "DocumentMoniker": "D:\\DEADLINE\\HQTCSDL\\HQTCSDL_UI\\CASHIER_Folder\\CASHIER\\Cashier_CheckPaymentDL.Designer.cs",
+              "RelativeDocumentMoniker": "CASHIER_Folder\\CASHIER\\Cashier_CheckPaymentDL.Designer.cs",
+              "ToolTip": "D:\\DEADLINE\\HQTCSDL\\HQTCSDL_UI\\CASHIER_Folder\\CASHIER\\Cashier_CheckPaymentDL.Designer.cs",
+              "RelativeToolTip": "CASHIER_Folder\\CASHIER\\Cashier_CheckPaymentDL.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T01:49:32.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cashier_PaymentRT.cs [Design]",
+              "DocumentMoniker": "D:\\DEADLINE\\HQTCSDL\\HQTCSDL_UI\\CASHIER_Folder\\CASHIER\\Cashier_PaymentRT.cs",
+              "RelativeDocumentMoniker": "CASHIER_Folder\\CASHIER\\Cashier_PaymentRT.cs",
+              "ToolTip": "D:\\DEADLINE\\HQTCSDL\\HQTCSDL_UI\\CASHIER_Folder\\CASHIER\\Cashier_PaymentRT.cs [Design]",
+              "RelativeToolTip": "CASHIER_Folder\\CASHIER\\Cashier_PaymentRT.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T01:49:19.32Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cashier_PaymentGenerate.cs",
+              "DocumentMoniker": "D:\\DEADLINE\\HQTCSDL\\HQTCSDL_UI\\CASHIER_Folder\\CASHIER\\Cashier_PaymentGenerate.cs",
+              "RelativeDocumentMoniker": "CASHIER_Folder\\CASHIER\\Cashier_PaymentGenerate.cs",
+              "ToolTip": "D:\\DEADLINE\\HQTCSDL\\HQTCSDL_UI\\CASHIER_Folder\\CASHIER\\Cashier_PaymentGenerate.cs",
+              "RelativeToolTip": "CASHIER_Folder\\CASHIER\\Cashier_PaymentGenerate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T01:49:14.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cashier_InvoiceDiscount.Designer.cs",
+              "DocumentMoniker": "D:\\DEADLINE\\HQTCSDL\\HQTCSDL_UI\\CASHIER_Folder\\CASHIER\\Cashier_InvoiceDiscount.Designer.cs",
+              "RelativeDocumentMoniker": "CASHIER_Folder\\CASHIER\\Cashier_InvoiceDiscount.Designer.cs",
+              "ToolTip": "D:\\DEADLINE\\HQTCSDL\\HQTCSDL_UI\\CASHIER_Folder\\CASHIER\\Cashier_InvoiceDiscount.Designer.cs",
+              "RelativeToolTip": "CASHIER_Folder\\CASHIER\\Cashier_InvoiceDiscount.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T01:48:56.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cashier_CancellationFee.cs [Design]",
+              "DocumentMoniker": "D:\\DEADLINE\\HQTCSDL\\HQTCSDL_UI\\CASHIER_Folder\\CASHIER\\Cashier_CancellationFee.cs",
+              "RelativeDocumentMoniker": "CASHIER_Folder\\CASHIER\\Cashier_CancellationFee.cs",
+              "ToolTip": "D:\\DEADLINE\\HQTCSDL\\HQTCSDL_UI\\CASHIER_Folder\\CASHIER\\Cashier_CancellationFee.cs [Design]",
+              "RelativeToolTip": "CASHIER_Folder\\CASHIER\\Cashier_CancellationFee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T01:48:36.527Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cashier_InvoiceDiscount.cs",
+              "DocumentMoniker": "D:\\DEADLINE\\HQTCSDL\\HQTCSDL_UI\\CASHIER_Folder\\CASHIER\\Cashier_InvoiceDiscount.cs",
+              "RelativeDocumentMoniker": "CASHIER_Folder\\CASHIER\\Cashier_InvoiceDiscount.cs",
+              "ToolTip": "D:\\DEADLINE\\HQTCSDL\\HQTCSDL_UI\\CASHIER_Folder\\CASHIER\\Cashier_InvoiceDiscount.cs",
+              "RelativeToolTip": "CASHIER_Folder\\CASHIER\\Cashier_InvoiceDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T01:48:10.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cashier_CancellationFee.Designer.cs",
+              "DocumentMoniker": "D:\\DEADLINE\\HQTCSDL\\HQTCSDL_UI\\CASHIER_Folder\\CASHIER\\Cashier_CancellationFee.Designer.cs",
+              "RelativeDocumentMoniker": "CASHIER_Folder\\CASHIER\\Cashier_CancellationFee.Designer.cs",
+              "ToolTip": "D:\\DEADLINE\\HQTCSDL\\HQTCSDL_UI\\CASHIER_Folder\\CASHIER\\Cashier_CancellationFee.Designer.cs",
+              "RelativeToolTip": "CASHIER_Folder\\CASHIER\\Cashier_CancellationFee.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T01:47:46.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cashier_InvoiceCreate.cs",
+              "DocumentMoniker": "D:\\DEADLINE\\HQTCSDL\\HQTCSDL_UI\\CASHIER_Folder\\CASHIER\\Cashier_InvoiceCreate.cs",
+              "RelativeDocumentMoniker": "CASHIER_Folder\\CASHIER\\Cashier_InvoiceCreate.cs",
+              "ToolTip": "D:\\DEADLINE\\HQTCSDL\\HQTCSDL_UI\\CASHIER_Folder\\CASHIER\\Cashier_InvoiceCreate.cs",
+              "RelativeToolTip": "CASHIER_Folder\\CASHIER\\Cashier_InvoiceCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T01:36:54.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEADLINE\\HQTCSDL\\HQTCSDL_UI\\CASHIER_Folder\\CASHIER\\Program.cs",
+              "RelativeDocumentMoniker": "CASHIER_Folder\\CASHIER\\Program.cs",
+              "ToolTip": "D:\\DEADLINE\\HQTCSDL\\HQTCSDL_UI\\CASHIER_Folder\\CASHIER\\Program.cs",
+              "RelativeToolTip": "CASHIER_Folder\\CASHIER\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T01:31:00.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cashier_Main.cs [Design]",
+              "DocumentMoniker": "D:\\DEADLINE\\HQTCSDL\\HQTCSDL_UI\\CASHIER_Folder\\CASHIER\\Cashier_Main.cs",
+              "RelativeDocumentMoniker": "CASHIER_Folder\\CASHIER\\Cashier_Main.cs",
+              "ToolTip": "D:\\DEADLINE\\HQTCSDL\\HQTCSDL_UI\\CASHIER_Folder\\CASHIER\\Cashier_Main.cs [Design]",
+              "RelativeToolTip": "CASHIER_Folder\\CASHIER\\Cashier_Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T01:14:26.728Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cashier_Main.Designer.cs",
+              "DocumentMoniker": "D:\\DEADLINE\\HQTCSDL\\HQTCSDL_UI\\CASHIER_Folder\\CASHIER\\Cashier_Main.Designer.cs",
+              "RelativeDocumentMoniker": "CASHIER_Folder\\CASHIER\\Cashier_Main.Designer.cs",
+              "ToolTip": "D:\\DEADLINE\\HQTCSDL\\HQTCSDL_UI\\CASHIER_Folder\\CASHIER\\Cashier_Main.Designer.cs",
+              "RelativeToolTip": "CASHIER_Folder\\CASHIER\\Cashier_Main.Designer.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowCYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T01:13:39.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cashier_Main.cs",
+              "DocumentMoniker": "D:\\DEADLINE\\HQTCSDL\\HQTCSDL_UI\\CASHIER_Folder\\CASHIER\\Cashier_Main.cs",
+              "RelativeDocumentMoniker": "CASHIER_Folder\\CASHIER\\Cashier_Main.cs",
+              "ToolTip": "D:\\DEADLINE\\HQTCSDL\\HQTCSDL_UI\\CASHIER_Folder\\CASHIER\\Cashier_Main.cs",
+              "RelativeToolTip": "CASHIER_Folder\\CASHIER\\Cashier_Main.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAtwGwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T01:12:41.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Manager.cs [Design]",
+              "DocumentMoniker": "D:\\DEADLINE\\HQTCSDL\\HQTCSDL_UI\\RECEPTIONIST_Folder\\RECEPTIONIST_COURT\\Manager.cs",
+              "RelativeDocumentMoniker": "RECEPTIONIST_Folder\\RECEPTIONIST_COURT\\Manager.cs",
+              "ToolTip": "D:\\DEADLINE\\HQTCSDL\\HQTCSDL_UI\\RECEPTIONIST_Folder\\RECEPTIONIST_COURT\\Manager.cs [Design]",
+              "RelativeToolTip": "RECEPTIONIST_Folder\\RECEPTIONIST_COURT\\Manager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T12:17:34.283Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

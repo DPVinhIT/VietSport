@@ -1,0 +1,165 @@
+﻿using System;
+using System.Data;
+using System.Data.SqlClient;
+using System.Windows.Forms;
+
+namespace HQTCSDL_UI
+{
+    public partial class Cashier_InvoiceCreate : Form
+    {
+        private string _cashierID;
+        private string connectionString = "Server=YOUR_SERVER;Database=VIET_SPORT;Integrated Security=true;";
+
+        public Cashier_InvoiceCreate(string cashierID)
+        {
+            InitializeComponent();
+            _cashierID = cashierID;
+            LoadBookingList();
+        }
+
+        private void LoadBookingList()
+        {
+            try
+            {
+                using (SqlConnection conn = new SqlConnection(connectionString))
+                {
+                    SqlCommand cmd = new SqlCommand("sp_Cashier_GetPendingPayments", conn);
+                    cmd.CommandType = CommandType.StoredProcedure;
+                    cmd.Parameters.AddWithValue("@CenterID", DBNull.Value);
+
+                    SqlDataAdapter adapter = new SqlDataAdapter(cmd);
+                    DataTable dt = new DataTable();
+                    adapter.Fill(dt);
+
+                    dgvBookings.DataSource = dt;
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Lỗi tải danh sách: " + ex.Message, "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void btnSearch_Click(object sender, EventArgs e)
+        {
+            string bookingID = txtBookingID.Text.Trim();
+            if (string.IsNullOrEmpty(bookingID))
+            {
+                LoadBookingList();
+                return;
+            }
+
+            try
+            {
+                using (SqlConnection conn = new SqlConnection(connectionString))
+                {
+                    SqlCommand cmd = new SqlCommand("sp_Cashier_GeneratePayment", conn);
+                    cmd.CommandType = CommandType.StoredProcedure;
+                    cmd.Parameters.AddWithValue("@BookingID", bookingID);
+
+                    SqlDataAdapter adapter = new SqlDataAdapter(cmd);
+                    DataTable dt = new DataTable();
+                    adapter.Fill(dt);
+
+                    if (dt.Rows.Count > 0)
+                    {
+                        txtBookingID.Text = dt.Rows[0]["BookingID"].ToString();
+                        txtCourtID.Text = dt.Rows[0]["CourtID"].ToString();
+                        txtCustomerName.Text = dt.Rows[0]["CustomerName"].ToString();
+                        txtTotalPrice.Text = dt.Rows[0]["TotalPrice"].ToString();
+                    }
+                    else
+                    {
+                        MessageBox.Show("Không tìm thấy booking!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Lỗi tìm kiếm: " + ex.Message, "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void btnCreateInvoice_Click(object sender, EventArgs e)
+        {
+            string invoiceID = "INV" + DateTime.Now.ToString("yyyyMMddHHmmss");
+            string bookingID = txtBookingID.Text.Trim();
+            string discountID = string.IsNullOrEmpty(txtDiscountID.Text.Trim()) ? null : txtDiscountID.Text.Trim();
+            string paymentMethod = cboPaymentMethod.Text;
+
+            if (string.IsNullOrEmpty(bookingID) || string.IsNullOrEmpty(paymentMethod))
+            {
+                MessageBox.Show("Vui lòng nhập đầy đủ thông tin!", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            try
+            {
+                using (SqlConnection conn = new SqlConnection(connectionString))
+                {
+                    SqlCommand cmd = new SqlCommand("sp_Cashier_CreateInvoice", conn);
+                    cmd.CommandType = CommandType.StoredProcedure;
+                    cmd.Parameters.AddWithValue("@InvoiceID", invoiceID);
+                    cmd.Parameters.AddWithValue("@BookingID", bookingID);
+                    cmd.Parameters.AddWithValue("@DiscountID", (object)discountID ?? DBNull.Value);
+                    cmd.Parameters.AddWithValue("@PaymentMethod", paymentMethod);
+                    cmd.Parameters.AddWithValue("@CashierID", _cashierID);
+
+                    SqlDataAdapter adapter = new SqlDataAdapter(cmd);
+                    DataTable result = new DataTable();
+                    adapter.Fill(result);
+
+                    if (result.Rows.Count > 0)
+                    {
+                        int resultCode = Convert.ToInt32(result.Rows[0]["Result"]);
+                        string message = result.Rows[0]["Message"].ToString();
+                        decimal totalPrice = Convert.ToDecimal(result.Rows[0]["TotalPrice"]);
+
+                        if (resultCode == 1)
+                        {
+                            MessageBox.Show($"{message}\nMã hóa đơn: {invoiceID}\nTổng tiền: {totalPrice:N0} VNĐ", 
+                                "Thành công", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                            ClearForm();
+                            LoadBookingList();
+                        }
+                        else
+                        {
+                            MessageBox.Show(message, "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        }
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Lỗi tạo hóa đơn: " + ex.Message, "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void btnClear_Click(object sender, EventArgs e)
+        {
+            ClearForm();
+        }
+
+        private void ClearForm()
+        {
+            txtBookingID.Clear();
+            txtCourtID.Clear();
+            txtCustomerName.Clear();
+            txtDiscountID.Clear();
+            txtTotalPrice.Clear();
+            cboPaymentMethod.SelectedIndex = -1;
+        }
+
+        private void dgvBookings_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if (e.RowIndex >= 0)
+            {
+                DataGridViewRow row = dgvBookings.Rows[e.RowIndex];
+                txtBookingID.Text = row.Cells["BookingID"].Value.ToString();
+                txtCourtID.Text = row.Cells["CourtID"].Value.ToString();
+                txtCustomerName.Text = row.Cells["CustomerName"].Value.ToString();
+                txtTotalPrice.Text = row.Cells["EstimatedPrice"].Value.ToString();
+            }
+        }
+    }
+}
